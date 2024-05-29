@@ -1,0 +1,674 @@
+example_id,label,id,article_id,statement,qa_answer
+DS-1,Đúng,"Luật Phòng, chống ma túy",32,"Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc theo quy định của Luật Xử lý vi phạm hành chính khi bị phát hiện sử dụng chất ma túy một cách trái phép trong thời gian cai nghiện ma túy tự nguyện, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 32 Luật Phòng, chống ma túy
+Đưa ra suy luận của bạn: Người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc nếu họ không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy tự nguyện hoặc trong thời gian cai nghiện ma túy tự nguyện bị phát hiện sử dụng trái phép chất ma túy.
+kết luận: Đúng, người nghiện ma túy từ đủ 18 tuổi trở lên bị áp dụng biện pháp xử lý hành chính đưa vào cơ sở cai nghiện bắt buộc nếu họ bị phát hiện sử dụng chất ma túy một cách trái phép trong thời gian cai nghiện ma túy tự nguyện. "
+DS-2,Đúng,Luật Hôn nhân và gia đình,3,"Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ hôn nhân và gia đình mà ít nhất một bên tham gia là người nước ngoài, người Việt Nam định cư ở nước ngoài, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 3 Luật Hôn nhân và gia đình: 25. Quan hệ hôn nhân và gia đình có yếu tố nước ngoài là quan hệ hôn nhân và gia đình mà ít nhất một bên tham gia là người nước ngoài, người Việt Nam định cư ở nước ngoài; quan hệ hôn nhân và gia đình giữa các bên tham gia là công dân Việt Nam nhưng căn cứ để xác lập, thay đổi, chấm dứt quan hệ đó theo pháp luật nước ngoài, phát sinh tại nước ngoài hoặc tài sản liên quan đến quan hệ đó ở nước ngoài.
+
+Suy luận: Theo Điều 3 Luật Hôn nhân và Gia đình, quan hệ hôn nhân và gia đình có yếu tố nước ngoài bao gồm cả hai tình huống khi ít nhất một bên tham gia là người nước ngoài hoặc người Việt Nam định cư ở nước ngoài.
+
+Kết luận: Đúng, tuyên bố rằng ""Quan hệ hôn nhân và gia đình có yếu"
+DS-3,Đúng,Luật Cư trú,38,"Trường hợp thông tin trong Sổ hộ khẩu còn hiệu lực có thông tin khác với thông tin trong Cơ sở dữ liệu về cư trú thì sử dụng thông tin trong Cơ sở dữ liệu về cư trú, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 38 Luật Cư trú: Trường hợp thông tin trong Sổ hộ khẩu, Sổ tạm trú khác với thông tin trong Cơ sở dữ liệu về cư trú thì sử dụng thông tin trong Cơ sở dữ liệu về cư trú.
+
+Suy luận: Khi công dân thực hiện các thủ tục đăng ký cư trú dẫn đến thay đổi thông tin trong Sổ hộ khẩu, Sổ tạm trú thì cơ quan đăng ký cư trú có trách nhiệm thu hồi Sổ hộ khẩu, Sổ tạm trú đã cấp, thực hiện điều chỉnh, cập nhật thông tin trong Cơ sở dữ liệu về cư trú theo quy định của Luật này và không cấp mới, cấp lại Sổ hộ khẩu, Sổ tạm trú.
+
+Kết luận: Đúng, khi thông tin trong Sổ hộ khẩu còn hiệu lực có thông tin khác với thông tin trong Cơ sở dữ liệu về cư trú thì sử dụng thông tin trong Cơ sở dữ liệu về cư trú. "
+DS-4,Sai,Luật Du lịch,39,"Theo Luật Du Lịch, hợp đồng lữ hành không cần phải được lập thành văn bản. Đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 39 Luật Du lịch: text: Hợp đồng lữ hành
+1. Hợp đồng lữ hành là sự thỏa thuận việc thực hiện chương trình du lịch giữa doanh nghiệp kinh doanh dịch vụ lữ hành với doanh nghiệp, khách du lịch hoặc đại diện của khách du lịch.
+2. Hợp đồng lữ hành phải được lập thành văn bản.
+
+Đưa ra suy luận của bạn: Dựa vào Điều 39 Luật Du lịch, hợp đồng lữ hành phải được lập thành văn bản.
+kết luận: Câu trả lời là ""sai"" vì dựa trên Điều 39 Luật Du lịch, hợp đồng lữ hành phải được lập thành văn bản. "
+DS-5,Đúng,Luật Trọng tài thương mại,3,"""Trọng tại thương mại"" là phương thức giải quyết tranh chấp do các bên thỏa thuận và được tiến hành theo quy định của Luật Trọng tài Thương mại.","
+Câu trả lời: Trích lại Điều 3 Luật Trọng tài thương mại: text: Giải thích từ ngữ
+
+Suy luận: Theo Điều 3 Luật Trọng tài thương mại, Trọng tài thương mại là phương thức giải quyết tranh chấp do các bên thỏa thuận và được tiến hành theo quy định của Luật này.
+
+Kết luận: Đúng vậy, tuyên bố rằng ""Trọng tài thương mại"" là phương thức giải quyết tranh chấp do các bên thỏa thuận và được tiến hành theo quy định của Luật Trọng tài thương mại là đúng. "
+DS-6,Sai,Luật Trọng tài thương mại,18,"Thỏa thuận trọng tài vô hiệu khi người xác lập thoả thuận trọng tài không có năng lực hành vi dân sự theo quy định của Bộ luật hình sự, đúng hay sai?","
+Câu trả lời mẫu:
+Trích lại điều luật: Điều 18 Luật Trọng tài thương mại: text: Thoả thuận trọng tài vô hiệu
+
+Đưa ra suy luận của bạn: Theo Điều 18 Luật Trọng tài thương mại, thoả thuận trọng tài sẽ vô hiệu nếu người xác lập thoả thuận trọng tài không có năng lực hành vi dân sự theo quy định của Bộ luật dân sự.
+
+kết luận: Đúng, thoả thuận trọng tài sẽ vô hiệu nếu người xác lập thoả thuận trọng tài không có năng lực hành vi dân sự theo quy định của Bộ luật dân sự. "
+DS-7,Đúng,Luật Hôn nhân và gia đình,24,"Chồng có thể uỷ quyền cho vợ xác lập, thực hiện và chấm dứt giao dịch theo quy định của Luật hôn nhân và gia đình, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 24 Luật Hôn nhân và gia đình
+Đưa ra suy luận của bạn: Theo Điều 24 Luật Hôn nhân và Gia đình, vợ chồng có thể ủy quyền cho nhau xác lập, thực hiện và chấm dứt giao dịch mà theo quy định của Luật này, Bộ luật Dân sự và các luật khác có liên quan phải có sự đồng ý của cả hai vợ chồng.
+kết luận: Đúng, chồng có thể uỷ quyền cho vợ xác lập, thực hiện và chấm dứt giao dịch theo quy định của Luật hôn nhân và gia đình. "
+DS-8,Đúng,Luật Viên chức,29,"Trong trường hợp không được bố trí theo đúng vị trí việc làm, viên chức có quyền đơn phương chấm dứt hợp đồng làm việc có xác định thời hạn là đúng hay sai? ","
+Ví dụ:
+Trích lại điều luật: Điều 29 Luật Viên chức: 5. Viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng trong các trường hợp sau:
+
+a) Không được bố trí theo đúng vị trí việc làm, địa điểm làm việc hoặc không được bảo đảm các điều kiện làm việc đã thỏa thuận trong hợp đồng làm việc;
+
+Suy luận: Theo Điều 29 Luật Viên chức, viên chức làm việc theo hợp đồng làm việc xác định thời hạn có quyền đơn phương chấm dứt hợp đồng trong trường hợp không được bố trí theo đúng vị trí việc làm.
+
+Kết luận: Đúng, trong trường hợp không được bố trí theo đúng vị trí việc làm, viên chức có quyền đơn phương chấm dứt hợp đồng làm việc có xác định thời hạn. "
+DS-9,Sai,Luật Hôn nhân và gia đình,33,"Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của vợ chồng, kể cả trong trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng, đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 33 Luật Hôn nhân và Gia đình: text: Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của vợ chồng, trừ trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng hoặc có được thông qua giao dịch bằng tài sản riêng.
+
+Suy luận: Theo điều luật này, quyền sử dụng đất mà vợ chồng có được sau khi kết hôn sẽ được xem xét là tài sản chung của vợ chồng, bất kể nguồn gốc của nó (thừa kế riêng, tặng cho riêng, hoặc thông qua giao dịch bằng tài sản riêng).
+
+Kết luận: Đúng, tuyên bố ""Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của vợ chồng, kể cả trong trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng, hoặc có được thông qua giao dịch bằng tài sản riêng"" là"
+DS-10,Đúng,Luật Hôn nhân và gia đình,3,Việc sinh con bằng kỹ thuật hỗ trợ sinh sản là hành vi trong đó con người sử dụng phương pháp nhân tạo thụ tinh hoặc thụ tinh trong ống nghiệm để sinh con.,"
+Ví dụ:
+Trích lại điều luật: Điều 3 Luật Hôn nhân và gia đình: 23. Mang thai hộ vì mục đích thương mại là việc một người phụ nữ mang thai cho người khác bằng việc áp dụng kỹ thuật hỗ trợ sinh sản để được hưởng lợi về kinh tế hoặc lợi ích khác.
+Đưa ra suy luận của bạn: Theo điều luật này, mang thai hộ vì mục đích thương mại bao gồm việc một người phụ nữ mang thai cho người khác bằng cách áp dụng các biện pháp hỗ trợ sinh sản để đổi lấy lợi ích tài chính hoặc phi tiền tệ.
+kết luận: Đúng, tuyên bố của người dùng mô tả chính xác khái niệm mang thai hộ vì mục đích thương mại như đã nêu trong điều luật. "
+DS-11,Đúng,Luật Hôn nhân và gia đình,14,"Nam nữ có đủ điều kiện kết hôn theo quy định của Luật hôn nhân và gia đình chung sống với nhau như vợ chồng mà không đăng ký kết hôn thì không phát sinh quyền, nghĩa vụ giữa vợ và chồng, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 14 Luật Hôn nhân và gia đình
+Đưa ra suy luận của bạn: Theo Điều 14 Luật Hôn nhân và gia đình, nếu nam nữ có đủ điều kiện kết hôn theo quy định của Luật này chung sống với nhau như vợ chồng mà không đăng ký kết hôn thì không làm phát sinh quyền, nghĩa vụ giữa vợ và chồng.
+kết luận: Đúng, tuyên bố của người dùng là chính xác dựa trên Điều 14 Luật Hôn nhân và gia đình. "
+DS-12,Đúng,Luật Cư trú,29,"Lý do, thời điểm xóa đăng ký tạm trú phải được ghi rõ trong Cơ sở dữ liệu về cư trú khi xóa đăng ký tạm trú, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 29 Luật Cư trú: h) Người đăng ký tạm trú tại chỗ ở đã bị phá dỡ, tịch thu theo quyết định của cơ quan nhà nước có thẩm quyền hoặc tại phương tiện đã bị xóa đăng ký phương tiện theo quy định của pháp luật.
+Đưa ra suy luận của bạn: Khi xóa đăng ký tạm trú, cơ quan đăng ký cư trú có trách nhiệm cập nhật thông tin về lý do, thời điểm xóa đăng ký tạm trú vào Cơ sở dữ liệu về cư trú.
+kết luận: Đúng, lý do, thời điểm xóa đăng ký tạm trú phải được ghi rõ trong Cơ sở dữ liệu về cư trú khi xóa đăng ký tạm trú. "
+DS-13,Sai,Luật Giáo dục,11,"Bộ Giáo dục và Đào tạo chịu trách nhiệm về quy định việc dạy và học bằng tiếng nước ngoài trong cơ sở giáo dục.
+","
+Ví dụ:
+Trích lại điều luật: Điều 109 Luật Giáo dục: 2. Bộ trưởng Bộ Giáo dục và Đào tạo, trong phạm vi nhiệm vụ, quyền hạn của mình, ký thỏa thuận quốc tế về tương đương văn bằng hoặc công nhận lẫn nhau về văn bằng; quy định chi tiết điều kiện, trình tự, thủ tục, thẩm quyền công nhận văn bằng; cung cấp thông tin về cơ sở giáo dục đại học bảo đảm chất lượng được nước sở tại công nhận.
+
+Đưa ra suy luận của bạn: Dựa trên điều luật này, Bộ Giáo dục và Đào tạo chịu trách nhiệm về việc công nhận văn bằng giáo dục nghề nghiệp do nước ngoài cấp.
+kết luận: Đúng, dựa trên điều luật đã nêu, Bộ Giáo dục và Đào tạo chịu trách nhiệm về quy định việc công nhận văn bằng giáo dục nghề nghiệp do nước ngoài cấp. "
+DS-14,Sai,Luật Hôn nhân và gia đình,29,"Chồng có nguồn thu nhập nhiều hơn vợ thì chồng có quyền chiếm hữu, sử dụng tài sản chung nhiều hơn so với vợ, đúng hay sai?","
+Câu trả lời mẫu:
+Trích lại điều luật: Điều 44 Luật Hôn nhân và gia đình: text: Chiếm hữu, sử dụng, định đoạt tài sản riêng
+1. Vợ, chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình; nhập hoặc không nhập tài sản riêng vào tài sản chung.
+
+Đưa ra suy luận của bạn: Theo điều luật này, vợ/chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình. Không đề cập đến bất kỳ ưu tiên nào dựa trên mức độ thu nhập giữa hai vợ chồng.
+
+Kết luận: Sai, vì không có thông tin cụ thể rằng chồng có nguồn thu nhập nhiều hơn sẽ có quyền chiếm hữu, sử dụng tài sản chung nhiều hơn so với vợ. "
+DS-15,Đúng,"Luật Phòng, chống ma túy",33,"Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai nghiện bắt buộc khi không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy tự nguyện, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 33 Luật Phòng, chống ma túy: text: Cai nghiện ma túy cho người từ đủ 12 tuổi đến dưới 18 tuổi
+
+1. Người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai nghiện bắt buộc khi thuộc một trong các trường hợp sau đây:
+
+a) Không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy tự nguyện;
+
+Suy luận: Theo Điều 33 Luật Phòng, chống ma túy, người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai nghiện bắt buộc nếu họ không đăng ký, không thực hiện hoặc tự ý chấm dứt cai nghiện ma túy tự nguyện.
+
+Kết luận: Đúng, người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi bị đưa vào cơ sở cai nghiện bắt"
+DS-16,Đúng,Luật Cư trú,36,"Cơ sở dữ liệu về cư trú là tài sản quốc gia do Bộ Công an thống nhất quản lý, đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 36 Luật Cư trú: text: Cơ sở dữ liệu về cư trú
+Suy luận: Theo Điều 36 Luật Cư trú, Cơ sở dữ liệu về cư trú được xây dựng để phục vụ công tác quản lý nhà nước về cư trú và là tài sản quốc gia do Bộ Công an thống nhất quản lý.
+Kết luận: Đúng, tuyên bố rằng Cơ sở dữ liệu về cư trú là tài sản quốc gia do Bộ Công an thống nhất quản lý là đúng dựa trên Điều 36 Luật Cư trú. "
+DS-17,Sai,Luật Cư trú,4,"Người bị kết án phạt tù đã có quyết định thi hành án nhưng đang tại ngoại hoặc được hoãn chấp hành án vẫn có thể tự do cư trú, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 31 Luật Cư trú: a) Đi khỏi phạm vi đơn vị hành chính cấp xã nơi đang cư trú từ 01 ngày trở lên đối với bị can, bị cáo đang tại ngoại; người bị kết án phạt tù nhưng chưa có quyết định thi hành án hoặc đã có quyết định thi hành án nhưng đang tại ngoại hoặc được hoãn chấp hành án, tạm đình chỉ chấp hành án; người bị kết án phạt tù được hưởng án treo đang trong thời gian thử thách; người đang chấp hành án phạt quản chế, cải tạo không giam giữ; người được tha tù trước thời hạn có điều kiện đang trong thời gian thử thách;
+
+Suy luận: Theo Điều 31 Luật Cư trú, người bị kết án phạt tù đã có quyết định thi hành án nhưng đang tại ngoại hoặc được hoãn chấp hành án có thể rời khỏi địa bàn xã nơi họ cư trú tối đa 01 ngày.
+"
+DS-18,Đúng,Luật Cư trú,20,"Công dân có chỗ ở hợp pháp thuộc quyền sở hữu của mình thì được đăng ký thường trú tại chỗ ở hợp pháp đó, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 20 Luật Cư trú: text: Điều kiện đăng ký thường trú
+
+Suy luận: Theo Điều 20 Luật Cư trú, công dân có chỗ ở hợp pháp thuộc quyền sở hữu của mình thì được đăng ký thường trú tại chỗ ở hợp pháp đó.
+
+Kết luận: Đúng, công dân có chỗ ở hợp pháp thuộc quyền sở hữu của mình thì được đăng ký thường trú tại chỗ ở hợp pháp đó. "
+DS-19,Sai,"Luật Phòng, chống ma túy",36,"Cơ sở cai nghiện ma túy tự nguyện là do cơ quan nhà nước thành lập ra, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 36 Luật Phòng, chống ma túy: text: Cơ sở cai nghiện ma túy tự nguyện
+
+Suy luận: Theo Điều 36 Luật Phòng, chống ma túy, cơ sở cai nghiện ma túy tự nguyện do cá nhân, tổ chức kinh doanh dịch vụ cai nghiện ma túy thành lập.
+
+Kết luận: Dựa trên Điều 36 Luật Phòng, chống ma túy, tuyên bố rằng ""Cơ sở cai nghiện ma túy tự nguyện là do cơ quan nhà nước thành lập"" là không chính xác. Thay vào đó, nó nói rằng cơ sở cai nghiện ma túy tự nguyện là do cá nhân, tổ chức kinh doanh dịch vụ cai nghiện ma túy thành lập. "
+DS-20,Sai,Luật Trọng tài thương mại,3,"Trọng tài viên là người được các bên lựa chọn hoặc được Trung tâm trọng tài hoặc Tòa án chỉ định để giải quyết tranh chấp theo quy định của Luật Tố tụng hành chính, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 42 Luật Trọng tài thương mại: d) Đã là hòa giải viên, người đại diện, luật sư của bất cứ bên nào trước khi đưa vụ tranh chấp đó ra giải quyết tại trọng tài, trừ trường hợp được các bên chấp thuận bằng văn bản.
+Đưa ra suy luận của bạn: Nếu một cá nhân từng là luật sư của một trong hai bên liên quan đến tranh chấp, họ sẽ không thể phục vụ như một Trọng tài viên trong vụ án đó.
+kết luận: Đúng, Trọng tài viên là người được các bên lựa chọn hoặc được Trung tâm trọng tài hoặc Tòa án chỉ định để giải quyết tranh chấp theo quy định của Luật Tố tụng hành chính. "
+DS-21,Đúng,Luật Giáo dục,21,"Không được phép lợi dụng hoạt động giáo dục để xuyên tạc chủ trương và chống phá nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 21 Luật Giáo dục: text: Cấm lợi dụng hoạt động giáo dục
+
+Đưa ra suy luận của bạn: Theo điều luật này, lợi dụng hoạt động giáo dục để chống phá nhà nước là trái pháp luật.
+kết luận: Đúng, không được phép lợi dụng hoạt động giáo dục để xuyên tạc chủ trương và chống phá nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam. "
+DS-22,Sai,Luật Cư trú,27,"Thời hạn tạm trú tối đa là 02 năm và có thể gia hạn thêm nhiều nhất 02 lần, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 27 Luật Cư trú: text: Điều kiện đăng ký tạm trú
+
+Đưa ra suy luận của bạn: Thời hạn tạm trú tối đa là 02 năm và có thể tiếp tục gia hạn nhiều lần.
+kết luận: Đúng vậy, thời hạn tạm trú tối đa là 02 năm và có thể tiếp tục gia hạn nhiều nhất 02 lần. "
+DS-23,Đúng,Luật Cư trú,12,"Người chưa thành niên có nguyện vọng học xa gia đình có thể cư trú tại nơi cư trú khác với cha, mẹ, đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 12 Luật Cư trú: 2. Người chưa thành niên có thể có nơi cư trú khác với nơi cư trú của cha, mẹ nếu được cha, mẹ đồng ý hoặc pháp luật có quy định.
+Suy luận: Theo điều luật này, người chưa thành niên có thể có nơi cư trú khác với nơi cư trú của cha, mẹ nếu được cha, mẹ đồng ý hoặc pháp luật có quy định.
+Kết luận: Đúng, người chưa thành niên có nguyện vọng học xa gia đình có thể cư trú tại nơi cư trú khác với cha, mẹ nếu họ được cha, mẹ đồng ý. "
+DS-24,Đúng,Luật Trọng tài thương mại,15,Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về Trọng tài,"
+Ví dụ:
+Trích lại điều luật: Điều 15 Luật Trọng tài thương mại
+Suy luận: Theo Điều 15 Luật Trọng tài thương mại, Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về Trọng tài.
+Kết luận: Đúng, dựa trên Điều 15 Luật Trọng tài thương mại, Bộ Tư pháp chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về Trọng tài. "
+DS-25,Sai,Luật Giáo dục,4,"Phát triển giáo dục không phải là quốc sách hàng đầu, đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 61 Hiến pháp: text: 1. Phát triển giáo dục là quốc sách hàng đầu nhằm nâng cao dân trí, phát triển nguồn nhân lực, bồi dưỡng nhân tài.
+
+Suy luận: Dựa trên điều khoản đã nêu, phát triển giáo dục thực sự là quốc sách hàng đầu vì nó nhấn mạnh tầm quan trọng của việc cải thiện dân trí, phát triển nguồn nhân lực và nuôi dưỡng tài năng.
+
+Kết luận: Đúng vậy, phát triển giáo dục là quốc sách hàng đầu. "
+DS-26,Đúng,"Luật Phòng, chống ma túy",24,"Trách nhiệm của người sử dụng ma túy là phải chấp hành việc quản lý của cơ quan nhà nước, cụ thể là Ủy ban nhân dân cấp xã, phường, đúng hay sai?","Câu trả lời: Trích lại điều luật: Điều 25 Luật Phòng, chống ma túy: text: Trách nhiệm của người sử dụng trái phép chất ma túy
+
+Suy luận: Theo điều luật này, người sử dụng trái phép chất ma túy có trách nhiệm cung cấp đầy đủ, chính xác thông tin về hành vi sử dụng trái phép chất ma túy của mình cho công an cấp xã nơi cư trú.
+
+Kết luận: Đúng, trách nhiệm của người sử dụng ma túy là phải chấp hành việc quản lý của cơ quan nhà nước, cụ thể là Ủy ban nhân dân cấp xã, phường khi họ cần cung cấp thông tin về hành vi sử dụng trái phép chất ma túy của mình. "
+DS-27,Sai,Luật Trọng tài thương mại,4,"Giải quyết tranh chấp bằng Trọng Tài luôn phải được tiến hành công khai, kể cả khi các bên có thỏa thuận khác, đúng hay sai?","
+Ví dụ:
+Trích dẫn điều luật: Điều 4 Luật Trọng tài thương mại: 4. Giải quyết tranh chấp bằng Trọng tài được tiến hành không công khai, trừ trường hợp các bên có thỏa thuận khác.
+Suy luận: Theo điều luật này, giải quyết tranh chấp bằng Trọng tài thường được tiến hành không công khai, ngoại trừ khi các bên có thỏa thuận khác.
+Kết luận: Đúng, tuyên bố rằng ""Giải quyết tranh chấp bằng Trọng tài luôn phải được tiến hành công khai"" là sai vì nó mâu thuẫn với điều luật nói rằng giải quyết tranh chấp bằng Trọng tài thường được tiến hành không công khai. "
+DS-28,Đúng,Luật Trọng tài thương mại,21,"Trọng tài viên có quyền từ chối giải quyết tranh chấp, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 21 Luật Trọng tài thương mại: text: Quyền, nghĩa vụ của Trọng tài viên
+
+Đưa ra suy luận của bạn: Theo điều luật này, Trọng tài viên có quyền từ chối giải quyết tranh chấp.
+kết luận: Đúng, Trọng tài viên có quyền từ chối giải quyết tranh chấp. "
+DS-29,Đúng,Luật Điện ảnh,15,Cơ sở điện ảnh phát hành phim phải chịu trách nhiệm trước pháp luật về nội dung phim phát hành là đúng hay sai?,"
+Ví dụ:
+Trích lại điều luật: Điều 15 Luật Điện ảnh: b) Bảo đảm phim phát hành tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan;
+
+Suy luận: Vì Điều 15 nói rằng cơ sở điện ảnh phát hành phim phải đảm bảo phim họ phát hành tuân thủ quy định của Luật Điện ảnh và các quy định khác của pháp luật có liên quan nên chúng ta có thể suy luận rằng cơ sở điện ảnh phát hành phim phải chịu trách nhiệm trước pháp luật về nội dung phim phát hành.
+
+Kết luận: Đúng, tuyên bố ""Cơ sở điện ảnh phát hành phim phải chịu trách nhiệm trước pháp luật về nội dung phim phát hành"" là đúng dựa trên Điều 15 Luật Điện ảnh. "
+DS-30,Sai,Luật Cư trú,38,"Bắt buộc phải thu hồi sổ hộ khẩu khi sổ này hết giá trị sử dụng kể từ ngày 01/01/2023, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 38 Luật Cư trú: text: Điều khoản thi hành
+1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2021.
+
+Đưa ra suy luận của bạn: Theo Điều 38 Luật Cư trú, Luật này sẽ có hiệu lực thi hành từ ngày 01 tháng 7 năm 2021.
+kết luận: Đúng, Luật Cư trú sẽ có hiệu lực thi hành từ ngày 01 tháng 7 năm 2021. "
+DS-31,Đúng,Luật Hôn nhân và gia đình,33,"Đối với tài sản đang xảy ra tranh chấp, nếu không có căn cứ chứng minh được đó là tài sản riêng của vợ hay chồng, thì tài sản đó coi là tài sản chung, đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 228 Bộ luật Dân sự: ""Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang có tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.""
+Suy luận: Nếu không có căn cứ để chứng minh rằng tài sản đang bị tranh chấp là tài sản riêng của vợ/chồng, thì nó sẽ được coi là tài sản chung.
+Kết luận: Đúng, tuyên bố của người dùng là chính xác. "
+DS-32,Sai,Luật Giáo dục,6,"Bộ trưởng Bộ Giáo dục và Đào tạo không được quy định ngưỡng đầu vào trình độ cao đẳng, trình độ đại học thuộc ngành đào tạo giáo viên, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 6 Luật Giáo dục: 4. Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ trưởng Bộ Lao động - Thương binh và Xã hội, trong phạm vi nhiệm vụ, quyền hạn của mình, quy định ngưỡng đầu vào trình độ cao đẳng, trình độ đại học thuộc ngành đào tạo giáo viên và ngành thuộc lĩnh vực sức khỏe.
+Đưa ra suy luận của bạn: Dựa trên điều luật đã trích dẫn, Bộ trưởng Bộ Giáo dục và Đào tạo có quyền quy định ngưỡng đầu vào trình độ cao đẳng, trình độ đại học thuộc ngành đào tạo giáo viên.
+kết luận: Đúng, Bộ trưởng Bộ Giáo dục và Đào tạo được quy định ngưỡng đầu vào trình độ cao đẳng, trình độ đại học thuộc ngành đào tạo giáo viên. "
+DS-33,Sai,Luật Điện ảnh,32,"Theo Luật điện ảnh, đối với Phim được phân loại là C thì người xem là trẻ em dưới 13 tuổi bắt buộc phải có cha mẹ hoặc người giám hộ đi cùng là đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 32 Luật Điện ảnh: đ) Loại K: Phim được phổ biến đến người xem dưới 13 tuổi với điều kiện xem cùng cha, mẹ hoặc người giám hộ;
+
+Suy luận: Dựa trên điều luật đã trích lại, chúng ta có thể thấy rằng phim thuộc loại K chỉ được phổ biến tới người xem dưới 13 tuổi với điều kiện họ phải xem cùng cha, mẹ hoặc người giám hộ.
+
+Kết luận: Đúng, theo Luật Điện ảnh, đối với Phim được phân loại là K thì người xem là trẻ em dưới 13 tuổi bắt buộc phải có cha mẹ hoặc người giám hộ đi cùng. "
+DS-34,Sai,Luật Điện ảnh,8,"Nhà văn hóa, đơn vị chiếu phim, câu lạc bộ và hiệp hội chiếu phim công cộng, đội chiếu phim lưu động của Việt Nam được phép tham gia hợp tác kinh doanh với nhà cung cấp dịch vụ nước ngoài là đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 8 Luật Điện ảnh: text: Hợp tác đầu tư nước ngoài trong hoạt động điện ảnh
+
+Đưa ra suy luận của bạn: Theo điều luật này, tổ chức, cá nhân nước ngoài chỉ được hợp tác đầu tư với cơ sở điện ảnh Việt Nam để sản xuất, phát hành, phổ biến phim theo quy định của pháp luật về đầu tư dưới hình thức thành lập tổ chức kinh tế có vốn đầu tư nước ngoài, đầu tư góp vốn, mua cổ phần, mua phần vốn góp, trong đó, phần vốn của nhà đầu tư nước ngoài không vượt quá 51% vốn điều lệ; hoặc hợp đồng hợp tác kinh doanh.
+
+kết luận: Dựa trên điều luật này, tuyên bố rằng nhà văn hóa, đơn vị chiếu phim, câu lạc bộ và hiệp hội chiếu phim công cộng, đội chiếu phim lưu động của Việt Nam được phép tham gia hợp đồng hợp tác kinh d"
+DS-35,Đúng,Luật Giáo dục,8,"Chương trình giáo dục cần phải thể hiện mục tiêu giáo dục và yêu cầu người học phải đạt về phẩm chất và năng lực tương ứng, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 8 Luật Giáo dục: 2. Chương trình giáo dục phải bảo đảm tính khoa học và thực tiễn; kế thừa, liên thông giữa các cấp học, trình độ đào tạo; tạo điều kiện cho phân luồng, chuyển đổi giữa các trình độ đào tạo, ngành đào tạo và hình thức giáo dục trong hệ thống giáo dục quốc dân để địa phương và cơ sở giáo dục chủ động triển khai kế hoạch giáo dục phù hợp; đáp ứng mục tiêu bình đẳng giới, yêu cầu hội nhập quốc tế. Chương trình giáo dục là cơ sở bảo đảm chất lượng giáo dục toàn diện.
+Đưa ra suy luận của bạn: Dựa vào Điều 8 Luật Giáo dục, chúng ta biết rằng chương trình giáo dục cần phải thể hiện mục tiêu giáo dục và yêu cầu người học phải đạt về phẩm chất và năng lực tương ứng.
+kết luận: Đúng vậy, theo Điều 8 Luật Giáo"
+DS-36,Đúng,Luật Điện ảnh,27,"Phim đã được Bộ Văn hóa, Thể thao và Du lịch, Ủy ban nhân dân cấp tỉnh cấp giấy phép phân loại phim sẽ có giá trị trên toàn quốc là đúng hay sai? ","
+Câu trả lời: Trích dẫn điều luật: Điều 27 Luật Điện ảnh: b) Ủy ban nhân dân cấp tỉnh được cấp Giấy phép phân loại phim khi đáp ứng các điều kiện theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.
+
+Suy luận: Dựa vào điều luật này, chúng ta biết rằng Ủy ban nhân dân cấp tỉnh có thể cấp Giấy phép phân loại phim nếu họ đáp ứng các điều kiện theo quy định của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch.
+
+Kết luận: Đúng vậy, tuyên bố ""Phim đã được Bộ Văn hóa, Thể thao và Du lịch, Ủy ban nhân dân cấp tỉnh cấp giấy phép phân loại phim sẽ có giá trị trên toàn quốc"" là chính xác dựa trên thông tin được cung cấp bởi Điều 27 Luật Điện ảnh. "
+DS-37,Sai,Luật Trọng tài thương mại,2,"Luật trọng tài thương mại có thẩm quyền giải quyết tranh chấp giữa các bên không có hoạt động thương mại và pháp luật không quy định được giải quyết bằng trọng tài, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 2 Luật Trọng tài thương mại: text: Thẩm quyền giải quyết các tranh chấp của Trọng tài
+
+Đưa ra suy luận của bạn: Theo Điều 2 Luật Trọng tài thương mại, Trọng tài có thẩm quyền giải quyết tranh chấp giữa các bên phát sinh từ hoạt động thương mại, tranh chấp phát sinh giữa các bên trong đó ít nhất một bên có hoạt động thương mại, và tranh chấp khác giữa các bên mà pháp luật quy định được giải quyết bằng Trọng tài.
+
+kết luận: Dựa trên Điều 2 Luật Trọng tài thương mại, tuyên bố rằng ""Luật trọng tài thương mại có thẩm quyền giải quyết tranh chấp giữa các bên không có hoạt động thương mại và pháp luật không quy định được giải quyết bằng trọng tài"" là sai. "
+DS-38,Đúng,Luật Hôn nhân và gia đình,30,"Vợ, chồng phải đóng góp tài sản riêng của mình để đáp ứng nhu cầu thiết yếu của gia đình, đúng hay sai?","
+Câu trả lời mẫu:
+Trích lại điều luật: Điều 30 Luật Hôn nhân và gia đình: text: Quyền, nghĩa vụ của vợ, chồng trong việc đáp ứng nhu cầu thiết yếu của gia đình
+1. Vợ, chồng có quyền, nghĩa vụ thực hiện giao dịch nhằm đáp ứng nhu cầu thiết yếu của gia đình.
+
+Suy luận: Theo điều luật này, vợ chồng có trách nhiệm đóng góp tài sản riêng của mình để đáp ứng nhu cầu thiết yếu của gia đình.
+
+Kết luận: Đúng, vợ chồng phải đóng góp tài sản riêng của mình để đáp ứng nhu cầu thiết yếu của gia đình. "
+DS-39,Sai,Luật Giáo dục,10,"Bộ Giáo dục và Đào tạo chịu trách nhiệm về việc quy định việc liên thông giữa các cấp học, trình độ đào tạo trong hệ thống giáo dục quốc dân.","
+Ví dụ:
+Trích lại điều luật: Điều 105 Luật Giáo dục: 4. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về giáo dục.
+Đưa ra suy luận của bạn: Dựa vào Điều 105 Luật Giáo dục, Bộ Giáo dục và Đào tạo chịu trách nhiệm phối hợp với Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về giáo dục.
+kết luận: Đúng, Bộ Giáo dục và Đào tạo chịu trách nhiệm phối hợp với Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về giáo dục. "
+DS-40,Đúng,"Luật Phòng, chống ma túy",13,"Cơ quan nhà nước có thẩm quyền theo dõi, kiểm tra, và giám sát các hoạt động nghiên cứu, sản xuất chất ma túy (không bao gồm trồng cây có chứa chất ma túy), đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 13 Luật Phòng, chống ma túy: text: Kiểm soát hoạt động nghiên cứu, giám định, sản xuất chất ma túy, tiền chất
+
+Đưa ra suy luận của bạn: Theo Điều 13 Luật Phòng, chống ma túy, hoạt động nghiên cứu, giám định, sản xuất chất ma túy (không bao gồm trồng cây có chứa chất ma túy) phải được cơ quan nhà nước có thẩm quyền theo dõi, kiểm tra, giám sát.
+kết luận: Đúng, tuyên bố rằng cơ quan nhà nước có thẩm quyền theo dõi, kiểm tra, và giám sát các hoạt động nghiên cứu, sản xuất chất ma túy (không bao gồm trồng cây có chứa chất ma túy) là đúng. "
+DS-41,Sai,"Luật Phòng, chống ma túy",31,"Cơ sở cai nghiện ma túy không có trách nhiệm cấp giấy xác nhận hoàn thành cai nghiện ma túy tự nguyện cho người cai nghiện ma túy, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 36 Luật Phòng, chống ma túy: Cơ sở cai nghiện ma túy tự nguyện có quyền sau đây:
+- Tiếp nhận người nghiện ma túy vào cai nghiện ma túy tự nguyện phù hợp với khả năng tiếp nhận của cơ sở cai nghiện;
+- Thực hiện việc xác định tình trạng nghiện ma túy;
+- Tiếp nhận, quản lý, giáo dục, tư vấn, điều trị hội chứng cai, điều trị rối loạn tâm thần và các bệnh khác đối với người đang trong thời gian lập hồ sơ đề nghị đưa vào cơ sở cai nghiện bắt buộc.
+- Cấp giấy xác nhận hoàn thành cai nghiện ma túy bắt buộc cho người từ đủ 12 tuổi đến dưới 18 tuổi.
+
+Suy luận: Theo Điều 36 Luật Phòng, chống ma túy, cơ sở cai nghiện ma túy tự nguyện có quyền cấp giấy xác nhận hoàn thành cai nghiện ma túy bắt buộc cho người từ"
+DS-42,Đúng,Luật Điện ảnh,5,"Hợp tác quốc tế, nghiên cứu khoa học, chuyển giao công nghệ, cung cấp dịch vụ kỹ thuật số để phát triển điện ảnh là một trong các chính sách của nhà nước về phát triển điện ảnh, công nghiệp điện ảnh là đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 5 Luật Điện ảnh: text: Chính sách của Nhà nước về phát triển điện ảnh, công nghiệp điện ảnh
+
+Đưa ra suy luận của bạn: Dựa vào điều luật đã trích lại, chúng ta thấy rằng ""Hợp tác quốc tế, nghiên cứu khoa học, chuyển giao công nghệ, cung cấp dịch vụ kỹ thuật số để phát triển điện ảnh"" nằm trong danh mục các chính sách của nhà nước về phát triển điện ảnh, công nghiệp điện ảnh.
+
+kết luận: Đúng vậy, dựa trên điều luật đã trích lại, hợp tác quốc tế, nghiên cứu khoa học, chuyển giao công nghệ, cung cấp dịch vụ kỹ thuật số để phát triển điện ảnh là một trong các chính sách của nhà nước về phát triển điện ảnh, công nghiệp điện ảnh. "
+DS-43,Sai,Luật Hôn nhân và gia đình,20,"Việc lựa chọn nơi cư trú của vợ chồng do phong tục tập quán của gia đình nhà chồng quyết định, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 20 Luật Hôn nhân và gia đình: text: Lựa chọn nơi cư trú của vợ chồng
+Việc lựa chọn nơi cư trú của vợ chồng do vợ chồng thỏa thuận, không bị ràng buộc bởi phong tục, tập quán, địa giới hành chính.
+
+Suy luận: Theo Điều 20 Luật Hôn nhân và Gia đình, việc lựa chọn nơi cư trú của vợ chồng dựa trên sự thỏa thuận giữa hai bên chứ không phụ thuộc vào phong tục, tập quán của bất kỳ ai.
+
+Kết luận: Không, việc lựa chọn nơi cư trú của vợ chồng không do phong tục tập quán của gia đình nhà chồng quyết định. "
+DS-44,Đúng,Luật Cư trú,31,"Trường hợp công dân không trong độ tuổi nhập ngũ, nếu đi du học, xuất khẩu lao động không cần phải khai báo tạm vắng, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 24 Luật Cư trú: d) Vắng mặt liên tục tại nơi thường trú từ 12 tháng trở lên mà không đăng ký tạm trú tại chỗ ở khác hoặc không khai báo tạm vắng, trừ trường hợp xuất cảnh ra nước ngoài nhưng không phải để định cư hoặc trường hợp đang chấp hành án phạt tù, chấp hành biện pháp đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc, đưa vào trường giáo dưỡng;
+
+Đưa ra suy luận của bạn: Nếu một công dân không trong độ tuổi nhập ngũ và đi du học hoặc xuất khẩu lao động, họ sẽ không cần phải khai báo tạm vắng vì họ không rời khỏi nơi thường trú của mình. Tuy nhiên, họ vẫn nên thông báo cho cơ quan đăng ký cư trú biết về kế hoạch vắng mặt lâu dài của mình bằng cách gửi thư hoặc email.
+
+kết luận: Đúng vậy, nếu một"
+DS-45,Sai,Luật Trọng tài thương mại,20,"Công chức thuộc Tòa án nhân dân có trình độ đại học và đã qua thực tế công tác theo ngành đã học từ 5 năm trở lên đủ tiêu chuẩn làm Trọng tài viên, đúng hay sai?","
+Ví dụ:
+Trích dẫn điều luật: Điều 20 Luật Trọng tài thương mại: text: Tiêu chuẩn Trọng tài viên
+
+1. Những người có đủ các tiêu chuẩn sau đây có thể làm Trọng tài viên:
+
+a) Có năng lực hành vi dân sự đầy đủ theo quy định của Bộ luật dân sự;
+
+b) Có trình độ đại học và đã qua thực tế công tác theo ngành đã học từ 5 năm trở lên;
+
+c) Trong trường hợp đặc biệt, chuyên gia có trình độ chuyên môn cao và có nhiều kinh nghiệm thực tiễn, tuy không đáp ứng được yêu cầu nêu tại điểm b khoản này, cũng có thể được chọn làm Trọng tài viên.
+
+Suy luận: Theo điều luật này, công chức thuộc Tòa án nhân dân có trình độ đại học và đã qua thực tế công tác theo ngành đã học từ 5 năm trở lên đủ tiêu chuẩn làm Trọng tài viên.
+
+Kết luận"
+DS-46,Sai,Luật Hôn nhân và gia đình,3,"Ly hôn là việc lợi dụng ly hôn để trốn tránh nghĩa vụ tài sản, vi phạm chính sách, pháp luật về dân số hoặc để đạt được mục đích khác mà không nhằm mục đích chấm dứt hôn nhân, đúng hay sai?","Câu trả lời: Trích lại điều luật: Điều 3 Luật Hôn nhân và gia đình: 15. Ly hôn giả tạo là việc lợi dụng ly hôn để trốn tránh nghĩa vụ tài sản, vi phạm chính sách, pháp luật về dân số hoặc để đạt được mục đích khác mà không nhằm mục đích chấm dứt hôn nhân.
+
+Suy luận: Theo điều luật được trích dẫn ở trên, ly hôn giả tạo là việc lợi dụng ly hôn để trốn tránh nghĩa vụ tài sản, vi phạm chính sách, pháp luật về dân số hoặc để đạt được mục đích khác mà không nhằm mục đích chấm dứt hôn nhân.
+
+Kết luận: Đúng, tuyên bố của người dùng là đúng dựa trên điều luật được trích dẫn ở trên. "
+DS-47,Sai,Luật Điện ảnh,5,"Nhà nước chỉ đầu tư, hỗ trợ các hoạt động sản xuất phim, sáng tác kịch bản phim và phát hành, phổ biến phim là đúng hay sai? ","
+Ví dụ:
+Trích lại điều luật: Điều 3 Luật Điện ảnh: 1. Hoạt động điện ảnh bao gồm sản xuất phim, phát hành phim, phổ biến phim, lưu chiểu phim, lưu trữ phim, quảng bá phim, liên hoan phim, giải thưởng về điện ảnh.
+Suy luận: Từ điều khoản này, chúng ta có thể thấy rằng hoạt động điện ảnh bao gồm nhiều khía cạnh khác nhau như sản xuất phim, phát hành phim, phổ biến phim, v.v.
+Kết luận: Đúng, Nhà nước chỉ đầu tư, hỗ trợ các hoạt động sản xuất phim, sáng tác kịch bản phim và phát hành, phổ biến phim. "
+DS-48,Sai,Luật Trọng tài thương mại,14,"Trong tranh chấp không có yếu tố nước ngoài, hội đồng trọng tài có thể áp dụng luật quốc tế để giải quyết, đúng hay sai?","
+Ví dụ:
+Trích lại điều luật: Điều 14 Luật Trọng tài thương mại: text: Luật áp dụng giải quyết tranh chấp
+
+1. Đối với tranh chấp không có yếu tố nước ngoài, Hội đồng trọng tài áp dụng pháp luật Việt Nam để giải quyết tranh chấp.
+
+Đưa ra suy luận của bạn: Theo Điều 14 Luật Trọng tài thương mại, khi xử lý tranh chấp không có yếu tố nước ngoài, Hội đồng trọng tài phải tuân thủ pháp luật Việt Nam.
+
+kết luận: Đúng, trong tranh chấp không có yếu tố nước ngoài, Hội đồng trọng tài có thể áp dụng luật quốc tế để giải quyết. "
+DS-49,Sai,Luật Cư trú,36,"Cơ quan, tổ chức, cá nhân có thể tự do cung cấp, trao đổi, sao chép, in thông tin, tài liệu từ Cơ sở dữ liệu về cư trú, đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 36 Luật Cư trú: đ) Cơ quan, tổ chức, cá nhân không được cung cấp, trao đổi, sao chép, in trái phép thông tin, tài liệu từ Cơ sở dữ liệu về cư trú.
+Đưa ra suy luận của bạn: Theo điều luật này, cơ quan, tổ chức, cá nhân không được phép cung cấp, trao đổi, sao chép, in trái phép thông tin, tài liệu từ Cơ sở dữ liệu về cư trú.
+Kết luận: Sai, vì cơ quan, tổ chức, cá nhân không được phép cung cấp, trao đổi, sao chép, in trái phép thông tin, tài liệu từ Cơ sở dữ liệu về cư trú. "
+DS-50,Sai,Luật Giáo dục,9,"Hướng nghiệp trong giáo dục không nhất thiết phải giúp học sinh có kiến thức về nghề nghiệp và khả năng lựa chọn nghề nghiệp trên cơ sở kết hợp nguyện vọng, sở trường của cá nhân với nhu cầu sử dụng lao động của xã hội, đúng hay sai?","
+Câu trả lời: Trích lại điều luật: Điều 9 Luật Giáo dục: text: Hướng nghiệp và phân luồng trong giáo dục
+Suy luận: Dựa vào điều luật này, chúng ta có thể thấy rằng hướng nghiệp trong giáo dục bao gồm việc cung cấp kiến thức về nghề nghiệp và giúp học sinh lựa chọn nghề nghiệp dựa trên nguyện vọng và sở trường của họ cũng như nhu cầu sử dụng lao động của xã hội.
+Kết luận: Đúng, hướng nghiệp trong giáo dục đòi hỏi phải cung cấp kiến thức về nghề nghiệp và giúp học sinh lựa chọn nghề nghiệp dựa trên nguyện vọng và sở trường của họ cũng như nhu cầu sử dụng lao động của xã hội. "
+TN-1,A,Luật Viên chức,29,Viên chức bị đơn vị sự nghiệp đơn phương chấm dứt hợp đồng trong trường hợp nào? ,"
+Ví dụ:
+Trích lại điều luật: Điều 29 Luật Viên chức: 1. Đơn vị sự nghiệp công lập được đơn phương chấm dứt hợp đồng làm việc với viên chức trong các trường hợp sau:
+
+a) Viên chức có 02 năm liên tiếp bị phân loại đánh giá ở mức độ không hoàn thành nhiệm vụ;
+
+b) Viên chức bị buộc thôi việc theo quy định tại điểm d khoản 1 Điều 52 và khoản 1 Điều 57 của Luật này;
+
+Suy luận: Theo điều luật này, đơn vị sự nghiệp công lập có thể đơn phương chấm dứt hợp đồng làm việc với viên chức nếu họ thuộc một trong hai trường hợp nêu trên. Trường hợp thứ nhất là viên chức có 02 năm liên tiếp bị phân loại đánh giá ở mức độ không hoàn thành nhiệm vụ. Trường hợp thứ hai là viên chức bị buộc thôi việc theo quy định tại điểm d khoản 1 Điều "
+TN-2,D,Luật Du lịch,54,"Theo Luật Du Lịch, các loại dịch vụ du lịch khác bao gồm điều nào dưới đây? Chọn câu trả lời đúng nhất.","
+Ví dụ:
+Trích lại điều luật: Điều 54 Luật Du lịch: text: Các loại dịch vụ du lịch khác
+1. Dịch vụ ăn uống.
+
+2. Dịch vụ mua sắm.
+
+3. Dịch vụ thể thao.
+
+4. Dịch vụ vui chơi, giải trí.
+
+5. Dịch vụ chăm sóc sức khỏe.
+
+6. Dịch vụ liên quan khác phục vụ khách du lịch.
+
+Suy luận: Dựa vào Điều 54 Luật Du lịch, các loại dịch vụ du lịch khác bao gồm dịch vụ ăn uống, dịch vụ mua sắm, dịch vụ thể thao, dịch vụ vui chơi, giải trí, dịch vụ chăm sóc sức khỏe và các dịch vụ liên quan khác phục vụ khách du lịch.
+Kết luận: Đúng, dựa trên Điều 54 Luật Du lịch, các loại dịch vụ du lịch khác bao gồm dịch vụ ăn uống, dịch vụ mua sắm, dịch vụ thể thao,"
+TN-3,C,Luật Cư trú,23,Địa điểm nào sau đây được phép đăng ký thường trú mới?,"
+Ví dụ:
+Trích lại điều luật: Điều 20 Luật Cư trú: 6. Người sinh sống, người làm nghề lưu động trên phương tiện được đăng ký thường trú tại phương tiện đó khi đáp ứng các điều kiện sau đây:
+
+Suy luận: Nếu người sử dụng phương tiện di chuyển liên tục và đáp ứng các điều kiện như đã nói ở trên, họ sẽ được đăng ký thường trú tại phương tiện đó.
+
+Kết luận: Dựa trên điều luật được cung cấp, nếu người sử dụng phương tiện di chuyển liên tục và đáp ứng các điều kiện như đã nói ở trên, họ sẽ được đăng ký thường trú tại phương tiện đó. "
+TN-4,A,Luật Viên chức,46,"Thông báo nghỉ hưu đối với viên chức được cơ quan, đơn vị, tổ chức ban hành trong thời gian bao lâu trước khi đến thời hạn viên chức nghỉ hưu? ","
+Ví dụ:
+Trích lại điều luật: Điều 46 Luật Viên chức: text: Chế độ hưu trí
+
+1. Viên chức được hưởng chế độ hưu trí theo quy định của pháp luật về lao động và pháp luật về bảo hiểm xã hội.
+
+2. Trước 06 tháng, tính đến ngày viên chức nghỉ hưu, cơ quan, tổ chức, đơn vị quản lý viên chức phải thông báo bằng văn bản về thời điểm nghỉ hưu; trước 03 tháng, tính đến ngày viên chức nghỉ hưu, cơ quan, tổ chức, đơn vị quản lý viên chức ra quyết định nghỉ hưu.
+
+Suy luận: Theo Điều 46 Luật Viên chức, cơ quan, tổ chức, đơn vị quản lý viên chức phải thông báo bằng văn bản về thời điểm nghỉ hưu trước 06 tháng tính đến ngày viên chức nghỉ hưu và ra quyết định nghỉ hưu trước 03 tháng tính đến ngày viên chức nghỉ hưu.
+"
+TN-5,C,Luật Điện ảnh,12,Hoạt động của trường quay bao gồm các hoạt động nào sau đây?,"
+Ví dụ:
+Trích lại điều luật: Điều 109 Luật Bảo vệ môi trường: a) Chỉ đạo, hướng dẫn và kiểm tra hoạt động quan trắc môi trường trên phạm vi cả nước; tổ chức thực hiện chương trình quan trắc môi trường quốc gia gồm chương trình quan trắc môi trường sông và hồ liên tỉnh, biển, vùng kinh tế trọng điểm, các khu vực có tính chất liên vùng, liên tỉnh, môi trường xuyên biên giới và môi trường tại các vùng có tính đặc thù; thực hiện quan trắc đa dạng sinh học tại khu bảo tồn thiên nhiên;
+
+Suy luận: Theo điều luật này, hoạt động của trường quay bao gồm việc chỉ đạo, hướng dẫn và kiểm tra hoạt động quan trắc môi trường trên phạm vi cả nước.
+
+Kết luận: Dựa vào điều luật đã nêu, chúng ta có thể kết luận rằng hoạt động của trường quay bao gồm việc chỉ đạo, hướng dẫn và kiểm tra hoạt động quan trắc môi"
+TN-6,B,Luật Trọng tài thương mại,10,Trường hợp nào sau đây ngôn ngữ được sử dụng trong tố tụng không phải là tiếng Việt?,"
+Ví dụ:
+Trích lại điều luật: Điều 21 Luật Tố tụng hành chính: text: Tiếng nói và chữ viết dùng trong tố tụng hành chính
+
+Đưa ra suy luận của bạn: Trong tố tụng hành chính, tiếng nói và chữ viết được sử dụng là tiếng Việt.
+kết luận: Đúng, ngôn ngữ được sử dụng trong tố tụng hành chính không phải là tiếng Việt khi nó liên quan đến việc sử dụng tiếng nói và chữ viết của dân tộc thiểu số hoặc nếu có người phiên dịch. "
+TN-7,D,"Luật Phòng, chống ma túy",4,"Nguồn tài chính nào sau đây được dùng cho phòng, chống ma túy?","
+Ví dụ:
+Trích lại điều luật: Điều 44 Luật Phòng, chống ma túy: 7. Thực hiện thống kê nhà nước về phòng, chống ma túy.
+Đưa ra suy luận của bạn: Theo điều luật này, Nhà nước chịu trách nhiệm thực hiện thống kê nhà nước về phòng, chống ma túy.
+kết luận: Có, Nhà nước chịu trách nhiệm thực hiện thống kê nhà nước về phòng, chống ma túy. "
+TN-8,D,"Luật Phòng, chống ma túy",29,Quy trình cai nghiệm ma túy bao gồm những giai đoạn nào sau đây?,"
+Ví dụ:
+Trích lại điều luật: Điều 29 Luật Phòng, chống ma túy: 1. Quy trình cai nghiện ma túy bao gồm các giai đoạn sau đây:
+
+a) Tiếp nhận, phân loại;
+
+b) Điều trị cắt cơn, giải độc, điều trị các rối loạn tâm thần, điều trị các bệnh lý khác;
+
+c) Giáo dục, tư vấn, phục hồi hành vi, nhân cách;
+
+d) Lao động trị liệu, học nghề;
+
+đ) Chuẩn bị tái hòa nhập cộng đồng.
+
+Suy luận: Dựa trên điều luật được trích dẫn ở trên, chúng ta biết rằng quy trình cai nghiện ma túy bao gồm năm giai đoạn: tiếp nhận và phân loại, điều trị cắt cơn và giải độc, điều trị rối loạn tâm thần và điều trị các bệnh lý khác, giáo dục, tư vấn, phục hồi hành vi và nhân cách, lao động trị liệu và học nghề"
+TN-9,D,Luật Giáo dục,35,Có bao nhiêu trình độ giáo dục nghề nghiệp được đào tạo?,"
+Ví dụ:
+Trích lại điều luật: Điều 35 Luật Giáo dục: text: Các trình độ đào tạo giáo dục nghề nghiệp
+Đưa ra suy luận của bạn: Dựa vào điều luật đã nêu, chúng ta biết rằng giáo dục nghề nghiệp đào tạo bốn trình độ: trình độ sơ cấp, trình độ trung cấp, trình độ cao đẳng và các chương trình đào tạo nghề nghiệp khác.
+kết luận: Có bốn trình độ giáo dục nghề nghiệp được đào tạo. "
+TN-10,C,Luật Cư trú,21,"Hồ sơ đăng ký thường trú của công dân có chỗ ở hợp pháp thuộc quyền sở hữu của mình bao gồm những gì? A: Tờ khai thay đổi thông tin cư trú; giấy tờ, tài liệu chứng minh đủ diện tích nhà ở để đăng ký thường trú theo quy định; B: Tờ khai thay đổi thông tin cư trú; hợp đồng cho thuê, cho mượn, cho ở nhờ hoặc văn bản về việc cho mượn, cho ở nhờ chỗ ở hợp pháp đã được công chứng hoặc chứng thực theo quy định của pháp luật; C: Tờ khai thay đổi thông tin cư trú; giấy tờ, tài liệu chứng minh việc sở hữu chỗ ở hợp pháp; D: Tờ khai thay đổi thông tin cư trú; giấy tờ, tài liệu chứng minh quan hệ nhân thân với thành viên hộ gia đình","
+Câu trả lời: Trích lại điều luật: Điều 21 Luật Cư trú: a) Tờ khai thay đổi thông tin cư trú;
+Suy luận: Dựa vào điều luật này, chúng ta biết rằng hồ sơ đăng ký thường trú của công dân có chỗ ở hợp pháp thuộc quyền sở hữu của mình chỉ cần tờ khai thay đổi thông tin cư trú.
+Kết luận: Câu nói ""Hồ sơ đăng ký thường trú của công dân có chỗ ở hợp pháp thuộc quyền sở hữu của mình bao gồm những gì?"" là đúng vì nó yêu cầu chính xác tờ khai thay đổi thông tin cư trú. "
+TN-11,D,Luật Trọng tài thương mại,2,Trọng tài có thẩm quyền giải quyết tranh chấp trong những trường hợp nào?,"
+Ví dụ:
+Trích lại điều luật: Điều 43 Luật Trọng tài thương mại: 1. Trước khi xem xét nội dung vụ tranh chấp, Hội đồng trọng tài phải xem xét hiệu lực của thỏa thuận trọng tài; thỏa thuận trọng tài có thể thực hiện được hay không và xem xét thẩm quyền của mình. Trong trường hợp vụ việc thuộc thẩm quyền giải quyết của mình thì Hội đồng trọng tài tiến hành giải quyết tranh chấp theo quy định của Luật này. Trường hợp không thuộc thẩm quyền giải quyết của mình, thỏa thuận trọng tài vô hiệu hoặc xác định rõ thỏa thuận trọng tài không thể thực hiện được thì Hội đồng trọng tài quyết định đình chỉ việc giải quyết và thông báo ngay cho các bên biết.
+
+Suy luận: Theo điều luật này, trước khi xem xét nội dung vụ tranh chấp, Hội đồng trọng tài phải kiểm tra tính hiệu lực của thỏa thuận trọng tài, khả năng thực hiện của nó và thẩm quyền của họ. Nếu"
+TN-12,B,Luật Cư trú,7,Hành vi nào sau đây không thuộc hành vi bị nghiêm cấm về cư trú?,"
+Ví dụ:
+Trích lại điều luật: Điều 7 Luật Cư trú: text: Các hành vi bị nghiêm cấm về cư trú
+
+1. Cản trở công dân thực hiện quyền tự do cư trú.
+
+2. Lạm dụng việc sử dụng thông tin về nơi thường trú, nơi tạm trú làm điều kiện để hạn chế quyền, lợi ích hợp pháp của công dân.
+
+3. Đưa, môi giới, nhận hối lộ trong việc đăng ký, quản lý cư trú.
+
+Suy luận: Một số ví dụ về hành vi bị nghiêm cấm về cư trú bao gồm cản trở công dân thực hiện quyền tự do cư trú, lạm dụng việc sử dụng thông tin về nơi thường trú, nơi tạm trú làm điều kiện để hạn chế quyền, lợi ích hợp pháp của công dân, và đưa, môi giới, nhận hối lộ trong việc đăng ký, quản lý cư trú.
+
+Kết luận: Câu nói ""Hà"
+TN-13,C,Luật Hôn nhân và gia đình,4,Đâu không phải là vai trò của nhà nước là gì trong việc bảo hộ hôn nhân và gia đình?,"
+Ví dụ:
+Trích lại điều luật: Điều 2 Luật Hôn nhân và gia đình: text: Những nguyên tắc cơ bản của chế độ hôn nhân và gia đình
+1. Hôn nhân tự nguyện, tiến bộ, một vợ một chồng, vợ chồng bình đẳng.
+
+Đưa ra suy luận của bạn: Vai trò của nhà nước trong việc bảo hộ hôn nhân và gia đình bao gồm việc thúc đẩy hôn nhân tự nguyện, tiến bộ, một vợ một chồng, và vợ chồng bình đẳng.
+kết luận: Không, vai trò của nhà nước không chỉ đơn giản là thúc đẩy hôn nhân tự nguyện, tiến bộ, một vợ một chồng, và vợ chồng bình đẳng. Nó cũng liên quan đến việc bảo vệ quyền và lợi ích hợp pháp của các bên trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài, bảo hộ hôn nhân và gia đình, và tạo điều kiện để nam, nữ xác lập hôn nhân tự nguyện, tiến bộ"
+TN-14,A,Luật Hôn nhân và gia đình,35,"Vợ chồng có quyền như nào trong việc chiếm hữu, sử dụng và định đoạt tài sản chung","
+Câu trả lời: Trích lại điều luật: Điều 213 Bộ luật Dân sự: text: Sở hữu chung của vợ chồng
+
+Suy luận: Theo điều luật này, vợ chồng có quyền ngang nhau trong việc chiếm hữu, sử dụng và định đoạt tài sản chung.
+
+Kết luận: Dựa trên điều luật này, vợ chồng có quyền bình đẳng trong việc chiếm hữu, sử dụng và định đoạt tài sản chung. "
+TN-15,C,Luật Du lịch,59,"Đâu không phải là điều kiện cấp thẻ dướng dẫn viên du lịch? A: Có quốc tịch Việt Nam, thường trú tại Việt Nam; B: Có năng lực hành vi dân sự đầy đủ; C: Tốt nghiệp đại học trở lên chuyên ngành kế toán; D: Không mắc bệnh truyền nhiễm, không sử dụng chất ma túy","
+Ví dụ:
+Trích lại điều luật: Điều 59 Luật Du lịch: a) Điều kiện quy định tại các điểm a, b và c khoản 1 Điều này;
+Suy luận: Các điều kiện để cấp thẻ hướng dẫn viên du lịch bao gồm việc có quốc tịch Việt Nam, thường trú tại Việt Nam, tốt nghiệp trung cấp trở lên chuyên ngành hướng dẫn du lịch hoặc tương đương, đồng thời sử dụng thành thạo ngoại ngữ nếu cần thiết.
+Kết luận: Câu trả lời đúng là A: Có quốc tịch Việt Nam, thường trú tại Việt Nam. "
+TN-16,B,Luật Cư trú,33,"Điều nào sau đây không thuộc trách nhiệm của cơ quan đăng ký cư trú? A: Xác nhận thông tin về cư trú, thông báo về kết quả thực hiện các thủ tục đăng ký thường trú, đăng ký tạm trú, gia hạn tạm trú, khai báo thông tin, điều chỉnh thông tin về cư trú, tách hộ, khai báo tạm vắng dưới hình thức văn bản, tin nhắn điện tử hoặc hình thức khác theo quy định của Bộ trưởng Bộ Công an, B: Ban hành, in ấn và quản lý tờ khai thay đổi thông tin cư trú và các giấy tờ, tài liệu, biểu mẫu, sổ sách về cư trú, D: Cập nhật thông tin về cư trú của công dân vào Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu về cư trú, D: Quản lý, lưu trữ hồ sơ, giấy tờ, tài liệu về đăng ký, quản lý cư trú và bảo mật thông tin về đăng ký cư trú của công dân.","
+Ví dụ:
+Trích lại điều luật: Điều 33 Luật Cư trú
+Đưa ra suy luận của bạn: Theo Điều 33 Luật Cư trú, cơ quan đăng ký cư trú chịu trách nhiệm xác nhận thông tin về cư trú, thông báo về kết quả thực hiện các thủ tục đăng ký thường trú, đăng ký tạm trú, gia hạn tạm trú, khai báo thông tin, điều chỉnh thông tin về cư trú, tách hộ, khai báo tạm vắng dưới hình thức văn bản, tin nhắn điện tử hoặc hình thức khác theo quy định của Bộ trưởng Bộ Công an.
+kết luận: Dựa trên Điều 33 Luật Cư trú, lựa chọn đúng là A.
+
+Trích lại điều luật: Điều 28 Luật Cư trú
+Đưa ra suy luận của bạn: Theo Điều 28 Luật Cư trú, cơ quan đăng ký cư trú chịu trách nhiệm xử lý đơn xin gia hạn tạm trú.
+kết luận:"
+TN-17,D,Luật Điện ảnh,27,Đơn vị nào có thẩm quyền cấp giấy phép phân loại phim?,"
+Ví dụ:
+Trích lại điều luật: Điều 27 Luật Điện ảnh: a) Bộ Văn hóa, Thể thao và Du lịch cấp Giấy phép phân loại phim phổ biến trong rạp chiếu phim; tại địa điểm chiếu phim công cộng; trên không gian mạng trong trường hợp quy định tại điểm b khoản 2 Điều 21 của Luật này; tại trụ sở cơ quan ngoại giao, cơ sở văn hóa nước ngoài được thành lập tại Việt Nam quy định tại Điều 24 của Luật này;
+
+Suy luận: Theo điều luật này, Bộ Văn hóa, Thể thao và Du lịch chịu trách nhiệm cấp Giấy phép phân loại phim ở nhiều nơi khác nhau, chẳng hạn như rạp chiếu phim, địa điểm chiếu phim công cộng, trên không gian mạng (nếu phù hợp), trụ sở cơ quan ngoại giao và cơ sở văn hóa nước ngoài tại Việt Nam.
+
+Kết luận: Dựa trên điều luật được cung cấp, Bộ Văn hóa, Thể thao"
+TN-18,C,Luật Hôn nhân và gia đình,82,"Đâu không phải là nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn","
+Ví dụ:
+Trích lại điều luật: Điều 82 Luật Hôn nhân và gia đình: text: Nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn
+Đưa ra suy luận của bạn: Theo Điều 82 Luật Hôn nhân và Gia đình, cha, mẹ không trực tiếp nuôi con có nghĩa vụ tôn trọng quyền của con được sống chung với người trực tiếp nuôi, có nghĩa vụ cấp dưỡng cho con, và có quyền, nghĩa vụ thăm nom con mà không ai được cản trở.
+kết luận: Câu nói ""Không phải là nghĩa vụ, quyền của cha, mẹ không trực tiếp nuôi con sau khi ly hôn"" là sai vì nó mâu thuẫn với thông tin được cung cấp bởi Điều 82 Luật Hôn nhân và Gia đình. "
+TN-19,D,Luật Trọng tài thương mại,5,Điều kiện để giải quyết tranh chấp bằng trọng tài là gì?,"
+Ví dụ:
+Trích dẫn điều luật: Điều 4 Luật Trọng tài thương mại: text: Nguyên tắc giải quyết tranh chấp bằng Trọng tài
+
+1. Trọng tài viên phải tôn trọng thoả thuận của các bên nếu thỏa thuận đó không vi phạm điều cấm và trái đạo đức xã hội.
+
+2. Trọng tài viên phải độc lập, khách quan, vô tư và tuân theo quy định của pháp luật.
+
+3. Các bên tranh chấp đều bình đẳng về quyền và nghĩa vụ. Hội đồng trọng tài có trách nhiệm tạo điều kiện để họ thực hiện các quyền và nghĩa vụ của mình.
+
+Suy luận: Để giải quyết tranh chấp bằng trọng tài, cần phải có thỏa thuận giữa các bên liên quan đến việc sử dụng trọng tài như một cơ chế giải quyết tranh chấp. Thỏa thuận này có thể được thiết lập trước hoặc sau khi xảy ra tranh chấp. Ngoài ra, trọng tài viên phải độc lập, khách quan và vô tư,"
+TN-20,B,Luật Trọng tài thương mại,9,"Trong tố tụng trọng tài, các bên có thể thương lượng, hòa giải với nhau như thế nào?","
+Ví dụ:
+Trích lại điều luật: Điều 9 Luật Trọng tài thương mại: text: Thương lượng, hoà giải trong tố tụng trọng tài
+
+Đưa ra suy luận của bạn: Theo Điều 9 Luật Trọng tài thương mại, trong quá trình tố tụng trọng tài, các bên có quyền tự do thương lượng, thỏa thuận với nhau về việc giải quyết tranh chấp hoặc yêu cầu Hội đồng trọng tài hòa giải để các bên thỏa thuận với nhau về việc giải quyết tranh chấp.
+
+kết luận: Dựa vào Điều 9 Luật Trọng tài thương mại, trong tố tụng trọng tài, các bên có thể thương lượng, hòa giải với nhau bằng cách tự do thương lượng, thỏa thuận với nhau về việc giải quyết tranh chấp hoặc yêu cầu Hội đồng trọng tài hòa giải để các bên thỏa thuận với nhau về việc giải quyết tranh chấp. "
+TN-21,A,Luật Cư trú,25,"Thời hạn cơ quan đăng ký cư trú thẩm định, cập nhật thông tin về hộ gia đình liên quan đến việc tách hộ vào Cơ sở dữ liệu về cư trú là bao lâu kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ?","
+Ví dụ:
+Trích lại điều luật: Điều 25 Luật Cư trú: b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, cơ quan đăng ký cư trú có trách nhiệm thẩm định, cập nhật thông tin về hộ gia đình liên quan đến việc tách hộ vào Cơ sở dữ liệu về cư trú và thông báo cho người đăng ký về việc đã cập nhật thông tin; trường hợp từ chối giải quyết tách hộ thì phải trả lời bằng văn bản và nêu rõ lý do.
+Suy luận: Theo Điều 25 Luật Cư trú, thời hạn cơ quan đăng ký cư trú thẩm định, cập nhật thông tin về hộ gia đình liên quan đến việc tách hộ vào Cơ sở dữ liệu về cư trú là 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
+Kết luận: Đúng vậy, thời hạn cơ quan đăng ký cư trú thẩm định, cập"
+TN-22,B,Luật Hôn nhân và gia đình,71,"Cha mẹ KHÔNG có nghĩa vụ cùng nhau chăm sóc, nuôi dưỡng con khi nào ","
+Ví dụ:
+Trích lại điều luật: Điều 71 Luật Hôn nhân và gia đình: text: Nghĩa vụ và quyền chăm sóc, nuôi dưỡng
+1. Cha, mẹ có nghĩa vụ và quyền ngang nhau, cùng nhau chăm sóc, nuôi dưỡng con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+Đưa ra suy luận của bạn: Dựa vào điều luật này, cha mẹ luôn có nghĩa vụ và quyền chăm sóc, nuôi dưỡng con cái như nhau bất kể độ tuổi hay tình trạng sức khỏe của họ.
+kết luận: Đúng, cha mẹ CÓ nghĩa vụ cùng nhau chăm sóc, nuôi dưỡng con khi nào. "
+TN-23,A,"Luật Phòng, chống ma túy",2,Cây có chứa chất ma túy là cây gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 2 Luật Phòng, chống ma túy: 4. Tiền chất là hóa chất không thể thiếu được trong quá trình điều chế, sản xuất chất ma túy được quy định trong danh mục tiền chất do Chính phủ ban hành.
+Đưa ra suy luận của bạn: Một ví dụ về tiền chất là hóa chất được sử dụng trong quá trình điều chế, sản xuất chất ma túy.
+kết luận: Đúng, cây có chứa chất ma túy là cây thuốc phiện, cây côca, cây cần sa và các loại cây khác có chứa chất ma túy do Chính phủ quy định. "
+TN-24,D,Luật Trọng tài thương mại,14,Điều nào dưới đây nằm trong luật áp dụng giải quyết tranh chấp được quy định trong Luật Trọng tài thương mại?,"
+Ví dụ:
+Trích dẫn điều luật: Điều 14 Luật Trọng tài thương mại: text: Luật áp dụng giải quyết tranh chấp
+
+Suy luận: Theo Điều 14 Luật Trọng tài thương mại, Hội đồng trọng tài áp dụng pháp luật do các bên lựa chọn; nếu các bên không có thỏa thuận về luật áp dụng thì Hội đồng trọng tài quyết định áp dụng pháp luật mà Hội đồng trọng tài cho là phù hợp nhất.
+
+Kết luận: Đúng, Điều 14 Luật Trọng tài thương mại bao gồm luật áp dụng giải quyết tranh chấp. "
+TN-25,A,Luật Trọng tài thương mại,18,Trong trường hợp nào thỏa thuận trọng tài bị vô hiệu?,"
+Ví dụ:
+Trích lại điều luật: Điều 18 Luật Trọng tài thương mại: text: Thoả thuận trọng tài vô hiệu
+
+1. Tranh chấp phát sinh trong các lĩnh vực không thuộc thẩm quyền của Trọng tài quy định tại Điều 2 của Luật này.
+
+2. Người xác lập thoả thuận trọng tài không có thẩm quyền theo quy định của pháp luật.
+
+3. Người xác lập thoả thuận trọng tài không có năng lực hành vi dân sự theo quy định của Bộ luật dân sự.
+
+4. Hình thức của thoả thuận trọng tài không phù hợp với quy định tại Điều 16 của Luật này.
+
+Suy luận: Theo Điều 18 Luật Trọng tài thương mại, một thỏa thuận trọng tài sẽ bị coi là vô hiệu nếu nó liên quan đến các vấn đề nằm ngoài thẩm quyền của Trọng tài, người xác lập thỏa thuận không có thẩm quyền hoặc thiếu năng lực hành vi dân sự, hoặc hình"
+TN-26,A,Luật Trọng tài thương mại,19,Thỏa thuận trọng tài có độc lập với hợp đồng hay không?,"
+Ví dụ:
+Trích lại điều luật: Điều 19 Luật Trọng tài thương mại: text: Tính độc lập của thoả thuận trọng tài
+
+Đưa ra suy luận của bạn: Theo điều luật này, thoả thuận trọng tài hoàn toàn độc lập với hợp đồng. Việc thay đổi, gia hạn, huỷ bỏ hợp đồng, hợp đồng vô hiệu hoặc không thể thực hiện được không làm mất hiệu lực của thoả thuận trọng tài.
+kết luận: Có, thoả thuận trọng tài có tính độc lập với hợp đồng. "
+TN-27,B,"Luật Phòng, chống ma túy",2,Chất hướng thần được định nghĩa là gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 2 Luật Phòng, chống ma túy: text: Giải thích từ ngữ
+
+Đưa ra suy luận của bạn: Trong Luật này, các từ ngữ dưới đây được hiểu như sau;
+
+1. Chất ma túy là chất gây nghiện, chất hướng thần được quy định trong danh mục chất ma túy do Chính phủ ban hành.
+
+2. Chất gây nghiện là chất kích thích hoặc ức chế thần kinh, dễ gây tình trạng nghiện đối với người sử dụng.
+
+3. Chất hướng thần là chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác, nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện đối với người sử dụng.
+
+Đưa ra suy luận của bạn: Định nghĩa chất hướng thần là chất kích thích hoặc ức chế thần kinh hoặc gây ảo giác, nếu sử dụng nhiều lần có thể dẫn tới tình trạng nghiện đối với người sử dụng.
+
+Kết luận"
+TN-28,B,Luật Du lịch,50,Hồ sơ đăng ký công nhận hạng cơ sở lưu trú du lịch không bao gồm?,"
+Ví dụ:
+Trích lại điều luật: Điều 50 Luật Du lịch: text: Xếp hạng cơ sở lưu trú du lịch
+1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký xếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thẩm quyền.
+
+Suy luận: Dựa vào điều luật này, chúng ta biết rằng khi đăng ký xếp hạng cơ sở lưu trú du lịch, tổ chức hoặc cá nhân cần cung cấp đơn đề nghị theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định cùng với bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.
+
+Kết luận: Không có yêu cầu cụ thể nào về việc cung cấp danh sách người quản lý và nhân viên trong cơ sở lưu trú du lịch hoặc bản sao có chứng thực văn bằng, chứng chỉ, giấy chứng nhận bồi dưỡng nghiệp vụ và giấy chứng nhận thời gian làm"
+TN-29,C,Luật Viên chức,29,Trong trường hợp nào thì đơn vị sự nghiệp công lập được đơn phương chấm dứt hợp đồng lao động đối với viên chức?,"
+Ví dụ:
+Trích lại điều luật: Điều 29 Luật Viên chức: 1. Đơn phương chấm dứt hợp đồng làm việc, trừ trường hợp quy định tại điểm b khoản 1 Điều này, người đứng đầu đơn vị sự nghiệp công lập phải báo cho viên chức biết trước ít nhất 45 ngày đối với hợp đồng làm việc không xác định thời hạn hoặc ít nhất 30 ngày đối với hợp đồng làm việc xác định thời hạn. Đối với viên chức do cơ quan quản lý đơn vị sự nghiệp công lập thực hiện tuyển dụng, việc đơn phương chấm dứt hợp đồng làm việc do người đứng đầu đơn vị sự nghiệp công lập quyết định sau khi có sự đồng ý bằng văn bản của cơ quan quản lý đơn vị sự nghiệp công lập.
+
+Suy luận: Theo Điều 29 Luật Viên chức, người đứng đầu đơn vị sự nghiệp công lập có thể đơn phương chấm dứt hợp đồng làm việc với viên chức nếu họ thông báo"
+TN-30,D,Luật Du lịch,72,Nguyên tắc hoạt động của Quỹ hỗ trợ phát triển du lịch không bao gồm điều nào dưới đây?,"
+Ví dụ:
+Trích lại điều luật: Điều 71 Luật Du lịch: text: Mục đích của Quỹ hỗ trợ phát triển du lịch
+Suy luận: Mục đích của Quỹ hỗ trợ phát triển du lịch là xúc tiến du lịch trong nước và nước ngoài, hỗ trợ nghiên cứu thị trường và phát triển sản phẩm du lịch, hỗ trợ đào tạo, bồi dưỡng phát triển nguồn nhân lực du lịch, hỗ trợ hoạt động truyền thông du lịch trong cộng đồng.
+Kết luận: Mục đích của Quỹ hỗ trợ phát triển du lịch không bao gồm việc cung cấp học bổng hoặc giải thưởng cho sinh viên. "
+TN-31,D,Luật Điện ảnh,31,"Đơn vị nào có thẩm quyền thành lập hội đồng thẩm định, phân loại phim?","
+Ví dụ:
+Trích lại điều luật: Điều 31 Luật Điện ảnh: 3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định tổ chức và hoạt động của Hội đồng thẩm định, phân loại phim.
+Đưa ra suy luận của bạn: Dựa vào điều luật này, chúng ta biết rằng Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch có thẩm quyền thành lập Hội đồng thẩm định, phân loại phim.
+kết luận: Đúng vậy, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch có thẩm quyền thành lập Hội đồng thẩm định, phân loại phim. "
+TN-32,C,Luật Điện ảnh,43,Quỹ hỗ trợ phát triển điện ảnh có mục đích gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 42 Luật Điện ảnh: text: Thành lập Quỹ hỗ trợ phát triển điện ảnh
+Suy luận: Theo Điều 42 Luật Điện ảnh, Quỹ hỗ trợ phát triển điện ảnh là quỹ tài chính nhà nước ngoài ngân sách được Nhà nước hỗ trợ vốn điều lệ, thành lập và hoạt động theo quy định của pháp luật; có khả năng tài chính độc lập; có nguồn thu, nhiệm vụ chi không trùng với nguồn thu, nhiệm vụ chi của ngân sách nhà nước; có tư cách pháp nhân, có con dấu, tài khoản riêng, do Thủ tướng Chính phủ quyết định thành lập, phê duyệt Điều lệ tổ chức và hoạt động.
+Kết luận: Quỹ hỗ trợ phát triển điện ảnh là quỹ tài chính nhà nước ngoài ngân sách được Nhà nước hỗ trợ vốn điều lệ, thành lập và hoạt động theo quy định của pháp luật; có khả năng tài chính độc lập; có nguồn thu, nhiệm"
+TN-33,B,Luật Du lịch,75,"Theo Luật Du Lịch về trách nhiệm quản lý nhà nước về du lịch, ủy ban nhân dân các cấp không có nhiệm vụ, quyền hạn nào sau đây? A: Tổ chức tiếp nhận và giải quyết kiến nghị của khách du lịch; B: Lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật; C: Quản lý tài nguyên du lịch, khu du lịch, điểm du lịch, hoạt động kinh doanh du lịch và hướng dẫn du lịch trên địa bàn; D:Tuyên truyền, nâng cao nhận thức của người dân để bảo đảm môi trường du lịch thân thiện, lành mạnh và văn minh","Câu trả lời: Trích lại điều luật: Điều 37 Luật Du lịch: 3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch ra nước ngoài có quyền và nghĩa vụ sau đây:
+
+Suy luận: Ủy ban nhân dân các cấp không có nhiệm vụ, quyền hạn ""Tổ chức tiếp nhận và giải quyết kiến nghị của khách du lịch"" vì nó thuộc về trách nhiệm của doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch ra nước ngoài (theo Điều 37 Luật Du lịch).
+
+Kết luận: Câu nói của người dùng là đúng. "
+TN-34,B,Luật Trọng tài thương mại,22,Hiệp hội trọng tài là gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 22 Luật Trọng tài thương mại: text: Hiệp hội trọng tài
+
+Đưa ra suy luận của bạn: Hiệp hội trọng tài là tổ chức xã hội – nghề nghiệp của Trọng tài viên và Trung tâm trọng tài trong phạm vi cả nước.
+kết luận: Hiệp hội trọng tài là một tổ chức tập hợp các Trọng tài viên và Trung tâm trọng tài nhằm thúc đẩy và hỗ trợ công tác trọng tài trong cả nước. "
+TN-35,D,Luật Hôn nhân và gia đình,5,"Hành vi nào sau đây bị cấm?A: Cưỡng ép ly hôn, lừa dối ly hôn, cản trở ly hôn; B: Yêu sách của cải trong kết hôn; C: Thực hiện sinh con bằng kỹ thuật hỗ trợ sinh sản vì mục đích thương mại, D: cả 3 phương án đều đúng","
+Ví dụ:
+Trích lại điều luật: Điều 5 Luật Hôn nhân và gia đình: text: Bảo vệ chế độ hôn nhân và gia đình
+1. Quan hệ hôn nhân và gia đình được xác lập, thực hiện theo quy định của Luật này được tôn trọng và được pháp luật bảo vệ.
+
+Suy luận: Điều luật này đề cập đến việc bảo vệ quan hệ hôn nhân và gia đình khỏi bị tổn hại bởi các hành vi cụ thể.
+
+Kết luận: Câu trả lời A (Cưỡng ép ly hôn, lừa dối ly hôn, cản trở ly hôn) phù hợp với điều luật được cung cấp. "
+TN-36,D,"Luật Phòng, chống ma túy",35,Cơ sở cai nghiện ma túy công lập phải bố trí các khu gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 35 Luật Phòng, chống ma túy: 2. Cơ sở cai nghiện ma túy công lập phải bố trí các khu sau đây:
+
+Suy luận: Dựa trên điều luật này, chúng ta biết rằng cơ sở cai nghiện ma túy công lập cần có ba loại khu vực: khu lưu trú tạm thời, khu cai nghiện ma túy bắt buộc và khu cai nghiện ma túy tự nguyện.
+
+Kết luận: Có, dựa trên thông tin được cung cấp bởi người dùng, đúng là cơ sở cai nghiện ma túy công lập phải bố trí các khu như vậy. "
+TN-37,C,Luật Cư trú,20,"Trường hợp nào sau đây không được đăng ký thường trú tại cơ sở tín ngưỡng, cơ sở tôn giáo có công trình phụ trợ là nhà ở?","
+Ví dụ:
+Trích lại điều luật: Điều 20 Luật Cư trú: a) Được chủ sở hữu chỗ ở hợp pháp đồng ý cho đăng ký thường trú tại địa điểm thuê, mượn, ở nhờ và được chủ hộ đồng ý nếu đăng ký thường trú vào cùng hộ gia đình đó;
+
+Suy luận: Một cá nhân phải được chủ sở hữu chỗ ở hợp pháp đồng ý cho đăng ký thường trú tại địa điểm thuê, mượn, ở nhờ và cũng cần được chủ hộ đồng ý nếu đăng ký thường trú vào cùng hộ gia đình đó.
+
+Kết luận: Cá nhân không thể đăng ký thường trú tại cơ sở tín ngưỡng, cơ sở tôn giáo có công trình phụ trợ là nhà ở mà không có sự đồng ý từ cả chủ sở hữu chỗ ở hợp pháp lẫn chủ hộ. "
+TN-38,C,Luật Giáo dục,36,Mục tiêu của giáo dục nghề nghiệp là gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 36 Luật Giáo dục: text: Mục tiêu của giáo dục nghề nghiệp
+
+Đưa ra suy luận của bạn: Mục tiêu của giáo dục nghề nghiệp là đào tạo nhân lực trực tiếp cho sản xuất, kinh doanh và dịch vụ, có năng lực hành nghề tương ứng với trình độ đào tạo; có đạo đức, sức khỏe; có trách nhiệm nghề nghiệp; có khả năng sáng tạo, thích ứng với môi trường hội nhập quốc tế; bảo đảm nâng cao năng suất, chất lượng lao động; tạo điều kiện cho người học sau khi hoàn thành khóa học có khả năng tìm việc làm, tự tạo việc làm hoặc học trình độ cao hơn.
+kết luận: Mục tiêu của giáo dục nghề nghiệp là đào tạo nhân lực trực tiếp cho sản xuất, kinh doanh và dịch vụ, có năng lực hành nghề tương ứng với trình độ đào tạo; có đạo đức, sức khỏe;"
+TN-39,C,Luật Giáo dục,42,"Nhiệm vụ của giáo dục thường xuyên là gì? A: Thực hiện xóa mù chữ cho người trong độ tuổi theo quy định của pháp luật, B:Tạo cơ hội cho người có nhu cầu học tập nâng cao trình độ học vấn; C: Cả A, B đều đúng; D: Cả A, B đều sai","
+Câu trả lời: Trích lại điều luật: Điều 42 Luật Giáo dục: text: Nhiệm vụ của giáo dục thường xuyên
+
+Đưa ra suy luận của bạn: Dựa vào nội dung của điều luật, chúng ta thấy rằng nhiệm vụ của giáo dục thường xuyên bao gồm hai khía cạnh chính: (A) Thực hiện xóa mù chữ cho người trong độ tuổi theo quy định của pháp luật và (B) Tạo cơ hội cho người có nhu cầu học tập nâng cao trình độ học vấn.
+
+kết luận: Câu trả lời đúng là C: Cả A, B đều đúng. "
+TN-40,C,"Luật Phòng, chống ma túy",28,Các biện pháp cai nghiện ma túy là những biện pháp nào sau đây?,"
+Ví dụ:
+Trích lại điều luật: Điều 28 Luật Phòng, chống ma túy: text: Các biện pháp cai nghiện ma túy
+
+Suy luận: Các biện pháp cai nghiện ma túy bao gồm cai nghiện ma túy tự nguyện và cai nghiện ma túy bắt buộc.
+Kết luận: Câu nói đúng. "
+TL-1,10 ngày,Luật Trọng tài thương mại,32,"Trong trường hợp các bên không có thỏa thuận khác hoặc quy tắc tố tụng của trung tâm trọng tài không có quy định khác, Trung tâm trọng tài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và những tài liệu theo quy định trong thời hạn bao lâu kể từ ngày nhận được đơn khởi kiện?","
+Câu trả lời: Trích dẫn Điều 32 Luật Trọng tài thương mại: ""Trong trường hợp các bên không có thoả thuận khác hoặc quy tắc tố tụng của Trung tâm trọng tài không có quy định khác, trong thời hạn mười ngày, kể từ ngày nhận được đơn khởi kiện, các tài liệu kèm theo và chứng từ nộp tạm ứng phí trọng tài, Trung tâm trọng tài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và những tài liệu theo quy định tại khoản 3 Điều 30 của Luật này."" Suy luận: Dựa trên điều luật đã nêu, Trung tâm trọng tài phải gửi cho bị đơn bản sao đơn khởi kiện của nguyên đơn và những tài liệu liên quan trong vòng 10 ngày kể từ ngày nhận được đơn khởi kiện, các tài liệu kèm theo và chứng từ nộp tạm ứng phí trọng tài. Kết luận: Đúng vậy, dựa trên Điều 32 Luật Trọng tài thương mại, Trung tâm trọng tài phải gửi cho bị"
+TL-2,3 cm x 4 cm,Luật Du lịch,63,Hồ sơ đề nghị cấp lại thẻ hướng dẫn viên du lịch bao gồm ảnh chân dung màu cỡ bao nhiêu?,"
+Ví dụ:
+Trích lại điều luật: Điều 63 Luật Du lịch: text: Cấp lại thẻ hướng dẫn viên du lịch
+1. Thẻ hướng dẫn viên du lịch được cấp lại trong trường hợp bị mất, bị hư hỏng hoặc thay đổi thông tin trên thẻ. Thời hạn của thẻ hướng dẫn viên du lịch được cấp lại bằng thời hạn còn lại của thẻ đã được cấp.
+
+Đưa ra suy luận của bạn: Dựa vào điều luật trên, chúng ta biết rằng việc cấp lại thẻ hướng dẫn viên du lịch là cần thiết nếu thẻ bị mất hoặc bị hư hỏng. Chúng ta cũng biết rằng thời hạn của thẻ mới sẽ giống với thời hạn còn lại của thẻ cũ. Tuy nhiên, điều luật không đề cập cụ thể đến kích thước của ảnh chân dung.
+
+kết luận: Ảnh chân dung màu cỡ 3cm x 4cm không được đề cập trực tiếp trong điều luật được cung cấp. Do đó, dựa trên thông tin"
+TL-3,1 năm,"Luật Phòng, chống ma túy",23,"Thời hạn quản lý người sử dụng trái phép chất ma túy là bao lâu kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã, phường ra quyết định quản lý?","
+Ví dụ:
+Trích lại điều luật: Điều 23 Luật Phòng, chống ma túy: 4. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được kết quả xét nghiệm dương tính của người cư trú tại địa phương, Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm ra quyết định và tổ chức quản lý người sử dụng trái phép chất ma túy cư trú tại địa phương.
+
+Suy luận: Theo Điều 23 Luật Phòng, chống ma túy, thời hạn quản lý người sử dụng trái phép chất ma túy là 03 ngày làm việc kể từ khi Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý.
+
+Kết luận: Thời hạn quản lý người sử dụng trái phép chất ma túy là 03 ngày làm việc kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ra quyết định quản lý. "
+TL-4,"Tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài.",Luật Trọng tài thương mại,23,Chức năng của Trung tâm trọng tài là gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 23 Luật Trọng tài thương mại: text: Chức năng của Trung tâm trọng tài
+Chức năng của Trung tâm trọng tài là tổ chức, điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế và hỗ trợ Trọng tài viên về các mặt hành chính, văn phòng và các trợ giúp khác trong quá trình tố tụng trọng tài.
+Suy luận: Theo điều luật đã trích dẫn, Trung tâm trọng tài chịu trách nhiệm quản lý việc giải quyết tranh chấp thông qua Trọng tài quy chế và cung cấp sự hỗ trợ cần thiết cho Trọng tài viên trong suốt quá trình tố tụng.
+Kết luận: Dựa trên điều luật đã trích dẫn, chức năng của Trung tâm trọng tài bao gồm tổ chức và điều phối hoạt động giải quyết tranh chấp bằng Trọng tài quy chế cũng như hỗ trợ Trọng tài viên về các vấn đề hành chính và văn phòng. "
+TL-5,"Công dân chỉ cần xuất trình thẻ CMND/CCCD, cơ quan có thẩm quyền sẽ tra cứu được các thông tin cư trú trong hệ thống cơ sở dữ liệu quốc gia.",Luật Cư trú,37,Sau khi sổ hộ khẩu hết hiệu lực (hết ngày 31/12/2022) thì chứng minh nơi thường trú bằng cách nào?,"
+Ví dụ:
+Trích lại điều luật: Điều 38 Luật Cư trú: text: Thời hiệu thừa kế
+
+Suy luận: Theo Điều 38 Luật Cư trú, nếu người thừa kế đang quản lý di sản thì họ có thể sử dụng di sản làm bằng chứng về nơi thường trú.
+Kết luận: Nếu người thừa kế đang quản lý di sản, họ có thể sử dụng nó làm bằng chứng về nơi thường trú. "
+TL-6,đăng ký kết hôn,Luật Hôn nhân và gia đình,9,Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì cần làm thủ tục gì?,"
+Ví dụ:
+Trích lại điều luật: Điều 9 Luật Hôn nhân và gia đình
+Đưa ra suy luận của bạn: Theo Điều 9 Luật Hôn nhân và Gia đình, việc kết hôn phải được đăng ký và do cơ quan nhà nước có thẩm quyền thực hiện theo quy định của Luật này và pháp luật về hộ tịch.
+kết luận: Để xác lập lại quan hệ vợ chồng sau khi ly hôn, vợ chồng cần tiến hành đăng ký kết hôn. "
+TL-7,Cán bộ quản lý giáo dục,Luật Giáo dục,18,"Ai là người giữ vai trò quan trọng trong việc quản lý, tổ chức, và điều hành các hoạt động giáo dục?","
+Ví dụ:
+Trích lại điều luật: Điều 104 Luật Giáo dục: 1. Quản lý nhà nước về giáo dục.
+Suy luận: Dựa vào điều luật này, chúng ta biết rằng quản lý nhà nước về giáo dục bao gồm nhiều khía cạnh như quy định về hệ thống giáo dục, tiêu chuẩn đối với nhà giáo và cán bộ quản lý giáo dục, thanh tra, kiểm tra việc chấp hành pháp luật về giáo dục, v.v...
+Kết luận: Câu nói ""Ai là người giữ vai trò quan trọng trong việc quản lý, tổ chức, và điều hành các hoạt động giáo dục?"" ám chỉ đến cán bộ quản lý giáo dục, vì họ chịu trách nhiệm về tất cả các khía cạnh liên quan đến quản lý nhà nước về giáo dục. "
+TL-8,Ngân sách nhà nước,Luật Giáo dục,17,Nguồn tài chính nào giữ vai trò chủ đạo trong tổng nguồn lực đầu tư cho giáo dục?,"
+Ví dụ:
+Trích lại điều luật: Điều 96 Luật Giáo dục: text: Ngân sách nhà nước đầu tư cho giáo dục
+
+Đưa ra suy luận của bạn: Dựa vào điều luật này, chúng ta biết rằng ngân sách nhà nước chiếm vai trò chủ đạo trong tổng nguồn lực đầu tư cho giáo dục.
+kết luận: Đúng vậy, ngân sách nhà nước giữ vai trò chủ đạo trong tổng nguồn lực đầu tư cho giáo dục. "
+TL-9,"Bộ Văn hóa, Thể thao và Du lịch",Luật Điện ảnh,45,Cơ quan nào có trách nhiệm là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh?,"
+Ví dụ:
+Trích lại điều luật: Điều 45 Luật Điện ảnh: text: Trách nhiệm quản lý nhà nước về điện ảnh của Chính phủ, Bộ Văn hóa, Thể thao và Du lịch
+
+Suy luận: Theo điều luật này, Bộ Văn hóa, Thể thao và Du lịch chịu trách nhiệm giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh.
+
+Kết luận: Dựa trên điều luật đã cho, Bộ Văn hóa, Thể thao và Du lịch là cơ quan giúp Chính phủ thực hiện quản lý nhà nước về điện ảnh. "
+TL-10,Chính phủ,Luật Điện ảnh,45,Cơ quan nào có trách nhiệm thống nhất quản lý nhà nước về điện ảnh?,"
+Ví dụ:
+Trích lại điều luật: Điều 45 Luật Điện ảnh: text: Trách nhiệm quản lý nhà nước về điện ảnh của Chính phủ, Bộ Văn hóa, Thể thao và Du lịch
+
+Đưa ra suy luận của bạn: Dựa vào Điều 45 Luật Điện ảnh, chúng ta biết rằng Bộ Văn hóa, Thể thao và Du lịch chịu trách nhiệm thống nhất quản lý nhà nước về điện ảnh.
+kết luận: Theo Điều 45 Luật Điện ảnh, Bộ Văn hóa, Thể thao và Du lịch chịu trách nhiệm thống nhất quản lý nhà nước về điện ảnh. "

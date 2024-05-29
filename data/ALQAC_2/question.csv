@@ -1,0 +1,657 @@
+example_id,label,id,article_id,statement
+q-1,07 năm,01/VBHN-VPQH,418,Chiếm đoạt di vật của tử sĩ có thể bị phạt tù lên đến bao nhiêu năm?
+q-2,18 tuổi,01/VBHN-VPQH,39,"Theo Bộ luật Hình sự năm 2017, không áp dụng hình phạt tù chung thân đối với người dưới bao nhiêu tuổi phạm tội?"
+q-3,16 tuổi,01/VBHN-VPQH,12,"Theo Bộ luật Hình sự năm 2017, người từ đủ bao nhiêu tuổi phải chịu trách nhiệm hình sự về mọi tội phạm, trừ những tội phạm mà Bộ luật này có quy định khác?"
+q-4,Cảnh cáo,01/VBHN-VPQH,34,"Người phạm tội ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt thì được áp dụng mức hình phạt nào?"
+q-5,tù chung thân,01/VBHN-VPQH,40,"Trong trường hợp người bị kết án tử hình được ân giảm, thì hình phạt tử hình được chuyển thành hình phạt gì?"
+q-6,01 năm đến 05 năm,01/VBHN-VPQH,42,"Thời hạn cấm cư trú là từ bao nhiêu đến bao nhiêu năm, kể từ ngày chấp hành xong hình phạt tù?"
+q-7,ngân sách nhà nước,01/VBHN-VPQH,45,"Khi bị tịch thu tài sản, phần tài sản bị tịch thu của người bị kết án sẽ nộp vào đâu?"
+q-8,từ 01 năm đến 05 năm,01/VBHN-VPQH,108,Người chuẩn bị phạm tội phản bội Tổ quốc thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?
+q-9,hình sự,01/VBHN-VPQH,110,"Người đã nhận làm gián điệp, nhưng không thực hiện nhiệm vụ được giao và tự thú, thành khẩn khai báo với cơ quan nhà nước có thẩm quyền, thì được miễn trách nhiệm gì về tội gián điệp?"
+q-10,01 năm,01/VBHN-VPQH,420,"Người ngược đãi tù binh, hàng binh, thì bị phạt cải tạo không giam giữ đến bao nhiêu năm?"
+q-11,từ 05 năm đến 15 năm,01/VBHN-VPQH,425,"Người làm lính đánh thuê nhằm chống một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?"
+q-12,từ 03 năm đến 10 năm,01/VBHN-VPQH,417,Người có trách nhiệm mà cố ý bỏ nhiều hơn 2 thương binh tại trận địa dẫn đến thương binh bị chết thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?
+q-13,từ 03 năm đến 10 năm,01/VBHN-VPQH,409,"Người không chấp hành nghiêm chỉnh chế độ trực ban, trực chiến, trực chỉ huy gây hậu quả rất nghiêm trọng hoặc đặc biệt nghiêm trọng, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?"
+q-14,02 năm,01/VBHN-VPQH,403,"Người tự gây thương tích, gây tổn hại cho sức khỏe của mình hoặc dùng thủ đoạn gian dối khác để trốn tránh nhiệm vụ, thì bị phạt cải tạo không giam giữ đến bao nhiêu năm?"
+q-15,từ 07 năm đến 15 năm,01/VBHN-VPQH,399,Người là sĩ quan đầu hàng địch thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?
+q-16,từ 02 năm đến 05 năm,01/VBHN-VPQH,397,"Người trong quan hệ công tác mà xúc phạm nghiêm trọng nhân phẩm, danh dự đồng đội, dẫn đến nạn nhân tự sát thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?"
+q-17,từ 06 tháng đến 03 năm,01/VBHN-VPQH,386,"Người đang bị tạm giữ, tạm giam, áp giải, xét xử hoặc chấp hành án phạt tù mà bỏ trốn, thì bị phạt tù từ bao lâu đến bao lâu?"
+q-18,từ 01 năm đến 05 năm,01/VBHN-VPQH,357,Người phạm tội lạm quyền trong khi thi hành công vụ còn bị cấm đảm nhiệm chức vụ nhất định từ bao nhiêu đến bao nhiêu năm?
+q-19,từ 10.000.000 đồng đến 100.000.000 đồng,01/VBHN-VPQH,357,Người phạm tội lạm quyền trong khi thi hành công vụ còn có thể bị phạt tiền từ bao nhiêu đến bao nhiêu tiền?
+q-20,từ 5.000.000 đồng đến 50.000.000 đồng,01/VBHN-VPQH,347,"Người xuất cảnh, nhập cảnh trái phép hoặc ở lại Việt Nam trái phép, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt tiền từ bao nhiêu đến bao nhiêu?"
+q-21,từ 06 tháng đến 03 năm,01/VBHN-VPQH,347,"Người xuất cảnh, nhập cảnh trái phép hoặc ở lại Việt Nam trái phép, đã bị xử phạt vi phạm hành chính về hành vi này mà còn vi phạm, thì bị phạt tù từ bao lâu đến bao lâu?"
+q-22,từ 03 năm đến 07 năm,01/VBHN-VPQH,345,"Người gây hư hại di tích lịch sử - văn hóa, danh lam, thắng cảnh có giá trị từ 500.000.000 đồng trở lên, thì bị phạt tù từ bao lâu đến bao lâu?"
+q-23,từ 5.000.000 đồng đến 50.000.000 đồng,01/VBHN-VPQH,343,Người phạm tội vi phạm các quy định về quản lý nhà ở còn có thể bị phạt tiền từ bao nhiêu đến bao nhiêu?
+q-24,02 năm,01/VBHN-VPQH,342,"Người chiếm đoạt, mua bán hoặc tiêu hủy trái phép con dấu, tài liệu của cơ quan, tổ chức không thuộc tài liệu bí mật nhà nước hoặc bí mật công tác, thì bị phạt cải tạo không giam giữ đến bao lâu?"
+q-25,02 năm,01/VBHN-VPQH,339,"Người giả mạo chức vụ, cấp bậc, vị trí công tác thực hiện hành vi trái pháp luật nhưng không nhằm mục đích chiếm đoạt tài sản, thì bị phạt cải tạo không giam giữ đến bao lâu?"
+q-26,02 năm,01/VBHN-VPQH,335,"Người cố ý cản trở việc đăng ký nghĩa vụ quân sự, gọi nhập ngũ, gọi tập trung huấn luyện, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến bao lâu?"
+q-27,từ 02 năm đến 05 năm,01/VBHN-VPQH,335,"Người phạm tội cản trở thực hiện nghĩa vụ quân sự trong thời chiến, thì bị phạt tù từ bao lâu đến bao lâu?"
+q-28,03 năm,01/VBHN-VPQH,336,"Người có nhiệm vụ, quyền hạn mà thực hiện việc đăng ký, cấp giấy tờ về hộ tịch trái pháp luật, đã bị xử lý kỷ luật về hành vi này mà còn vi phạm, thì bị phạt cảnh cáo, phạt cải tạo không giam giữ đến bao lâu?"
+q-29,03 năm,01/VBHN-VPQH,334,"Người lợi dụng chức vụ, quyền hạn làm trái quy định về đăng ký nghĩa vụ quân sự, gọi nhập ngũ, gọi tập trung huấn luyện, thì bị phạt cải tạo không giam giữ đến bao lâu?"
+q-30,từ 01 đến 05 năm,01/VBHN-VPQH,332,"Người phạm tội trốn tránh nghĩa vụ quân sự trong thời chiến, thì bị phạt tù từ bao nhiêu năm đến bao nhiêu năm?"
+q-31,03 năm,01/VBHN-VPQH,330,"Người dùng vũ lực, đe dọa dùng vũ lực hoặc dùng thủ đoạn khác cản trở người thi hành công vụ thực hiện công vụ của họ, thì bị phạt cải tạo không giam giữ đến bao lâu?"
+q-32,từ 01 năm đến 05 năm,01/VBHN-VPQH,329,"Theo Bộ luật Hình sự 2017, người đủ 18 tuổi trở lên mua dâm người dưới 18 tuổi trừ trường hợp quy định tại điểm b khoản 1 Điều 142 của Bộ luật này, thì bị phạt tù từ bao lâu đến bao lâu?"
+q-33,từ 10.000.000 đồng đến 50.000.000 đồng,01/VBHN-VPQH,329,"Theo Bộ luật Hình sự 2017, người phạm tội mua dâm người dưới 18 tuổi còn bị phạt tiền từ bao nhiêu đến bao nhiêu?"
+q-34,từ 20.000.000 đồng đến 100.000.000 đồng,01/VBHN-VPQH,321,"Người đánh bạc trái phép dưới bất kỳ hình thức nào được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng, thì bị phạt tiền từ bao nhiêu đến bao nhiêu?"
+q-35,03 năm,01/VBHN-VPQH,321,"Người đánh bạc trái phép dưới bất kỳ hình thức nào được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng, thì bị phạt cải tạo không giam giữ đến bao nhiêu năm?"
+q-36,từ 10.000.000 đồng đến 50.000.000 đồng,01/VBHN-VPQH,321,Người phạm tội đánh bạc còn có thể bị phạt tiền từ bao nhiêu đến bao nhiêu?
+q-37,03 năm,01/VBHN-VPQH,320,"Người nào dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt cải tạo không giam giữ đến bao lâu?"
+q-38,từ 07 năm đến 15 năm,01/VBHN-VPQH,316,Người thực hiện việc phá thai trái phép cho người khác dẫn đến làm chết 03 người trở lên thì bị phạt tù từ bao lâu đến bao lâu?
+q-39,từ 06 tháng đến 03 năm,01/VBHN-VPQH,247,"Người trồng cây thuốc phiện với số lượng từ 500 cây đến dưới 3.000 cây, thì bị phạt tù từ bao lâu đến bao lâu?"
+q-40,từ 03 năm đến 07 năm,01/VBHN-VPQH,247,Người trồng cây thuốc phiện với số lượng 3.000 cây trở lên thì bị phạt tù từ bao lâu đến bao lâu?
+q-41,từ 03 năm đến 07 năm,01/VBHN-VPQH,247,Người trồng cây cần sa có tổ chức thì bị phạt tù từ bao lâu đến bao lâu?
+q-42,từ 5.000.000 đồng,01/VBHN-VPQH,247,"Người phạm tội trồng cây thuốc phiện, cây côca, cây cần sa còn có thể bị phạt tiền từ bao nhiêu?"
+q-43,không,01/VBHN-VPQH,8,Những hành vi tuy có dấu hiệu của tội phạm nhưng tính chất nguy hiểm cho xã hội không đáng kể thì có phải là tội phạm không?
+q-44,Bộ luật Hình sự,01/VBHN-VPQH,8,Tội phạm là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật nào?
+q-45,04 loại,01/VBHN-VPQH,9,"Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi phạm tội được quy định trong Bộ luật Hình sự, tội phạm được phân thành mấy loại?"
+q-46,03 năm,01/VBHN-VPQH,9,Tội phạm ít nghiêm trọng có mức cao nhất của khung hình phạt do Bộ luật Hình sự quy định đối với tội ấy là phạt tù đến mấy năm?
+q-47,"điều 123, 134, 141, 142, 143, 144, 150, 151, 168, 169, 170, 171, 173, 178, 248, 249, 250, 251, 252, 265, 266, 286, 287, 289, 290, 299, 303 và 304",01/VBHN-VPQH,12,"Theo Bộ luật Hình sự năm 2017, người từ đủ 14 tuổi đến dưới 16 tuổi phải chịu trách nhiệm hình sự về tội phạm rất nghiêm trọng, tội phạm đặc biệt nghiêm trọng quy định tại một trong các điều nào của Bộ luật này?"
+q-48,"dùng rượu, bia hoặc chất kích thích mạnh khác",01/VBHN-VPQH,13,"Người phạm tội trong tình trạng mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình do dùng chất gì, thì vẫn phải chịu trách nhiệm hình sự?"
+q-49,"điều 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 134, 168, 169, 207, 299, 300, 301, 302, 303 và 324",01/VBHN-VPQH,14,Người chuẩn bị phạm tội quy định tại một trong các điều nào của Bộ luật Hình sự thì phải chịu trách nhiệm hình sự?
+q-50,"Điều 123, Điều 168",01/VBHN-VPQH,14,Người từ đủ 14 tuổi đến dưới 16 tuổi chuẩn bị phạm tội quy định tại điều nào của Bộ luật Hình sự thì phải chịu trách nhiệm hình sự?
+q-51,tội phạm chưa đạt,01/VBHN-VPQH,15,Người phạm tội chưa đạt phải chịu trách nhiệm hình sự về tội phạm nào?
+q-52,cố ý thực hiện tội phạm nhưng không thực hiện được đến cùng vì những nguyên nhân ngoài ý muốn của người phạm tội,01/VBHN-VPQH,15,Phạm tội chưa đạt là gì?
+q-53,"tự mình không thực hiện tội phạm đến cùng, tuy không có gì ngăn cản",01/VBHN-VPQH,16,Tự ý nửa chừng chấm dứt việc phạm tội là gì?
+q-54,tội định phạm,01/VBHN-VPQH,16,Người tự ý nửa chừng chấm dứt việc phạm tội được miễn trách nhiệm hình sự về tội nào?
+q-55,hình thức đồng phạm có sự câu kết chặt chẽ giữa những người cùng thực hiện tội phạm,01/VBHN-VPQH,17,Phạm tội có tổ chức là gì?
+q-56,người trực tiếp thực hiện tội phạm,01/VBHN-VPQH,17,Người thực hành là ai?
+q-57,"người chủ mưu, cầm đầu, chỉ huy việc thực hiện tội phạm",01/VBHN-VPQH,17,Người tổ chức là ai?
+q-58,"người tổ chức, người thực hành, người xúi giục, người giúp sức",01/VBHN-VPQH,17,Người đồng phạm bao gồm những ai?
+q-59,"người kích động, dụ dỗ, thúc đẩy người khác thực hiện tội phạm",01/VBHN-VPQH,17,Người xúi giục là ai?
+q-60,người tạo điều kiện tinh thần hoặc vật chất cho việc thực hiện tội phạm,01/VBHN-VPQH,17,Người giúp sức là ai?
+q-61,người thực hành,01/VBHN-VPQH,17,Người đồng phạm không phải chịu trách nhiệm hình sự về hành vi vượt quá của ai?
+q-62,không,01/VBHN-VPQH,20,"Người thực hiện hành vi gây hậu quả nguy hại cho xã hội trong trường hợp không thể thấy trước hoặc không buộc phải thấy trước hậu quả của hành vi đó, thì có phải chịu trách nhiệm hình sự không?"
+q-63,không,01/VBHN-VPQH,21,"Người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh tâm thần, một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình, thì có phải chịu trách nhiệm hình sự không?"
+q-64,không,01/VBHN-VPQH,22,Phòng vệ chính đáng có phải là tội phạm không?
+q-65,hình sự,01/VBHN-VPQH,22,Người có hành vi vượt quá giới hạn phòng vệ chính đáng phải chịu trách nhiệm gì theo quy định của Bộ luật Hình sự?
+q-66,"hành vi chống trả rõ ràng quá mức cần thiết, không phù hợp với tính chất và mức độ nguy hiểm cho xã hội của hành vi xâm hại",01/VBHN-VPQH,22,Vượt quá giới hạn phòng vệ chính đáng là gì?
+q-67,"tình thế của người vì muốn tránh gây thiệt hại cho quyền, lợi ích hợp pháp của mình, của người khác hoặc lợi ích của Nhà nước, của cơ quan, tổ chức mà không còn cách nào khác là phải gây một thiệt hại nhỏ hơn thiệt hại cần ngăn ngừa.",01/VBHN-VPQH,23,Tình thế cấp thiết là gì?
+q-68,không,01/VBHN-VPQH,23,Hành vi gây thiệt hại trong tình thế cấp thiết có phải là tội phạm không?
+q-69,Trong trường hợp thiệt hại gây ra rõ ràng vượt quá yêu cầu của tình thế cấp thiết,01/VBHN-VPQH,23,Người gây thiệt hại trong tình thế cấp thiết phải chịu trách nhiệm hình sự trong trường hợp nào?
+q-70,thời hạn do Bộ luật này quy định mà khi hết thời hạn đó thì người phạm tội không bị truy cứu trách nhiệm hình sự,01/VBHN-VPQH,27,"Trong Bộ luật Hình sự năm 2017, thời hiệu truy cứu trách nhiệm hình sự là gì?"
+q-71,05 năm,01/VBHN-VPQH,27,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm ít nghiêm trọng?
+q-72,10 năm,01/VBHN-VPQH,27,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm nghiêm trọng?
+q-73,15 năm,01/VBHN-VPQH,27,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm rất nghiêm trọng?
+q-74,20 năm,01/VBHN-VPQH,27,Thời hiệu truy cứu trách nhiệm hình sự được quy định bao nhiêu năm đối với tội phạm đặc biệt nghiêm trọng?
+q-75,"là biện pháp cưỡng chế nghiêm khắc nhất của Nhà nước được quy định trong Bộ luật này, do Tòa án quyết định áp dụng đối với người hoặc pháp nhân thương mại phạm tội nhằm tước bỏ hoặc hạn chế quyền, lợi ích của người, pháp nhân thương mại đó.",01/VBHN-VPQH,30,"Theo Bộ luật Hình sự 2017, hình phạt là gì?"
+q-76,"Hình phạt không chỉ nhằm trừng trị người, pháp nhân thương mại phạm tội mà còn giáo dục họ ý thức tuân theo pháp luật và các quy tắc của cuộc sống, ngăn ngừa họ phạm tội mới; giáo dục người, pháp nhân thương mại khác tôn trọng pháp luật, phòng ngừa và đấu tranh chống tội phạm.",01/VBHN-VPQH,31,"Theo Bộ luật Hình sự 2017, mục đích của hình phạt là gì?"
+q-77,một,01/VBHN-VPQH,32,"Đối với mỗi tội phạm, người phạm tội chỉ bị áp dụng mấy hình phạt chính?"
+q-78,"ít nghiêm trọng và có nhiều tình tiết giảm nhẹ, nhưng chưa đến mức miễn hình phạt",01/VBHN-VPQH,34,"Theo Bộ luật Hình sự năm 2017, cảnh cáo được áp dụng đối với người phạm tội như thế nào?"
+q-79,buộc người nước ngoài bị kết án phải rời khỏi lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam.,01/VBHN-VPQH,37,"Theo Bộ luật Hình sự năm 2017, trục xuất là gì?"
+q-80,"xác định theo tiêu chuẩn về chất lượng của tài sản đã được công bố, quy định của cơ quan nhà nước có thẩm quyền hoặc theo tiêu chuẩn ngành nghề",91/2015/QH13,432,Nếu các bên không thoả thuận về chất lượng tài sản mua bán thì chất lượng tài sản được xác định như thế nào?
+q-81,xác định theo giá thị trường,91/2015/QH13,433,Giá tài sản được xác định như thế nào nếu không có thoả thuận rõ ràng về giá?
+q-82,phương thức thanh toán được xác định theo tập quán tại địa điểm và thời điểm giao kết hợp đồng,91/2015/QH13,433,Nếu hai bên không có thoả thuận về phương thức thanh toán thì phương thức thanh toán được xác định như thế nào?
+q-83,ngay tại thời điểm nhận tài sản mua hoặc nhận giấy tờ chứng nhận quyền sở hữu tài sản,91/2015/QH13,434,Nếu hai bên không xác định rõ ràng thời gian thanh toán thì bên mua cần thanh toán lúc nào?
+q-84,quyền nhận hoặc không nhận phần dôi ra,91/2015/QH13,437,Bên mua có quyền gì khi bên bán giao số lượng tài sản nhiều hơn đã thoả thuận?
+q-85,"trả lãi đối với số tiền đã trả theo lãi suất thỏa thuận giữa các bên nhưng không được vượt quá mức lãi suất được quy định tại khoản 1 Điều 468 của Bộ luật này; nếu không có thỏa thuận thì thực hiện theo quy định tại khoản 2 Điều 468 của Bộ luật này và yêu cầu bên bán bồi thường thiệt hại do giao vật không đồng bộ, kể từ thời điểm phải thực hiện hợp đồng cho đến khi vật được giao đồng bộ",91/2015/QH13,438,Bên mua được trả lãi như thế nào nếu bên mua đã trả tiền nhưng vật không được giao đồng bộ?
+q-86,xác định tương ứng với thời hạn giao tài sản,91/2015/QH13,440,Nếu bên bán và bên mua chỉ thoả thuận về thời hạn giao tài sản thì thời hạn thanh toán tiền được xác định như thế nào?
+q-87,tại thời điểm nhận tài sản,91/2015/QH13,440,Bên mua cần thanh toán tiền lúc nào trong trường hợp các bên không có thoả thuận về thời gian giao tài sản và thời hạn thanh toán?
+q-88,kể từ thời điểm hoàn thành thủ tục đăng ký,91/2015/QH13,441,Bên mua chịu rủi ro từ thời điểm nào khi tài sản trong hợp đồng mua bán phải đăng ký quyền sở hữu theo quy định của pháp luật?
+q-89,cho đến khi hoàn thành thủ tục đăng ký,91/2015/QH13,441,Thời điểm chịu rủi ro của bên bán như thế nào nếu tài sản trong hợp đồng mua bán phải đăng ký quyền sở hữu theo quy định của pháp luật?
+q-90,"xác định theo chi phí đã được công bố, quy định của cơ quan có thẩm quyền hoặc theo tiêu chuẩn ngành nghề",91/2015/QH13,442,Chi phí vận chuyển và chi phí liên quan đến việc chuyển quyền sở hữu được xác định như thế nào khi các bên không có thoả thuận rõ ràng?
+q-91,quyền hủy bỏ hợp đồng và yêu cầu bên bán bồi thường thiệt hại,91/2015/QH13,444,Bên mua có quyền gì nếu tài sản mua bán bị người thứ ba tranh chấp do có quyền sở hữu một phần tài sản đó?
+q-92,"quyền yêu cầu giảm giá, đổi vật có khuyết tật lấy vật khác hoặc trả lại vật và lấy lại tiền",91/2015/QH13,448,Trong thời hạn bảo hành bên mua có quyền gì nếu bên bán không thể sửa chữa được vật có khuyết tật về kỹ thuật?
+q-93,nếu chứng minh được thiệt hại xảy ra do lỗi của bên mua,91/2015/QH13,449,Trong thời hạn bảo hành bên bán không phải bồi thường thiệt hại khi nào?
+q-94,"thời điểm bên mua nhận được giấy tờ về quyền sở hữu đối với quyền tài sản đó hoặc từ thời điểm đăng ký việc chuyển quyền sở hữu, nếu pháp luật có quy định",91/2015/QH13,450,Đối với mua bán quyền tài sản thì thời điểm chuyển quyền sở hữu là khi nào?
+q-95,bên bán,91/2015/QH13,452,Trong thời gian dùng thử vật mua thuộc sở hữu của bên nào?
+q-96,"sự thỏa thuận giữa các bên, theo đó các bên giao tài sản và chuyển quyền sở hữu đối với tài sản cho nhau",91/2015/QH13,455,Hợp đồng trao đổi tài sản là gì?
+q-97,kể từ thời điểm chuyển giao tài sản,91/2015/QH13,459,Hợp đồng tặng cho bất động sản có hiệu lực khi nào nếu bất động sản không phải đăng ký quyền sở hữu?
+q-98,"có thể trả bằng tiền theo trị giá của vật đã vay tại địa điểm và thời điểm trả nợ, nếu được bên cho vay đồng ý",91/2015/QH13,466,Bên vay có nghĩa vụ gì nếu không thể trả vật cùng loại đúng số lượng chất lượng?
+q-99,khi trả lại tài sản thuê,91/2015/QH13,481,Nếu các bên không có thoả thuận về thời hạn trả tiền thuê và không thể xác định được thời hạn theo tập quán nơi trả tiền thì khi nào bên thuê cần trả tiền?
+q-100,"quyền yêu cầu bên thuê trả lại tài sản thuê, trả tiền thuê trong thời gian chậm trả và phải bồi thường thiệt hại",91/2015/QH13,482,Bên cho thuê có quyền gì nếu bên thuê chậm trả tài sản thuê?
+q-101,"tài sản do các thành viên đóng góp, cùng tạo lập và tài sản khác theo quy định của pháp luật",91/2015/QH13,506,Tài sản chung của các thành viên hợp tác là gì?
+q-102,"quyền yêu cầu nhận lại tài sản đã đóng góp, được chia phần tài sản trong khối tài sản chung và phải thanh toán các nghĩa vụ theo thỏa thuận",91/2015/QH13,510,Thành viên rút khỏi hợp đồng hợp tác có quyền gì?
+q-103,quyền giảm tiền dịch vụ và yêu cầu bồi thường thiệt hại,91/2015/QH13,519,Bên sử dụng dịch vụ có quyền gì khi dịch vụ cung ứng không đạt được như thoả thuận?
+q-104,quyền đơn phương chấm dứt thực hiện hợp đồng và yêu cầu bồi thường thiệt hại,91/2015/QH13,520,Bên cung ứng dịch vụ có quyền gì nếu bên sử dụng dịch vụ vi phạm nghiêm trọng nghĩa vụ thoả thuận trong hợp đồng?
+q-105,thanh toán chi phí chờ đợi và tiền vận chuyển tài sản đến địa điểm đã thỏa thuận trong hợp đồng cho bên vận chuyển,91/2015/QH13,532,Bên thuê vận chuyển có trách nhiệm gì nếu giao tài sản không đúng thời hạn như thoả thuận?
+q-106,bồi thường thiệt hại xảy ra cho bên đặt gia công,91/2015/QH13,548,Bên nhận gia công có trách nhiệm gì khi chậm giao sản phẩm mà có rủi ro đối với sản phẩm?
+q-107,áp dụng mức tiền công trung bình đối với việc tạo ra sản phẩm cùng loại tại địa điểm gia công và vào thời điểm trả tiền,91/2015/QH13,552,Mức tiền công được xác định như nào khi các bên không có thoả thuận về mức tiền?
+q-108,mỗi người được nhận một phần của phần thưởng tương ứng với phần đóng góp của mình,91/2015/QH13,572,Trả thưởng như thế nào nếu nhiều người cùng cộng tác để hoàn thành công việc được hứa thưởng?
+q-109,"hoàn trả hoa lợi, lợi tức thu được từ thời điểm chiếm hữu, sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật",91/2015/QH13,581,"Nghĩa vụ của người chiếm hữu, người sử dụng tài sản, người được hưởng lợi về tài sản mà không có căn cứ pháp luật và không ngay tình?"
+q-110,"03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền, lợi ích hợp pháp của mình bị xâm phạm",91/2015/QH13,588,Thời hiệu yêu cầu bồi thường thiệt hại là bao lâu?
+q-111,không,91/2015/QH13,594,Có phải bồi thường cho người bị thiệt hại khi phòng vệ chính đáng không?
+q-112,"người bị thiệt hại được hưởng bồi thường từ thời điểm mất hoàn toàn khả năng lao động cho đến khi chết, trừ trường hợp có thỏa thuận khác",91/2015/QH13,593,Bên gây thiệt hại phải bồi thường như thế nào khi người bị thiệt hại mất hoàn toàn khả năng lao động?
+q-113,"người đang chiếm hữu, sử dụng, quản lý di sản",91/2015/QH13,616,Ai là người quản lý di sản khi di chúc không chỉ định người quản lý di sản?
+q-114,trước thời điểm phân chia di sản,91/2015/QH13,620,Từ chối nhận di sản cần được thực hiện khi nào?
+q-115,"30 năm đối với bất động sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế",91/2015/QH13,623,Thời hiệu khởi kiện về thừa kế tài sản là bất động sản như thế nào?
+q-116,phải được người làm chứng lập thành văn bản và có công chứng hoặc chứng thực,91/2015/QH13,630,Di chúc của người không biết chữ như thế nào là hợp pháp?
+q-117,"có chứng nhận của cơ quan lãnh sự, đại diện ngoại giao Việt Nam ở nước đó",91/2015/QH13,638,Di chúc của công dân Việt Nam đang ở nước ngoài cần điều kiện gì để có giá trị như di chúc được công chứng?
+q-118,phần bổ sung,91/2015/QH13,640,Phần bổ sung mâu thuẫn với một phần của di chúc đã lập thì phần nào có hiệu lực?
+q-119,chia lại theo di chúc nếu người thừa kế theo di chúc yêu cầu,91/2015/QH13,642,Đã tiến hành chia di sản mà tìm lại được di chúc thất lạc thì chia như thế nào?
+q-120,từ thời điểm mở thừa kế,91/2015/QH13,643,Di chúc có hiệu lực khi nào?
+q-121,không,91/2015/QH13,645,Có được chia thừa kế di sản cho việc thờ cúng không?
+q-122,công chứng viên,91/2015/QH13,647,Ai công bố di chúc nếu di chúc bằng văn bản được lưu tại tổ chức hành nghề công chứng?
+q-123,"di sản được chia đều cho những người được chỉ định trong di chúc, trừ trường hợp có thỏa thuận khác",91/2015/QH13,659,Di chúc không xác định rõ từng phần của từng người thừa kế thì chia thế nào?
+q-124,danh sách và địa chỉ của những người này kèm theo danh sách những người lao động làm việc với họ,45/2019/QH14,100,Người cai thầu hoặc người có vai trò trung gian tương tự thì người sử dụng lao động là chủ chính phải có những gì của người lao động?
+q-125,người sử dụng lao động là chủ chính,45/2019/QH14,100,Ai là người chiu trách nhiệm khi người lao động không được trả lương?
+q-126,do hai bên thỏa thuận,45/2019/QH14,101,Người lao động được tạm tứng tiền và không bị tính lãi theo điều kiện nào?
+q-127,không quá 01 tháng tiền lương,45/2019/QH14,101,Người lao động được tạm ứng tối đa là bao nhiêu?
+q-128,Người lao động nhập ngũ theo quy định của Luật Nghĩa vụ quân sự,45/2019/QH14,101,Người lao động trong điều kiện nào thì không được tạm ứng tiền lương?
+q-129,"bồi thường thiệt hại do làm hư hỏng dụng cụ, thiết bị, tài sản của người sử dụng lao động",45/2019/QH14,102,Người sử dụng lao động chỉ được khấu trừ tiền lương của người lao động trong trường hợp nào?
+q-130,không được quá 30% tiền lương thực trả hằng tháng của người lao động,45/2019/QH14,102,Mức khấu trừ tối đa là bao nhiêu?
+q-131,"rong hợp đồng lao động, thỏa ước lao động tập thể hoặc quy định của người sử dụng lao động",45/2019/QH14,103,"Chế độ nâng lương, nâng bậc, phụ cấp, trợ cấp được quy định ở đâu?"
+q-132,"căn cứ vào kết quả sản xuất, kinh doanh, mức độ hoàn thành công việc của người lao động",45/2019/QH14,104,Thưởng cho người lao động dựa vào điệu kiện gì?
+q-133,10 giờ,45/2019/QH14,105,Thời gian làm việc bình thường trong một ngày là bao nhiêu giờ?
+q-134,50%,45/2019/QH14,107,Giờ làm thêm không quá bao nhiêu phần trăm so với giờ làm việc bình thường trong 1 ngày?
+q-135,không quá 200 giờ trong 01 năm,45/2019/QH14,107,Giờ làm thêm không quá bao nhiêu giờ trừ những trường hợp trong khoảng 3 điều 107 bộ luật lao động.
+q-136,thông báo bằng văn bản cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh,45/2019/QH14,107,"Sau khi tổ chức làm thêm giờ, người sử dụng lao động phải làm gì?"
+q-137,ít nhất 30 phút liên tục,45/2019/QH14,109,Người lao dộng làm việc từ 6 giờ trở lên vào ban ngày thì được nghỉ ít nhất trong bao lâu?
+q-138,được tính vào giờ làm việc,45/2019/QH14,109,Nếu người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ sẽ được tính như thế nào?
+q-139,01 tháng ít nhất 04 ngày,45/2019/QH14,111,Trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động phải bố trí ngày nghỉ ra sao?
+q-140,ược nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp,45/2019/QH14,111,"Nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết thì người lao động sẽ được nghỉ như thế nào?"
+q-141,12 ngày,45/2019/QH14,113,Đôi với người lao động trong đièu kiện bình thường thì được nghỉ bao lâu 1 năm?
+q-142,16 ngày,45/2019/QH14,113,Đối với người làm việc trong môi trường độc hại thì hằng năm được nghỉ bao nhiêu ngày?
+q-143,theo tỷ lệ tương ứng với số tháng làm việc,45/2019/QH14,113,Người lao động làm việc chưa được 12 tháng thì sẽ được nghỉ hằng năm bao nhiêu ngày?
+q-144,nghỉ hằng năm thành nhiều lần hoặc nghỉ gộp tối đa 03 năm một lần,45/2019/QH14,113,Người lao động có thể thỏa thuận nghỉ hằng năm như thế nào?
+q-145,03 ngày,45/2019/QH14,115,Khi người lao động kết hôn thì sẽ được nghỉ có lương bao nhiêu ngày?
+q-146,01 ngày,45/2019/QH14,115,Trong trường hợp anh chị chết thì người lao động được hưởng nghỉ có lương bao nhiêu ngày?
+q-147,10 người,45/2019/QH14,119,Người sử dụng lao  phải đăng ký nội quy lao động đối khi có bao nhiêu lao động?
+q-148,"thông báo, hướng dẫn người sử dụng lao động sửa đổi, bổ sung và đăng ký lại",45/2019/QH14,119,Cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh làm gì khi phát hiện sai phạm trong hồ sơ đăng ký nội quy lao động được nộp trong vòng 7 ngày?
+q-149,15 ngày,45/2019/QH14,121,Sau bao lâu thì nội quy lao động có hiệu lực sau khi cơ quan nhà nước có thẩm quyền nhận đầy đủ hồ sơ đăng ký?
+q-150,người đại diện theo pháp luật,45/2019/QH14,122,Đối với người lao động dưới 15 tuổi thì cần có ai tham gia khi bị kỷ luật?
+q-151,bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình,45/2019/QH14,122,Không được kỷ luật đối với người mắc bệnh gì?
+q-152,12 tháng,45/2019/QH14,123,"Trong trường hợp vi phạm nhiều lần và ảnh hướng đến tài chính của người sử dụng lạo động, thời hiệu xử lý kỹ luật là bao lâu?"
+q-153,05 ngày,45/2019/QH14,125,Người lao động sẽ bị sả thải nếu bỏ việc bao nhiêu ngày cộng dồn trong vòng 30 ngày mà không có lý do chính đáng?
+q-154,50%,45/2019/QH14,128,"Trong thời gian bị đình chỉ công việc, người lao động được tạm ứng bao nhiêu phần trăm tiền lương trước khi bị đình chỉ công việc?"
+q-155,03 tháng tiền lương và bị khấu trừ hằng tháng vào lương,45/2019/QH14,129,Nếu người lao động gây thiệt hại không quá 10 tháng lương tối thiểu thi phải bồi thường bao nhiêu?
+q-156,"trường hợp do thiên tai, hỏa hoạn, địch họa, dịch bệnh nguy hiểm, thảm họa, sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép",45/2019/QH14,129,Người lao động không phải bồi thường trong trường hợp nào?
+q-157,buồng tắm và buồng vệ sinh phù hợp,45/2019/QH14,136,Cần đảm bảo điều gì cho người lao động nữ tại nơi làm việc?
+q-158,từ tháng thứ 06,45/2019/QH14,137,"Không được sử dụng lao động nữ khi họ mang thang từ tháng thứ bao nhiêu trong trường hợp làm việc ban đêm, làm thêm giờ và đi công tác xa ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo?"
+q-159,"chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi",45/2019/QH14,137,"Cần phải làm gì đối với lao động đang mang thai và đang làm công việc nặng nhọc, độc hại, nguy hiểm?"
+q-160,giao kết hợp đồng lao động mới,45/2019/QH14,137,Trong trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi thì người sử dụng lao động phải ưu tiên làm gì?
+q-161,"có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi",45/2019/QH14,138,Lao động nữ có thể đơn phương chấm dứt hợp đồng trong trường hợp nào?
+q-162,"tối thiểu phải bằng thời gian do cơ sở khám bệnh, chữa bệnh có thẩm quyền chỉ định tạm nghỉ",45/2019/QH14,138,"Khi có chỉ định của cơ sở khám bênh, người lao động nữ có thẻ tạm hõa thực hiện hợp đồng lao động trong bao lâu?"
+q-163,"được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động",45/2019/QH14,139,Người lao động nữ chỉ được phép đi làm trở lại sớm sau khi nghỉ thai sản trong điều kiện nào?
+q-164,Giao dịch dân sự,91/2015/QH13,116,"Hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự được gọi là gì?"
+q-165,giao dịch bằng văn bản,91/2015/QH13,119,Giao dịch dân sự thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử được coi là hình thức giao dịch dân sự nào?
+q-166,Điều 117,91/2015/QH13,122,"Trừ trường hợp Bộ luật dân sự 2015 có quy định khác, giao dịch dân sự không có một trong các điều kiện được quy định tại điều nào của Bộ luật này thì vô hiệu?"
+q-167,02 năm,91/2015/QH13,132,"Kể từ ngày được quy định tại các điểm từ a đến đ khoản 1 Điều 132 của bộ luật Dân sự 2015, thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu quy định tại các Điều 125, 126, 127, 128 và 129 của Bộ luật này là bao lâu?"
+q-168,không có yêu cầu tuyên bố giao dịch dân sự vô hiệu,91/2015/QH13,132,Hết thời hiệu quy định tại khoản 1 Điều 132 bộ luật Dân sự 2015 thì giao dịch dân sự có hiệu lực trong trường hợp nào?
+q-169,Điều 123 và Điều 124,91/2015/QH13,132,Đối với giao dịch dân sự quy định tại Điều nào của Bộ luật dân sự 2015 thì thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu không bị hạn chế?
+q-170,Đại diện,91/2015/QH13,134,"Việc cá nhân, pháp nhân nhân danh và vì lợi ích của cá nhân hoặc pháp nhân khác xác lập, thực hiện giao dịch dân sự được gọi là gì?"
+q-171,"Cha, mẹ",91/2015/QH13,136,Đại diện theo pháp luật của người con chưa thành niên là ai?
+q-172,"Cha, mẹ",91/2015/QH13,136,"Đại diện theo pháp luật của người con chưa thành niên có khó khăn trong nhận thức, làm chủ hành vi là ai?"
+q-173,Người do Tòa án chỉ định,91/2015/QH13,136,"Đại diện theo pháp luật của người con đã thành niên có khó khăn trong nhận thức, làm chủ hành vi là ai?"
+q-174,ba trăm sáu mươi lăm ngày,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một năm được tính là?"
+q-175,sáu tháng,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, nửa năm được tính là?"
+q-176,ba mươi ngày,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một tháng được tính là?"
+q-177,mười lăm ngày,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, nửa tháng được tính là?"
+q-178,bảy ngày,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một tuần được tính là?"
+q-179,hai mươi tư giờ,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một ngày được tính là?"
+q-180,sáu mươi phút,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một giờ được tính là?"
+q-181,sáu mươi giây,91/2015/QH13,146,"Theo luật về thời hạn, thời điểm tính thời hạn, khi khoảng thời gian diễn ra không liền nhau, một phút được tính là?"
+q-182,ngày tiếp theo liền kề của ngày xảy ra sự kiện đó,91/2015/QH13,147,"Theo luật về thời hạn, khi thời hạn bắt đầu bằng một sự kiện thì thời hạn được tính từ ngày nào?"
+q-183,quyền định đoạt tài sản,91/2015/QH13,158,"Quyền sở hữu bao gồm quyền chiếm hữu, quyền sử dụng và quyền nào của chủ sở hữu theo quy định của luật?"
+q-184,quyền sử dụng,91/2015/QH13,158,"Quyền sở hữu bao gồm quyền chiếm hữu, quyền định đoạt tài sản và quyền nào của chủ sở hữu theo quy định của luật?"
+q-185,quyền chiếm hữu,91/2015/QH13,158,"Quyền sở hữu bao gồm quyền sử dụng, quyền định đoạt tài sản và quyền nào của chủ sở hữu theo quy định của luật?"
+q-186,Quyền đối với bất động sản liền kề,91/2015/QH13,159,"Quyền khác đối với tài sản bao gồm quyền hưởng dụng, quyền bề mặt và quyền nào?"
+q-187,Quyền hưởng dụng,91/2015/QH13,159,"Quyền khác đối với tài sản bao gồm quyền đối với bất động sản liền kề, quyền bề mặt và quyền nào?"
+q-188,Quyền bề mặt,91/2015/QH13,159,"Quyền khác đối với tài sản bao gồm quyền đối với bất động sản liền kề, quyền hưởng dụng, và quyền nào."
+q-189,từ 30 năm trở lên,91/2015/QH13,175,Ranh giới giữa các bất động sản có thể được xác định theo ranh giới đã tồn tại bao lâu mà không có tranh chấp?
+q-190,Chiếm hữu,91/2015/QH13,179,"Việc chủ thể nắm giữ, chi phối tài sản một cách trực tiếp hoặc gián tiếp như chủ thể có quyền đối với tài sản được gọi là gì?"
+q-191,Chiếm hữu ngay tình,91/2015/QH13,180,Việc chiếm hữu mà người chiếm hữu có căn cứ để tin rằng mình có quyền đối với tài sản đang chiếm hữu được gọi là gì?
+q-192,Chiếm hữu không ngay tình,91/2015/QH13,181,Việc chiếm hữu mà người chiếm hữu biết hoặc phải biết rằng mình không có quyền đối với tài sản đang chiếm hữu được gọi là gì?
+q-193,người chiếm hữu không ngay tình,91/2015/QH13,184,Người chiếm hữu ngay tình hay người chiếm hữu không ngay tình thì phải chứng minh?
+q-194,"phù hợp với mục đích, nội dung của giao dịch",91/2015/QH13,188,Khi chủ sở hữu giao tài sản cho người khác thông qua giao dịch dân sự mà nội dung không bao gồm việc chuyển quyền sở hữu thì người được giao tài sản phải thực hiện việc chiếm hữu tài sản đó như thế nào?
+q-195,người có năng lực hành vi dân sự,91/2015/QH13,193,"Việc định đoạt tài sản phải do 
+chủ thể nào thực hiện?"
+q-196,do luật quy định,91/2015/QH13,196,Quyền định đoạt bị hạn chế trong trường hợp nào?
+q-197,Nhà nước,91/2015/QH13,196,Chủ thể nào được ưu tiên mua tài sản đem bán là tài sản thuộc di tích lịch sử - văn hoá?
+q-198,tài sản công thuộc sở hữu toàn dân,91/2015/QH13,197,"Đất đai, tài nguyên nước, tài nguyên khoáng sản, nguồn lợi ở vùng biển, vùng trời, tài nguyên thiên nhiên khác và các tài sản do Nhà nước đầu tư, quản lý thuộc loại tài sản nào?"
+q-199,Sở hữu riêng,91/2015/QH13,205,Sở hữu của một cá nhân đối với tài sản thuộc loại hình sở hữu nào?
+q-200,Sở hữu riêng,91/2015/QH13,205,Sở hữu của một pháp nhân đối với tài sản thuộc loại hình sở hữu nào?
+q-201,Sở hữu chung,91/2015/QH13,207,Sở hữu của nhiều chủ thể đối với tài sản thuộc loại hình sở hữu nào?
+q-202,theo thỏa thuận,91/2015/QH13,208,"Cùng với quy định của pháp luật hoặc tập quán, quyển sở hữu chung có thể được xác lập theo căn cứ nào?"
+q-203,theo tập quán,91/2015/QH13,208,"Cùng với quy định của pháp luật hoặc theo thỏa thuận, quyển sở hữu chung có thể được xác lập theo căn cứ nào?"
+q-204,chủ sở hữu chung khác,91/2015/QH13,218,Chủ thể nào có quyền ưu tiên mua tài sản thuộc sở hữu chung từ một chủ sở hữu chung?
+q-205,03 tháng,91/2015/QH13,218,Quyền ưu tiên mua tài sản thuộc sở hữu chung của các chủ sở hữu chung đối với bất động sản kéo dài bao lâu?
+q-206,01 tháng,91/2015/QH13,218,Quyền ưu tiên mua tài sản thuộc sở hữu chung của các chủ sở hữu chung đối với động sản kéo dài bao lâu?
+q-207,Nhà nước,91/2015/QH13,218,Trường hợp một trong các chủ sở hữu chung đối với bất động sản từ bỏ phần quyền sở hữu của mình thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó không phải là sở hữu chung của cộng đồng?
+q-208,các chủ sở hữu còn lại,91/2015/QH13,218,Trường hợp một trong các chủ sở hữu chung đối với bất động sản từ bỏ phần quyền sở hữu của mình thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó là sở hữu chung của cộng đồng?
+q-209,Nhà nước,91/2015/QH13,218,Trường hợp một trong các chủ sở hữu chung đối với bất động sản chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó không phải là sở hữu chung của cộng đồng?
+q-210,các chủ sở hữu còn lại,91/2015/QH13,218,Trường hợp một trong các chủ sở hữu chung đối với bất động sản chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc về chủ thể nào nếu tài sản đó là sở hữu chung của cộng đồng?
+q-211,các chủ sở hữu còn lại,91/2015/QH13,218,Trường hợp một trong các chủ sở hữu chung đối với động sản từ bỏ phần quyền sở hữu của mình thì phần quyền sở hữu đó thuộc về chủ thể nào?
+q-212,các chủ sở hữu còn lại,91/2015/QH13,218,Trường hợp một trong các chủ sở hữu chung đối với động sản chết mà không có người thừa kế thì phần quyền sở hữu đó thuộc về chủ thể nào?
+q-213,thời điểm có được tài sản đó,91/2015/QH13,222,Người lao động hợp pháp có quyền sở hữu đối với tài sản có được từ lao động kể từ thời điểm nào?
+q-214,thời điểm có được tài sản đó,91/2015/QH13,222,Người tiến hành hoạt động sản xuất hợp pháp có quyền sở hữu đối với tài sản có được từ hoạt động sản xuất hợp pháp kể từ thời điểm nào?
+q-215,thời điểm có được tài sản đó,91/2015/QH13,222,Người tiến hành hoạt động kinh doanh hợp pháp có quyền sở hữu đối với tài sản có được từ hoạt động kinh doanh hợp pháp kể từ thời điểm nào?
+q-216,"thời điểm thu được hoa lợi, lợi tức đó",91/2015/QH13,224,"Chủ sở hữu tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo quy định của pháp luật, kể từ thời điểm 
+nào?"
+q-217,"thời điểm thu được hoa lợi, lợi tức đó",91/2015/QH13,224,"Người sử dụng tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo quy định của pháp luật, kể từ thời điểm nào?"
+q-218,"thời điểm thu được hoa lợi, lợi tức đó",91/2015/QH13,224,"Chủ sở hữu tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo thỏa thuận kể từ thời điểm 
+nào?"
+q-219,"thời điểm thu được hoa lợi, lợi tức đó",91/2015/QH13,224,"Người sử dụng tài sản có quyền sở hữu đối với hoa lợi, lợi tức theo thỏa thuận kể từ thời điểm nào?"
+q-220,Tài sản vô chủ,91/2015/QH13,228,Tài sản mà chủ sở hữu đã từ bỏ quyền sở hữu đối với tài sản đó được gọi là gì?
+q-221,Nhà nước,91/2015/QH13,228,Quyển sở hữu của bất động sản là tài sản vô chủ thuộc về chủ thể nào?
+q-222,01 năm,91/2015/QH13,228,Người phát hiện động sản vô chủ có thể trở thành chủ sở hữu sau bao lâu kể từ ngày thông báo công khai mà không xác định được chủ sở hữu?
+q-223,05 năm,91/2015/QH13,228,Kể từ ngày thông báo công khai mà không xác định được chủ sở hữu của bất động sản thì sau bao lâu bất động sản đó thuộc về Nhà nước?
+q-224,phải thông báo hoặc trả lại ngay cho chủ sở hữu,91/2015/QH13,229,"Người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm mà biết ai là chủ sở hữu thì phải làm gì?"
+q-225,phải thông báo hoặc giao nộp cho Ủy ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất hoặc cơ quan nhà nước có thẩm quyền khác theo quy định của pháp luật,91/2015/QH13,229,"Người phát hiện tài sản bị chôn, giấu, bị vùi lấp, chìm đắm mà không biết ai là chủ sở hữu thì phải làm gì?"
+q-226,Nhà nước,91/2015/QH13,229,Tài sản vô chủ bị chôn giấu là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa thì quyển sở hữu thuộc về chủ thể nào?
+q-227,Nhà nước,91/2015/QH13,229,Tài sản vô chủ bị chôn giấu là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa mà có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định thì thuộc quyền sở hữu của chủ thể nào?
+q-228,người tìm thấy,91/2015/QH13,229,Tài sản vô chủ bị chôn giấu không là tài sản thuộc di tích lịch sử - văn hóa theo quy định của Luật di sản văn hóa mà có giá trị nhỏ hơn hoặc bằng mười lần mức lương cơ sở do Nhà nước quy định thì thuộc quyền sở hữu của chủ thể nào?
+q-229,phải thông báo hoặc trả lại tài sản cho người đó,91/2015/QH13,230,"Người phát hiện tài sản do người khác đánh rơi, bỏ quên mà biết được địa chỉ của người đánh rơi hoặc bỏ quên thì phải làm gì?"
+q-230,phải thông báo hoặc giao nộp cho Ủy ban nhân dân cấp xã hoặc công an cấp xã nơi gần nhất,91/2015/QH13,230,"Người phát hiện tài sản do người khác đánh rơi, bỏ quên mà không biết địa chỉ của người đánh rơi hoặc bỏ quên thì phải làm gì?"
+q-231,phải nuôi giữ và báo ngay cho Ủy ban nhân dân cấp xã nơi người đó cư trú,91/2015/QH13,231,Người bắt được gia súc bị thất lạc phải làm gì?
+q-232,phải thanh toán tiền công nuôi giữ và các chi phí khác cho người bắt được gia súc,91/2015/QH13,231,Chủ sở hữu được nhận lại gia súc phải thực hiện nghĩa vụ gì với người bắt được gia súc?
+q-233,06 tháng,91/2015/QH13,231,Sau bao lâu kể từ ngày thông báo công khai về gia súc không phải gia súc thả rông theo tập quán thì quyền sở hữu đối với gia súc thuộc về người bắt được gia súc?
+q-234,01 năm,91/2015/QH13,231,Sau bao lâu kể từ ngày thông báo công khai về gia súc bị thất lạc là gia súc thả rông theo tập quán thì quyền sở hữu đối với gia súc thuộc về người bắt được gia súc?
+q-235,01 tháng,91/2015/QH13,232,Sau bao lâu kể từ ngày thông báo công khai mà không có người đến nhận gia cẩm bị thất lạc thì quyền sở hữu đối với gia cầm thuộc về người bắt được?
+q-236,phải thanh toán tiền công nuôi giữ và chi phí khác cho người bắt được gia cầm,91/2015/QH13,232,"Chủ sở hữu được nhận lại gia 
+cầm phải thực hiện nghĩa vụ gì với người bắt được gia cầm?"
+q-237,01 tháng,91/2015/QH13,233,"Sau bao lâu kể từ ngày thông báo công khai mà không có người đến nhận thì quyền sở hữu vật nuôi dưới nước đó thuộc về người có ruộng, ao, hồ?"
+q-238,quyền sở hữu đối với tài sản đó chấm dứt,91/2015/QH13,242,Khi tài sản được tiêu dùng hoặc bị tiêu hủy thì quyền sở hữu đối với tài sản đó được xác định như thế nào?
+q-239,thời điểm quyết định của cơ quan nhà nước có thẩm quyền có hiệu lực pháp luật,91/2015/QH13,243,Trường hợp Nhà nước trưng mua tài sản theo quy định của luật thì quyền sở hữu đối với tài sản của chủ sở hữu đó chấm dứt kể từ thời điểm nào?
+q-240,"thời điểm bản án, quyết định của Tòa án, cơ quan nhà nước có thẩm quyền khác có hiệu lực pháp luật",91/2015/QH13,244,"Khi tài sản của chủ sở hữu do phạm tội, vi phạm hành chính mà bị tịch thu, sung quỹ nhà nước thì quyền sở hữu đối với tài sản đó chấm dứt kể từ thời điểm nào?"
+q-241,Quyền đối với bất động sản liền kề,91/2015/QH13,245,Quyền được thực hiện trên một bất động sản nhằm phục vụ cho việc khai thác một bất động sản khác thuộc quyền sở hữu của người khác là quyền gì?
+q-242,"do địa thế tự nhiên, theo quy định của luật, theo thỏa thuận hoặc theo di chúc",91/2015/QH13,246,Quyền đối với bất động sản liền kề được xác lập theo căn cứ nào?
+q-243,"mọi cá nhân, pháp nhân",91/2015/QH13,247,Quyền đối với bất động sản liền kề có hiệu lực đối với những chủ thể nào?
+q-244,"quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện người lao động tại cơ sở, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động",45/2019/QH14,1,Bộ luật Lao động quy định điều gì?
+q-245,"Người lao động là người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động.",45/2019/QH14,3,"Định nghĩa của ""Người lao động""?"
+q-246,"Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng người lao động làm việc cho mình theo thỏa thuận; trường hợp người sử dụng lao động là cá nhân thì phải có năng lực hành vi dân sự đầy đủ.",45/2019/QH14,3,"Định nghĩa của ""Người sử dụng lao động""?"
+q-247,"Tổ chức đại diện người lao động tại cơ sở là tổ chức được thành lập trên cơ sở tự nguyện của người lao động tại một đơn vị sử dụng lao động nhằm mục đích bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động trong quan hệ lao động thông qua thương lượng tập thể hoặc các hình thức khác theo quy định của pháp luật về lao động. Tổ chức đại diện người lao động tại cơ sở bao gồm công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp.",45/2019/QH14,3,"Định nghĩa của ""Tổ chức đại diện người lao động tại cơ sở""?"
+q-248,"Tổ chức đại diện người sử dụng lao động là tổ chức được thành lập hợp pháp, đại diện và bảo vệ quyền, lợi ích hợp pháp của người sử dụng lao động trong quan hệ lao động.",45/2019/QH14,3,"Định nghĩa của ""Tổ chức đại diện người sử dụng lao động""?"
+q-249,"Quan hệ lao động là quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao động, trả lương giữa người lao động, người sử dụng lao động, các tổ chức đại diện của các bên, cơ quan nhà nước có thẩm quyền. Quan hệ lao động bao gồm quan hệ lao động cá nhân và quan hệ lao động tập thể.",45/2019/QH14,3,"Định nghĩa của ""Quan hệ lao động""?"
+q-250,Người làm việc không có quan hệ lao động là người làm việc không trên cơ sở thuê mướn bằng hợp đồng lao động.,45/2019/QH14,3,"Định nghĩa của ""Người làm việc không có quan hệ lao động""?"
+q-251,"Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc người lao động phải làm việc trái ý muốn của họ.",45/2019/QH14,3,"Định nghĩa của ""Cưỡng bức lao động""?"
+q-252,Quấy rối tình dục tại nơi làm việc là hành vi có tính chất tình dục của bất kỳ người nào đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận. Nơi làm việc là bất kỳ nơi nào mà người lao động thực tế làm việc theo thỏa thuận hoặc phân công của người sử dụng lao động.,45/2019/QH14,3,"Định nghĩa của ""Quấy rối tình dục tại nơi làm việc""?"
+q-253,"Quan hệ lao động được xác lập qua đối thoại, thương lượng, thỏa thuận theo nguyên tắc tự nguyện, thiện chí, bình đẳng, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau.",45/2019/QH14,7,Quan hệ lao động được xác lập qua đâu?
+q-254,Việc làm là hoạt động lao động tạo ra thu nhập mà pháp luật không cấm.,45/2019/QH14,9,Việc làm là gì?
+q-255,"Được tự do lựa chọn việc làm, làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm.",45/2019/QH14,10,"Trong điều 10 của Bộ Luật dân sự 2019, nơi làm việc của người lao động được quy định như thế nào?"
+q-256,không,45/2019/QH14,11,Người lao động có phải trả chi phí cho việc tuyển dụng lao động không?
+q-257,02 bản,45/2019/QH14,14,Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành bao nhiêu bản?
+q-258,"Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.",45/2019/QH14,16,Người sử dụng lao động phải cung cấp thông tin gì cho người lao động?
+q-259,"Người lao động phải cung cấp thông tin trung thực cho người sử dụng lao động về họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, trình độ học vấn, trình độ kỹ năng nghề, xác nhận tình trạng sức khỏe và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người sử dụng lao động yêu cầu.",45/2019/QH14,16,Người lao động phải cung cấp thông tin gì cho người sử dụng lao động?
+q-260,12 tháng,45/2019/QH14,18,"Đối với công việc theo mùa vụ, công việc nhất định có thời hạn dưới bao nhiêu tháng thì nhóm người lao động từ đủ 18 tuổi trở lên có thể ủy quyền cho một người lao động trong nhóm để giao kết hợp đồng lao động"
+q-261,18 tuổi,45/2019/QH14,18,"Đối với công việc theo mùa vụ, công việc nhất định có thời hạn dưới 12 tháng thì nhóm người lao động từ đủ bao nhiêu tuổi trở lên có thể ủy quyền cho một người lao động trong nhóm để giao kết hợp đồng lao động?"
+q-262,"quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động",45/2019/QH14,19,"Người lao động đồng thời giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động thì việc tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp được thực hiện theo quy định nào?"
+q-263,30 ngày,45/2019/QH14,20,"Trong thời hạn bao nhiêu ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới?"
+q-264,"kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác",45/2019/QH14,23,Hợp đồng lao động có hiệu lực từ khi nào?
+q-265,01 tháng,45/2019/QH14,24,Không áp dụng thử việc đối với người lao động giao kết hợp đồng lao động có thời hạn dưới bao nhiêu tháng?
+q-266,một lần,45/2019/QH14,25,Thời gian thử việc do hai bên thỏa thuận căn cứ vào tính chất và mức độ phức tạp của công việc nhưng chỉ được thử việc bao nhiêu lần đối với một công việc?
+q-267,180 ngày,45/2019/QH14,25,"Thời gian thử việc không được quá bao nhiêu ngày đối với công việc của người quản lý doanh nghiệp theo quy định của Luật Doanh nghiệp, Luật Quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp?"
+q-268,60 ngày,45/2019/QH14,25,"Thời gian thử việc không được quá bao nhiêu ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên?"
+q-269,30 ngày,45/2019/QH14,25,"Thời gian thử việc không được quá bao nhiêu ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ?"
+q-270,85,45/2019/QH14,26,Tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng bao nhiêu phần trăm mức lương của công việc đó?
+q-271,85,45/2019/QH14,29,Tiền lương theo công việc mới ít nhất phải bằng bao nhiêu phần trăm tiền lương của công việc cũ?
+q-272,03 ngày,45/2019/QH14,33,"Trong quá trình thực hiện hợp đồng lao động, nếu bên nào có yêu cầu sửa đổi, bổ sung nội dung hợp đồng lao động thì phải báo cho bên kia biết trước ít nhất bao nhiêu ngày làm việc về nội dung cần sửa đổi, bổ sung?"
+q-273,12 tháng tuổi,45/2019/QH14,37,Người lao động đang nghỉ thai sản hoặc nuôi con dưới bao nhiêu tháng tuổi không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động?
+q-274,thông báo bằng văn bản và phải được bên kia đồng ý,45/2019/QH14,38,Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải làm gì?
+q-275,không,45/2019/QH14,40,Người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật có được trợ cấp thôi việc không?
+q-276,12 tháng,45/2019/QH14,53,Thời hạn cho thuê lại lao động đối với người lao động tối đa là bao nhiêu tháng?
+q-277,02 bản,45/2019/QH14,55,Doanh nghiệp cho thuê lại lao động và bên thuê lại lao động phải ký kết hợp đồng cho thuê lại lao động bằng văn bản và được làm thành bao nhiêu bản?
+q-278,14 tuổi,45/2019/QH14,61,"Người học nghề, người tập nghề phải đủ bao nhiêu tuổi trở lên?"
+q-279,10 ngày,45/2019/QH14,77,"Trong thời hạn bao nhiêu ngày kể từ ngày thỏa ước lao động tập thể được ký kết, người sử dụng lao động tham gia thỏa ước phải gửi 01 bản thỏa ước lao động tập thể đến cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính?"
+q-280,Tòa án nhân dân,45/2019/QH14,87,Đơn vị nào có quyền tuyên bố thỏa ước lao động tập thể vô hiệu?
+q-281,quy định của pháp luật và các thỏa thuận hợp pháp trong hợp đồng lao động,45/2019/QH14,88,"Khi thỏa ước lao động tập thể bị tuyên bố vô hiệu thì quyền, nghĩa vụ và lợi ích của các bên ghi trong thỏa ước lao động tập thể tương ứng với toàn bộ hoặc phần bị tuyên bố vô hiệu được giải quyết dựa vào đâu?"
+q-282,phía người sử dụng lao động,45/2019/QH14,89,"Mọi chi phí cho việc thương lượng, ký kết, sửa đổi, bổ sung, gửi và công bố thỏa ước lao động tập thể do phía nào chi trả?"
+q-283,không thấp hơn,45/2019/QH14,99,Điền vào ...: Trường hợp ngừng việc từ 14 ngày làm việc trở xuống thì tiền lương ngừng việc được thỏa thuận ... mức lương tối thiểu?
+q-284,50.000.000 đồng,01/VBHN-VPQH,343,Chiếm dụng xây dựng nhà trái phép có thể bị phạt tiền đến bao nhiêu?
+q-285,30.000.000 đồng,01/VBHN-VPQH,183,"Tổ chức lấy vợ, lấy chồng cho người chưa đến tuổi kết hôn có thể bị phạt tiền đến bao nhiêu?"
+q-286,100.000.000 đồng đến dưới 500.000.000 đồng,01/VBHN-VPQH,180,Vô ý gây thiệt hại cho tài sản người khác trị giá từ bao nhiêu đến bao nhiêu thì bị phạt cảnh cáo hoặc phạt cải tạo không giam giữ đến 02 năm?
+q-287,500.000.000 đồng,01/VBHN-VPQH,180,Vô ý gây thiệt hại cho tài sản người khác trị giá từ bao nhiêu trở lên thì bị phạt cải tạo không giam giữ từ 02 năm đến 03 năm hoặc phạt tù từ 03 tháng đến 02 năm.
+q-288,03 năm,01/VBHN-VPQH,140,Gây rối loạn tâm thần và hành vi của nạn nhân mà tỷ lệ tổn thương cơ thể 31% trở lên thì bị phạt tù đến bao nhiêu năm?
+q-289,07 năm,01/VBHN-VPQH,115,Phá hoại việc thực hiện các chính sách kinh tế - xã hội nhằm chống chính quyền nhân dân thì bị phạt tù tối thiểu bao nhiêu năm?
+q-290,02 năm,01/VBHN-VPQH,176,Cố tình không trả lại tài sản cho chủ sở hữ hợp pháp với giá trị từ 10.000.000 đồng đến dưới 200.000.000 đồng thì bị phạt cải tạo không giam giữ đến bao lâu?
+q-291,"bị kết án do lỗi vô ý về tội phạm ít nghiêm trọng, tội phạm nghiêm trọng",01/VBHN-VPQH,69,Người bị kết án gì thì không bị coi là có án tích?
+q-292,50.000.000 đồng,01/VBHN-VPQH,77,Mức tiền phạt đối với pháp nhân thương mại phạm tội không được thấp hơn bao nhiêu?
+q-293,xét thấy nếu để pháp nhân thương mại bị kết án huy động vốn thì có nguy cơ tiếp tục phạm tội,01/VBHN-VPQH,81,Cấm huy động vốn được áp dụng khi nào?
+q-294,từ 01 năm đến 03 năm,01/VBHN-VPQH,81,Thời hạn cấm huy động vốn là bao lâu?
+q-295,từ 01 năm đến 02 năm,01/VBHN-VPQH,96,Tòa án có thể áp dụng biện pháp giáo dục tại trường giáo dưỡng từ bao nhiêu đến bao nhiêu năm đối với người dưới 18 tuổi phạm tội?
+q-296,một phần hai,01/VBHN-VPQH,99,Mức tiền phạt đối với người từ đủ 16 tuổi đến dưới 18 tuổi phạm tội không quá bao nhiêu phần của mức tiền phạt mà điều luật quy định?
+q-297,rất nghiêm trọng,01/VBHN-VPQH,100,Hình phạt cải tạo không giam giữ được áp dụng đối với người từ đủ 14 tuổi đến dưới 16 tuổi phạm tội mức độ nào?
+q-298,từ 06 tháng đến 03 năm,01/VBHN-VPQH,125,"Người giết người trong trạng thái tinh thần bị kích động mạnh do hành vi trái pháp luật nghiêm trọng của nạn nhân đối với người đó, thì bị phạt tù từ bao lâu đến bao lâu?"
+q-299,03 năm,01/VBHN-VPQH,128,"Người vô ý làm chết người, thì bị phạt cải tạo không giam giữ đến bao lâu?"
+q-300,từ 03 năm đến 10 năm,01/VBHN-VPQH,128,"Người phạm tội vô ý làm chết 02 người trở lên, thì bị phạt tù từ bao nhiêu đến bao nhiêu năm?"
+q-301,02 người trở lên,01/VBHN-VPQH,130,Người phạm tội bức tử đối với mấy người trở lên thì bị phạt tù từ 05 năm đến 12 năm?
+q-302,03 năm,01/VBHN-VPQH,152,"Đánh tráo người dưới 01 tuổi mà mình có trách nhiệm chăm sóc, nuôi dưỡng thì bị phạt tù tối thiểu bao nhiêu năm?"
+q-303,01 năm,01/VBHN-VPQH,176,Tội chiếm giữ bảo vật quốc gia thì bị phạt tù tối thiểu bao nhiêu năm?
+q-304,dưới 500.000.000 đồng,01/VBHN-VPQH,180,Tội vô ý gây thiệt hại tài sản của người khác trị giá đến dưới bao nhiêu thì bị phạt cảnh cáo?
+q-305,01 năm,01/VBHN-VPQH,184,Người phạm tội loạn luân thì bị phạt tù từ bao nhiêu năm?
+q-306,01 năm,01/VBHN-VPQH,187,"Người phạm tội mang thai hộ vì mục đích thương mại mà tái phạm nguy hiểm, thì bị phạt tù từ bao nhiêu năm?"
+q-307,03 năm,01/VBHN-VPQH,197,"Người quảng cáo gian dối về hàng hóa, đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì có thể bị phạt cải tạo không giam giữ đến bao lâu?"
+q-308,100.000.000 đồng trở lên,01/VBHN-VPQH,201,"Theo Bộ luật Hình sự 2017, người phạm tội cho vay lãi nặng trong giao dịch dân sự mà thu lợi bất chính bao nhiêu tiền trở lên thì có thể bị phạt tù từ 06 tháng đến 03 năm?"
+q-309,300.000.000 đồng trở lên,01/VBHN-VPQH,231,"Người gây thiệt hại hoặc thất thoát tiền, hàng cứu trợ có giá trị bao nhiêu trở lên thì bị phạt tiền từ 200.000.000 đồng đến 1.000.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm?"
+q-310,10 năm,01/VBHN-VPQH,409,"Không chấp hành nghiêm chỉnh chế độ trực ban, trực chiến, trực chỉ huy gây hậu quả nghiêm trọng có thể bị phạt tù tối đa bao nhiêu năm?"
+q-311,05 năm,01/VBHN-VPQH,425,"Làm lính đánh thuê nhằm chống một quốc gia hoặc một vùng lãnh thổ độc lập, có chủ quyền, thì bị phạt tù tối thiểu bao nhiêu năm?"
+q-312,phạt tù từ 01 năm đến 05 năm,01/VBHN-VPQH,407,Chỉ huy hoặc sĩ quan làm mất tài liệu bí mật công tác quân sự thì bị hình phạt nào?
+q-313,phạt tù từ 01 năm đến 05 năm,01/VBHN-VPQH,407,Làm mất tài liệu bí mật công tác quân sự trong khu vực có chiến sự thì bị hình phạt nào?
+q-314,05 năm,01/VBHN-VPQH,407,Làm mất tài liệu bí mật công tác quân sự trong khu vực có chiến sự thì bị phạt tù tối đa bao nhiêu năm?
+q-315,phạt tù từ 02 năm đến 07 năm,01/VBHN-VPQH,408,"Trong tình trạng khẩn cấp, cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng thì bị phạt như thế nào?"
+q-316,phạt tù từ 02 năm đến 07 năm,01/VBHN-VPQH,408,"Trong khu vực có chiến sự, nếu cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng thì bị phạt như thế nào?"
+q-317,02 năm,01/VBHN-VPQH,408,Cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng trong trường hợp chiến đấu thì bị phạt tù tối thiểu bao nhiêu năm?
+q-318,07 năm,01/VBHN-VPQH,408,Cố ý báo cáo sai trong hoạt động quân sự gây hậu quả nghiêm trọng trong trường hợp chiến đấu thì bị phạt tù tối đa bao nhiêu năm?
+q-319,3.000 cây trở lên,01/VBHN-VPQH,247,"Trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định với số lượng bao nhiêu thì có thể bị phạt tù đến 07 năm?"
+q-320,từ 500 cây đến dưới 3.000 cây,01/VBHN-VPQH,247,"Trồng cây thuốc phiện, cây côca, cây cần sa hoặc các loại cây khác có chứa chất ma túy do Chính phủ quy định với số lượng bao nhiêu thì có thể bị phạt tù tối đa 03 năm?"
+q-321,phạt tiền từ 2.000.000.000 đồng đến 5.000.000.000 đồng hoặc phạt tù từ 02 năm đến 07 năm,01/VBHN-VPQH,212,"Người đã từng làm giả tài liệu trong hồ sơ chào bán, niêm yết chứng khoán thu lợi bất chính, nếu tái phạm nguy hiểm thì bị phạt như thế nào?"
+q-322,2.000.000.000 đồng trở lên,01/VBHN-VPQH,212,"Làm giả tài liệu trong hồ sơ chào bán, niêm yết chứng khoán thu lợi bất chính từ bao nhiêu trở lên thì bị phạt tù từ 02 năm đến 07 năm?"
+q-323,03 năm,01/VBHN-VPQH,207,"Người nào làm, tàng trữ, vận chuyển, lưu hành tiền giả, thì bị phạt tù tối thiểu bao nhiêu năm?"
+q-324,tử hình,01/VBHN-VPQH,110,"Hành vi hoạt động tình báo, phá hoại hoặc gây cơ sở để hoạt động tình báo, phá hoại chống nước Cộng hòa xã hội chủ nghĩa Việt Nam có hình phạt cao nhất là gì?"
+q-325,12 năm,01/VBHN-VPQH,110,"Hành vi hoạt động tình báo, phá hoại hoặc gây cơ sở để hoạt động tình báo, phá hoại chống nước Cộng hòa xã hội chủ nghĩa Việt Nam bị phạt tối thiểu bao nhiêu năm tù?"
+q-326,tử hình,01/VBHN-VPQH,110,"Thu thập, cung cấp tin tức, tài liệu khác nhằm mục đích để nước ngoài sử dụng chống nước Cộng hòa xã hội chủ nghĩa Việt Nam bị hình phạt cao nhất là gì?"
+q-327,"phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình",01/VBHN-VPQH,110,"Người gây cơ sở để hoạt động tình báo, phá hoại theo sự chỉ đạo của nước ngoài thì bị phạt như thế nào?"
+q-328,"phạt tù từ 12 năm đến 20 năm, tù chung thân hoặc tử hình",01/VBHN-VPQH,110,Người cung cấp hoặc thu thập nhằm cung cấp bí mật nhà nước cho nước ngoài bị phạt như thế nào?
+q-329,"đã nhận làm gián điệp, nhưng không thực hiện nhiệm vụ được giao và tự thú, thành khẩn khai báo với cơ quan nhà nước có thẩm quyền",01/VBHN-VPQH,110,"Người đã nhận làm gián điệp, cần điều kiện gì để được miễn trách nhiệm hình sự về tội này?"
+q-330,15 năm,01/VBHN-VPQH,256,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối đa bao nhiêu năm tù?"
+q-331,02 năm,01/VBHN-VPQH,256,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối thiểu bao nhiêu năm tù?"
+q-332,15 năm,01/VBHN-VPQH,256,"Lợi dụng chức vụ, quyền hạn để cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối đa bao nhiêu năm tù?"
+q-333,07 năm,01/VBHN-VPQH,256,"Lợi dụng chức vụ, quyền hạn để cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tối thiểu bao nhiêu năm tù?"
+q-334,200.000.000 đồng,01/VBHN-VPQH,256,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tiền tối đa bao nhiêu?"
+q-335,50.000.000 đồng,01/VBHN-VPQH,256,"Cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy có thể bị phạt tiền tối thiểu bao nhiêu?"
+q-336,phạt tù từ 07 năm đến 15 năm,01/VBHN-VPQH,256,"Người nào cho thuê, cho mượn địa điểm hoặc có bất kỳ hành vi nào khác chứa chấp việc sử dụng trái phép chất ma túy, nếu tái phạm nguy hiểm thì bị phạt như thế nào?"
+q-337,từ 100.000.000 đồng đến 300.000.000 đồng,01/VBHN-VPQH,283,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tiền như thế nào?
+q-338,300.000.000 đồng,01/VBHN-VPQH,283,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tiền tối đa bao nhiêu?
+q-339,100.000.000 đồng,01/VBHN-VPQH,283,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tiền tối thiểu bao nhiêu?
+q-340,từ 03 tháng đến 03 năm,01/VBHN-VPQH,283,Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam có thể bị phạt tù như thế nào?
+q-341,03 năm,01/VBHN-VPQH,283,"Điều khiển tàu bay vào hoặc ra khỏi Việt Nam mà vi phạm quy định về hàng không của nước Cộng hòa xã hội chủ nghĩa Việt Nam, không gây hậu quả nghiêm trọng có thể bị phạt tù tối đa bao nhiêu năm?"
+q-342,từ 200.000.000 đồng đến dưới 500.000.000 đồng,01/VBHN-VPQH,293,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác gây thiệt hại bao nhiêu thì bị phạt?"
+q-343,500.000.000 đồng trở lên,01/VBHN-VPQH,293,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác gây thiệt hại bao nhiêu thì bị phạt tù lên đến 05 năm?"
+q-344,phạt tiền từ 50.000.000 đồng đến 100.000.000 đồng hoặc phạt cải tạo không giam giữ đến 03 năm,01/VBHN-VPQH,293,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác gây thiệt hại từ 200.000.000 đồng đến dưới 500.000.000 đồng thì bị phạt như thế nào?"
+q-345,từ 50.000.000 đồng đến 100.000.000 đồng,01/VBHN-VPQH,293,"Sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác, đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm thì bị phạt tiền như thế nào?"
+q-346,05 năm,01/VBHN-VPQH,293,"Người sử dụng trái phép tần số vô tuyến điện dành riêng cho mục đích cấp cứu, an toàn, tìm kiếm, cứu hộ, cứu nạn, quốc phòng, an ninh vào mục đích khác, nếu tái phạm nguy hiểm thì bị phạt tù tối thiểu bao nhiêu năm?"
+q-347,phạt tù từ 05 năm đến 10 năm,01/VBHN-VPQH,300,"Huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt như thế nào?"
+q-348,10 năm,01/VBHN-VPQH,300,"Người nào huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối đa bao nhiêu năm?"
+q-349,05 năm,01/VBHN-VPQH,300,"Người nào huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối thiểu bao nhiêu năm?"
+q-350,01 năm,01/VBHN-VPQH,300,"Người nào chuẩn bị phạm tội huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối thiểu bao nhiêu năm?"
+q-351,10 năm,01/VBHN-VPQH,300,"Người nào chuẩn bị phạm tội huy động, hỗ trợ tiền, tài sản dưới bất kỳ hình thức nào cho tổ chức, cá nhân khủng bố, thì bị phạt tù tối đa bao nhiêu năm?"
+q-352,"phạt tiền từ 10.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",01/VBHN-VPQH,320,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt như thế nào?"
+q-353,100.000.000 đồng,01/VBHN-VPQH,320,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm, thì bị phạt tiền tối đa bao nhiêu?"
+q-354,phạt tù từ 03 năm đến 10 năm,01/VBHN-VPQH,320,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích mà còn vi phạm và làm chết người thì bị phạt như thế nào?"
+q-355,200.000.000 đồng trở lên,01/VBHN-VPQH,320,"Dùng bói toán, đồng bóng hoặc các hình thức mê tín, dị đoan khác đã bị xử phạt vi phạm hành chính về hành vi này hoặc đã bị kết án về tội này, chưa được xóa án tích, thu lợi bất chính bao nhiêu thì bị phạt tù từ 03 năm đến 10 năm?"
+q-356,"phạt tiền từ 20.000.000 đồng đến 100.000.000 đồng, phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm",01/VBHN-VPQH,321,"Người nào đánh bạc trái phép dưới bất kỳ hình thức nào được thua bằng tiền hay hiện vật trị giá từ 5.000.000 đồng đến dưới 50.000.000 đồng hoặc dưới 5.000.000 đồng nhưng đã bị xử phạt vi phạm hành chính về hành vi này hoặc hành vi quy định tại Điều 322 của Bộ luật này hoặc đã bị kết án về tội này hoặc tội quy định tại Điều 322 của Bộ luật này, chưa được xóa án tích mà còn vi phạm, thì bị phạt như thế nào?"
+q-357,phạt cải tạo không giam giữ đến 03 năm hoặc phạt tù từ 06 tháng đến 03 năm,01/VBHN-VPQH,363,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác gây hậu quả nghiêm trọng, thì bị phạt như thế nào?"
+q-358,phạt tù từ 02 năm đến 07 năm,01/VBHN-VPQH,363,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác gây hậu quả rất nghiêm trọng hoặc đặc biệt nghiêm trọng thì bị phạt như thế nào?"
+q-359,phạt tù từ 02 năm đến 07 năm,01/VBHN-VPQH,363,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác và lôi kéo người khác đào nhiệm thì bị phạt như thế nào?"
+q-360,07 năm,01/VBHN-VPQH,363,"Cán bộ, công chức, viên chức mà cố ý từ bỏ nhiệm vụ công tác trong hoàn cảnh chiến tranh, thiên tai, dịch bệnh hoặc trong trường hợp khó khăn đặc biệt khác của xã hội thì bị phạt tù tối đa bao nhiêu năm?"
+q-361,"người phạm tội xâm phạm an ninh quốc gia, người tái phạm nguy hiểm hoặc trong những trường hợp khác do Bộ luật này quy định",01/VBHN-VPQH,43,Quản chế được áp dụng đối với ai?
+q-362,01 năm đến 05 năm,01/VBHN-VPQH,43,Thời hạn quản chế là từ bao nhiêu đến bao nhiêu năm?
+q-363,"hình phạt tù không thời hạn được áp dụng đối với người phạm tội đặc biệt nghiêm trọng, nhưng chưa đến mức bị xử phạt tử hình.",01/VBHN-VPQH,39,Tù chung thân là gì?
+q-364,chính quyền nhân dân,24/2018/QH14,16,"Một người vi phạm luật an ninh mạng khi truyên truyên, xuyên tạc về đối tượng nào?"
+q-365,"Kêu gọi, vận động, xúi giục, đe dọa, gây chia rẽ, tiến hành hoạt động vũ trang hoặc dùng bạo lực",24/2018/QH14,16,Hành động nào gây nhằm mục đích chống chính quyền nhân dân vi phạm luật an ninh mạng?
+q-366,"Thông tin bịa đặt, sai sự thật",24/2018/QH14,16,Những thông tin nào về lĩnh vực ngân hàng xâm phạm trật tự quản lý kinh tế?
+q-367,phối hợp với cơ quan chức năng,24/2018/QH14,16,Những doanh kiệp cung câp dịch vụ trên mạng viễn thông cần phải làm gì để xử lý các thông tin vi phạm luật an ninh mạng?
+q-368,"nghe, ghi âm, ghi hình trái phép",24/2018/QH14,17,Những hành động nào đối với các cuộc đàm thoại sẽ vi phạm luật an ninh mạng?
+q-369,"trên máy tính, thiết bị khác hoặc trao đổi trên không gian mạng",24/2018/QH14,17,Những tài liệu bí mật của nhà nước thường được lưu trữ ở đâu?
+q-370,"thiết bị, sản phẩm, dịch vụ thông tin liên lạc, thiết bị kỹ thuật số, thiết bị điện tử",24/2018/QH14,17,"Trước khi đưa vào sử dụng trong hệ thống thông tin quan trọng về an ninh quốc gia, nhữn sản phẩm nào có thể phải được kiểm tra?"
+q-371,Ban Cơ yếu Chính phủ,24/2018/QH14,17,Bộ phận nào có nhiệm vụ thực hiện các quy định của pháp luật trong việc sử dụng mật mã để bảo vệ thông tin thuộc bí mật nhà nước?
+q-372,trộm cắp cước,24/2018/QH14,18,Hành động nào là phạm pháp đối với mạng viện thông quốc tế?
+q-373,"làm giả, lưu hành, trộm cắp, mua bán, thu thập, trao đổi trái phép thông tin",24/2018/QH14,18,"Những hành động nào vi phạm luật an ninh mạng đối với thẻ tín dụng, tài khoản ngân hàng của người khác khi sử dụng mạng internet?"
+q-374,"phòng, chống hành vi sử dụng không gian mạng, công nghệ thông tin, phương tiện điện tử để vi phạm pháp luật",24/2018/QH14,18,Trách nhiệm của lực lượng chuyên trách bảo vệ an ninh mạng là gì?
+q-375,"mạng viễn thông, mạng Internet, mạng máy tính, hệ thống thông tin, hệ thống xử lý và điều khiển thông tin, cơ sở dữ liệu, phương tiện điện tử",24/2018/QH14,19,Việc phát tán chương trình gây hại cho những thiết bị nào là vi phạm luật an ninh mạng?
+q-376,"Sản xuất, mua bán, trao đổi, tặng cho",24/2018/QH14,19,"Những hành động nào là vi phạm luật an ninh mạng đối với thiết bị, phần mềm có tính năng tân công mạng internet?"
+q-377,lực lượng chuyên trách bảo vệ an ninh mạng,24/2018/QH14,19,Khi xảy ra tấn công mạng thì bộ phận nào sẽ đứng ra chủ trì giải quyết vấn đề?
+q-378,"chặn lọc thông tin để ngăn chặn, loại trừ hành vi tấn công mạng và cung cấp đầy đủ, kịp thời thông tin, tài liệu liên quan.",24/2018/QH14,19,Doanh nghiệp cung cấp dịch vụ mạng có thể hỗ trợ những gì cho lực lượng chuyên trách bảo vệ an ninh mạng khi có sự cố xảy ra?
+q-379,"thường xuyên rà soát, kiểm tra hệ thống thông tin thuộc phạm vi quản lý",24/2018/QH14,20,Chủ quản hệ thống thông tin phải làm gì để giảm thiểu nguy cơ khủng bố mạng?
+q-380,báo cho lực lượng bảo vệ an ninh mạng,24/2018/QH14,20,Khi xảy ra dấu hiệu của khủng bố mạng thì ta phải làm gì đầu tiên?
+q-381,Xuất hiện thông tin kích động,24/2018/QH14,21,Tình huống nào trên mạng internet có nguy cơ xảy ra bạo loạn ?
+q-382,"quy mô lớn, cường độ cao",24/2018/QH14,21,Tấn công với mức độ như thế nào thì sẽ xảy ra tình huống nguy hiểm về an ninh mạng?
+q-383,Ngừng cung cấp thông tin mạng tại khu vực cụ thể hoặc ngắt cổng kết nối,24/2018/QH14,21,Khi xảy ra tấn công mạng thì nên xử lý như thế nào đối với mạng quốc tế?
+q-384,"hủ tướng Chính phủ xem xét, quyết định hoặc ủy quyền cho Bộ trưởng Bộ Công an",24/2018/QH14,21,Bộ phận nào sẽ xem xét để xử lý khi có nguy hiểm về ăn ninh mạng do một cá nhân thực hiện?
+q-385,"Thủ tướng Chính phủ xem xét, quyết định hoặc ủy quyền cho Bộ trưởng Bộ Quốc phòng",24/2018/QH14,21,Bộ phận nào sẽ xem xét để xử lý khi có nguy hiểm về ăn ninh mạng đối với hệ thống thông tin quân sự?
+q-386,"Phòng, chống tấn công và bảo vệ",24/2018/QH14,22,lực lượng chuyên trách bảo vệ an ninh mạng cần phải làm gì để đảm bảo hoạt động ổn định của hệ thống thông tin quan trọng?
+q-387,Làm tê liệt hoặc hạn chế hoạt động sử dụng không gian mạng,24/2018/QH14,22,lực lượng chuyên trách bảo vệ an ninh mạng cần phải làm gì khi xảy ra tấn công mạng có ảnh hưởng đến xã hội?
+q-388,phương án bảo đảm an ninh mạng,24/2018/QH14,23,"Để đảm bảo an ninh mạng, cần phải có vấn đề gì đối với hệ thống thông tin ?"
+q-389,"Ứng dụng, triển khai phương án, biện pháp, công nghệ bảo vệ an ninh mạng",24/2018/QH14,23,"Cần phải làm gì đối với những thông tin, tài liệu được lưu trữ và soạn thảo?"
+q-390,Tổ chức bồi dưỡng kiến thức về an ninh mạng,24/2018/QH14,23,Làm thế nào để nâng cao năng lực bảo vệ an ninh mạng cho người lao động?
+q-391,"Đầu tư, xây dựng hạ tầng cơ sở vật chất",24/2018/QH14,23,"Để phù hợp với điều kiện bảo đảm triển khai hoạt động bảo vệ an ninh mạng, theo luật an ninh mạng thì chúng ta phải làm gì?"
+q-392,Khi có đề nghị của chủ quản hệ thống thông tin,24/2018/QH14,24,Ngoài việc có hành vi vi phạm pháp luật thì trường hợp nào cần phải được kiểm tra an ninh mạng?
+q-393,thông báo cho lực lượng chuyên trách bảo vệ an ninh mạng,24/2018/QH14,24,trách nhiệm của chủ quản hệ thống là gì khi phát hiện hành vi vi phạm pháp luật?
+q-394,30 ngày,24/2018/QH14,24,Thời hạn là bao lâu đối với việc thông báo kết quả kiểm tra trong trường hợp phát hiện lỗ hổng bảo mật?
+q-395,yêu cầu phát triển kinh tế - xã hội,24/2018/QH14,25,bảo vệ an ninh mạng cần phải kết hợp chặt chẽ với điều gì?
+q-396,Xác thực thông tin,24/2018/QH14,26,Doanh nghiệp cần làm gì khi có người dùng đăng ký tài khoản số?
+q-397,24 giờ,24/2018/QH14,26,"Trong khoảng thời gian bao lâu thì cần phải ngăn chặn việc chia sẻ, xóa bỏ thông tin  thông tin kể từ lúc có yêu cầu của lực lượng chuyên trách."
+q-398,Không cung cấp hoặc ngừng cung cấp dịch vụ,24/2018/QH14,26,"Khi có yêu cầu của lực lượng chuyên trách, cần phải làm gì đối với các tổ chức hoặc cá nhân vi phạm?"
+q-399,thực hiện đúng chức năng,24/2018/QH14,27,Cần phải nghiên cứu những phương pháp để đảm bảo điều gì đối với phần cứng và phần mêm?
+q-400,"công nghệ mới, công nghệ tiên tiến",24/2018/QH14,28,chúng ta cần sử dụng những ứng dụng nào để tăng cường năng lực tự chủ về an ninh mạng?
+q-401,kiểm soát nội dung thông tin,24/2018/QH14,29,Doanh nghiệp cung cấp dịch vụ mang cần làm gì để đảm bảo an toàn cho trẻ em?
+q-402,"bảo đảm quyền của trẻ em, bảo vệ trẻ em",24/2018/QH14,29,"cha mẹ, giáo viên, người chăm sóc trẻ em cần phải làm gì khi trẻ em tham gia không gian mạng?"
+q-403,"quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan",24/2018/QH14,1,Luật An ninh mạng 2018 quy định về điều gì?
+q-404,"An ninh mạng là sự bảo đảm hoạt động trên không gian mạng không gây phương hại đến an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân.",24/2018/QH14,2,An ninh mạng là gì?
+q-405,Chính phủ,24/2018/QH14,2,Không gian mạng quốc gia là do ai xác lập?
+q-406,Tài khoản số,24/2018/QH14,2,"Thông tin dùng để chứng thực, xác thực, phân quyền sử dụng các ứng dụng, dịch vụ trên không gian mạng được gọi là gì?"
+q-407,"quốc phòng, an ninh, phát triển kinh tế - xã hội, khoa học, công nghệ và đối ngoại",24/2018/QH14,3,Nhà nước ưu tiên bảo vệ an ninh mạng trong các lĩnh vực nào?
+q-408,"khoa học, công nghệ và đối ngoại",24/2018/QH14,3,"Ngoài quốc phòng, an ninh, phát triển kinh tế - xã hội, Nhà nước còn ưu tiên bảo vệ an ninh mạng trong các lĩnh vực nào?"
+q-409,Đảng Cộng sản Việt Nam,24/2018/QH14,4,Nguyên tắc bảo vệ an ninh mạng được đặt dưới sự lãnh đạo của ai?
+q-410,Bộ luật Tố tụng hình sự,24/2018/QH14,5,"Khởi tố, điều tra, truy tố, xét xử các vụ án liên quan đến an ninh mạng theo quy định của Bộ luật nào?"
+q-411,Chính phủ,24/2018/QH14,5,"Hầu hết các quy định trình tự, thủ tục áp dụng biện pháp bảo vệ an ninh mạng được quy định bởi ai?"
+q-412,"Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở tôn trọng độc lập, chủ quyền và toàn vẹn lãnh thổ, không can thiệp vào công việc nội bộ của nhau, bình đẳng và cùng có lợi.",24/2018/QH14,7,Hợp tác quốc tế về an ninh mạng được thực hiện trên cơ sở nào?
+q-413,Bộ Công an,24/2018/QH14,7,"Đơn vị nào chịu trách nhiệm trước Chính phủ chủ trì, phối hợp thực hiện hợp tác quốc tế về an ninh mạng, trừ hoạt động hợp tác quốc tế của Bộ Quốc phòng?"
+q-414,Bộ Quốc phòng,24/2018/QH14,7,Đơn vị nào chịu trách nhiệm trước Chính phủ thực hiện hợp tác quốc tế về an ninh mạng trong phạm vi quản lý?
+q-415,Bộ Ngoại giao,24/2018/QH14,7,"Đơn vị nào có trách nhiệm phối hợp với Bộ Công an, Bộ Quốc phòng trong hoạt động hợp tác quốc tế về an ninh mạng?"
+q-416,"tùy theo tính chất, mức độ vi phạm mà bị xử lý kỷ luật, xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự, nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật",24/2018/QH14,9,Cách xử lý vi phạm pháp luật về an ninh mạng như thế nào?
+q-417,Thủ tướng Chính phủ,24/2018/QH14,10,"Ai là người ban hành và sửa đổi, bổ sung Danh mục hệ thống thông tin quan trọng về an ninh quốc gia?"
+q-418,"Bộ Công an, Bộ Quốc phòng, Bộ Thông tin và Truyền thông, Ban Cơ yếu Chính phủ, các Bộ, ngành chức năng",24/2018/QH14,10,"Những đơn vị nào chịu trách nhiệm thẩm định, đánh giá, kiểm tra, giám sát, ứng phó, khắc phục sự cố đối với hệ thống thông tin quan trọng về an ninh quốc gia?"
+q-419,Chính phủ,24/2018/QH14,10,"Đơn vị nào quy định sự phối hợp giữa những đơn vị chịu trách nhiệm thẩm định, đánh giá, kiểm tra, giám sát, ứng phó, khắc phục sự cố đối với hệ thống thông tin quan trọng về an ninh quốc gia?"
+q-420,"Thẩm định an ninh mạng là hoạt động xem xét, đánh giá những nội dung về an ninh mạng để làm cơ sở cho việc quyết định xây dựng hoặc nâng cấp hệ thống thông tin.",24/2018/QH14,11,Thẩm định an ninh mạng là gì?
+q-421,"Báo cáo nghiên cứu tiền khả thi, hồ sơ thiết kế thi công dự án đầu tư xây dựng hệ thống thông tin",24/2018/QH14,11,Báo cáo nào cần được thẩm định an ninh mạng?
+q-422,Đề án nâng cấp hệ thống thông tin,24/2018/QH14,11,Đề án nào cần được thẩm định an ninh mạng?
+q-423,"Sự phù hợp với phương án bảo vệ, ứng phó, khắc phục sự cố và bố trí nhân lực bảo vệ an ninh mạng",24/2018/QH14,11,"Ngoài việc tuân thủ quy định, điều kiện an ninh mạng trong thiết kế, nội dung thẩm định an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia còn bao gồm gì?"
+q-424,Lực lượng chuyên trách bảo vệ an ninh mạng thuộc Bộ Quốc phòng,24/2018/QH14,11,Đơn vị nào thẩm định an ninh mạng đối với hệ thống thông tin quân sự?
+q-425,Ban Cơ yếu Chính phủ,24/2018/QH14,11,Đơn vị nào thẩm định an ninh mạng đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ?
+q-426,Đánh giá điều kiện về an ninh mạng,24/2018/QH14,12,"Hoạt động xem xét sự đáp ứng về an ninh mạng của hệ thống thông tin trước khi đưa vào vận hành, sử dụng được gọi là gì?"
+q-427,Ban Cơ yếu Chính phủ,24/2018/QH14,12,"Đơn vị nào chịu trách nhiệm đánh giá, chứng nhận đủ điều kiện an ninh mạng đối với hệ thống thông tin cơ yếu thuộc Ban Cơ yếu Chính phủ?"
+q-428,"Kiểm tra an ninh mạng là hoạt động xác định thực trạng an ninh mạng của hệ thống thông tin, cơ sở hạ tầng hệ thống thông tin hoặc thông tin được lưu trữ, xử lý, truyền đưa trong hệ thống thông tin nhằm phòng ngừa, phát hiện, xử lý nguy cơ đe dọa an ninh mạng và đưa ra các phương án, biện pháp bảo đảm hoạt động bình thường của hệ thống thông tin.",24/2018/QH14,13,Kiểm tra an ninh mạng là gì?
+q-429,bảo mật,24/2018/QH14,13,Kết quả kiểm tra an ninh mạng được bảo mật hay công khai?
+q-430,Giám sát an ninh mạng,24/2018/QH14,14,"Hoạt động thu thập, phân tích tình hình nhằm xác định nguy cơ đe dọa an ninh mạng, sự cố an ninh mạng, điểm yếu, lỗ hổng bảo mật, mã độc, phần cứng độc hại để cảnh báo, khắc phục, xử lý được gọi là gì?"
+q-431,"Công dân Việt Nam có đủ tiêu chuẩn về phẩm chất đạo đức, sức khỏe, trình độ, kiến thức về an ninh mạng, an toàn thông tin mạng, công nghệ thông tin, có nguyện vọng thì có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng.",24/2018/QH14,32,Các công dân Việt Nam với các tiêu chuẩn gì thì có thể được tuyển chọn vào lực lượng bảo vệ an ninh mạng?
+q-432,"Bộ Công an chủ trì, phối hợp với Bộ, ngành có liên quan",24/2018/QH14,33,"Các đơn vị nào chịu trách nhiệm tổ chức bồi dưỡng nghiệp vụ an ninh mạng cho lực lượng bảo vệ an ninh mạng và công chức, viên chức, người lao động tham gia bảo vệ an ninh mạng?"
+q-433,Nhà nước,24/2018/QH14,34,"Ai chịu trách nhiệm cho việc làm chính sách phổ biến kiến thức về an ninh mạng trong phạm vi cả nước, khuyến khích cơ quan nhà nước phối hợp với tổ chức tư nhân, cá nhân thực hiện chương trình giáo dục và nâng cao nhận thức về an ninh mạng?"
+q-434,Ủy ban nhân dân cấp tỉnh,24/2018/QH14,34,"Đơn vị nào có trách nhiệm xây dựng và triển khai hoạt động phổ biến kiến thức, nâng cao nhận thức về an ninh mạng cho cơ quan, tổ chức, cá nhân của tỉnh?"
+q-435,ngân sách nhà nước,24/2018/QH14,35,"Điền vào chỗ trống: Kinh phí bảo vệ an ninh mạng của cơ quan nhà nước, tổ chức chính trị được ... đảm bảo."
+q-436,Bộ Quốc phòng,24/2018/QH14,37,"Bộ nào chịu trách nhiệm xây dựng, đề xuất chiến lược, chủ trương, chính sách, kế hoạch và phương án bảo vệ an ninh mạng trong phạm vi quản lý?"
+q-437,Bộ Quốc phòng,24/2018/QH14,37,"Bộ nào chịu trách nhiệm kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về an ninh mạng trong phạm vi quản lý?"
+q-438,Bộ Công an,24/2018/QH14,37,"Bộ Quốc phòng và Bộ nào chịu trách nhiệm tổ chức diễn tập phòng, chống tấn công mạng, diễn tập ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia, triển khai thực hiện công tác bảo vệ an ninh mạng?"
+q-439,Bộ Thông tin và Truyền thông,24/2018/QH14,38,"Bộ nào chịu trách nhiệm yêu cầu doanh nghiệp cung cấp dịch vụ trên mạng viễn thông, mạng Internet, các dịch vụ gia tăng trên không gian mạng, chủ quản hệ thống thông tin loại bỏ thông tin có nội dung vi phạm pháp luật về an ninh mạng trên dịch vụ, hệ thống thông tin do doanh nghiệp, cơ quan, tổ chức trực tiếp quản lý?"
+q-440,Ban Cơ yếu Chính phủ,24/2018/QH14,39,"Đơn vị nào chịu trách nhiệm tham mưu, đề xuất Bộ trưởng Bộ Quốc phòng ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật, chương trình, kế hoạch về mật mã để bảo vệ an ninh mạng thuộc phạm vi Ban Cơ yếu Chính phủ quản lý?"
+q-441,ngày 01 tháng 01 năm 2019,24/2018/QH14,43,Luật An ninh mạng 2018 có hiệu lực thi hành từ ngày nào?
+q-442,12 tháng,24/2018/QH14,43,"Hệ thống thông tin đang vận hành, sử dụng được bổ sung vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia thì trong thời hạn bao nhiêu tháng kể từ ngày được bổ sung, chủ quản hệ thống thông tin có trách nhiệm bảo đảm đủ điều kiện an ninh mạng, lực lượng chuyên trách bảo vệ an ninh mạng đánh giá điều kiện an ninh mạng theo quy định tại Điều 12 của Luật An ninh mạng 2018?"
+q-443,quyền dân sự,91/2015/QH13,2,"Theo Bộ luật dân sự 2015, ở nước Cộng hoà xã hội chủ nghĩa Việt Nam, các quyền gì được công nhận, tôn trọng, bảo vệ và bảo đảm theo Hiến pháp và pháp luật?"
+q-444,"quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội, đạo đức xã hội, sức khỏe của cộng đồng.",91/2015/QH13,2,"Theo Bộ luật dân sự 2015, ở nước Cộng hoà xã hội chủ nghĩa Việt Nam, quyền dân sự có thể bị hạn chế theo quy định của luật trong trường hợp cần thiết vì các lý do nào?"
+q-445,"Tập quán là quy tắc xử sự có nội dung rõ ràng để xác định quyền, nghĩa vụ của cá nhân, pháp nhân trong quan hệ dân sự cụ thể, được hình thành và lặp đi lặp lại nhiều lần trong một thời gian dài, được thừa nhận và áp dụng rộng rãi trong một vùng, miền, dân tộc, cộng đồng dân cư hoặc trong một lĩnh vực dân sự.",91/2015/QH13,5,"Theo Điều 5: Áp dụng tập quán, trong Bộ luật dân sự 2015, tập quán là gì?"
+q-446,có thể áp dụng tập quán nhưng tập quán áp dụng không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này.,91/2015/QH13,5,"Theo Bộ luật dân sự 2015, trường hợp các bên không có thoả thuận và pháp luật không quy định thì có thể áp dụng tập quán như thế nào?"
+q-447,áp dụng quy định của pháp luật điều chỉnh quan hệ dân sự tương tự.,91/2015/QH13,6,"Theo Bộ luật dân sự 2015, trường hợp phát sinh quan hệ thuộc phạm vi điều chỉnh của pháp luật dân sự mà các bên không có thỏa thuận, pháp luật không có quy định và không có tập quán được áp dụng thì phải áp dụng quy định của pháp luật như thế nào?"
+q-448,"áp dụng các nguyên tắc cơ bản của pháp luật dân sự quy định tại Điều 3 của Bộ luật này, án lệ, lẽ công bằng.",91/2015/QH13,6,"Theo Bộ luật dân sự 2015, trường hợp không thể áp dụng tương tự pháp luật theo quy định tại khoản 1 Điều 6 của Bộ luật này thì phải áp dụng như thế nào?"
+q-449,"bản sắc dân tộc, tôn trọng và phát huy phong tục, tập quán, truyền thống tốt đẹp, tình đoàn kết, tương thân, tương ái, mỗi người vì cộng đồng, cộng đồng vì mỗi người và các giá trị đạo đức cao đẹp của các dân tộc cùng sinh sống trên đất nước Việt Nam.",91/2015/QH13,7,"Theo Bộ luật dân sự 2015, việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự phải bảo đảm giữ gìn những giá trị gì?"
+q-450,được khuyến khích.,91/2015/QH13,7,"Theo Bộ luật dân sự 2015, trong quan hệ dân sự, việc hoà giải giữa các bên phù hợp với quy định của pháp luật có được khuyến khích hay không?"
+q-451,"1. Hợp đồng.
+
+2. Hành vi pháp lý đơn phương.
+
+3. Quyết định của Tòa án, cơ quan có thẩm quyền khác theo quy định của luật.
+
+4. Kết quả của lao động, sản xuất, kinh doanh; kết quả của hoạt động sáng tạo ra đối tượng quyền sở hữu trí tuệ.
+
+5. Chiếm hữu tài sản.
+
+6. Sử dụng tài sản, được lợi về tài sản không có căn cứ pháp luật.
+
+7. Bị thiệt hại do hành vi trái pháp luật.
+
+8. Thực hiện công việc không có ủy quyền.
+
+9. Căn cứ khác do pháp luật quy định.",91/2015/QH13,8,"Theo Bộ luật dân sự 2015, hãy liệt kê 9 căn cứ xác lập nên Quyền dân sự."
+q-452,Điều 3 và Điều 10,91/2015/QH13,9,"Theo Bộ luật dân sự 2015, cá nhân, pháp nhân thực hiện quyền dân sự theo ý chí của mình, nhưng không được trái với quy định tại những Điều nào trong Bộ luật này?"
+q-453,luật có quy định khác.,91/2015/QH13,9,"Theo Điều 9: Thực hiện quyền dân sự, trong Bộ luật dân sự 2015, việc cá nhân, pháp nhân không thực hiện quyền dân sự của mình không phải là căn cứ làm chấm dứt quyền, trừ trường hợp nào?"
+q-454,"gây thiệt hại cho người khác, để vi phạm nghĩa vụ của mình hoặc thực hiện mục đích khác trái pháp luật.",91/2015/QH13,10,"Theo Điều 10: Giới hạn việc thực hiện quyền dân sự, trong Bộ luật dân sự 2015, cá nhân, pháp nhân không được lạm dụng quyền dân sự của mình để?"
+q-455,"căn cứ vào tính chất, hậu quả của hành vi vi phạm mà có thể không bảo vệ một phần hoặc toàn bộ quyền của họ, buộc bồi thường nếu gây thiệt hại và có thể áp dụng chế tài khác do luật quy định.",91/2015/QH13,10,"Trường hợp cá nhân, pháp nhân không tuân thủ quy định tại khoản 1 Điều 10: Giới hạn việc thực hiện quyền dân sự, trong Bộ luật dân sự 2015, thì Toà án hoặc cơ quan có thẩm quyền khác có thể?"
+q-456,"1. Công nhận, tôn trọng, bảo vệ và bảo đảm quyền dân sự của mình.
+
+2. Buộc chấm dứt hành vi xâm phạm.
+
+3. Buộc xin lỗi, cải chính công khai.
+
+4. Buộc thực hiện nghĩa vụ.
+
+5. Buộc bồi thường thiệt hại.
+
+6. Hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.
+
+7. Yêu cầu khác theo quy định của luật.",91/2015/QH13,11,"Liệt kê 7 phương thức bảo vệ quyền dân sự mà chủ thể có thể yêu cầu cơ quan, tổ chức có thẩm quyền khi bị xâm phạm trong Bộ luật dân sự 2015."
+q-457,Điều 3,91/2015/QH13,12,"Theo Bộ luật dân sư 2015, việc tự bảo vệ quyền dân sự phải phù hợp với tính chất, mức độ xâm phạm đến quyền dân sự đó và không được trái với các nguyên tắc cơ bản của pháp luật dân sự quy định tại điều mấy trong bộ luật này?"
+q-458,luật có quy định khác.,91/2015/QH13,13,"Theo Bộ luật dân sự 2015, cá nhân, pháp nhân có quyền dân sự bị xâm phạm được bồi thường toàn bộ thiệt hại, trừ trường hợp các bên có thỏa thuận khác hoặc?"
+q-459,"tôn trọng, bảo vệ quyền dân sự của cá nhân, pháp nhân.",91/2015/QH13,14,"Theo Điều 14: Bảo vệ quyền dân sự thông qua cơ quan có thẩm quyền, trong Bộ luật dân sự 2015, toà án, cơ quan có thẩm quyền khác có trách nhiệm gì?"
+q-460,pháp luật tố tụng tại Tòa án hoặc trọng tài.,91/2015/QH13,14,"Theo Điều 14: Bảo vệ quyền dân sự thông qua cơ quan có thẩm quyền, trong Bộ luật dân sự 2015, trường hợp quyền dân sự bị xâm phạm hoặc có tranh chấp thì việc bảo vệ quyền được thực hiện theo?"
+q-461,Điều 5 và Điều 6,91/2015/QH13,14,"Toà án không được từ chối giải quyết vụ, việc dân sự vì lý do chưa có điều luật để áp dụng; trong trường hợp này, quy định tại điều mấy của Bộ luật dân sự 2015 được áp dụng?"
+q-462,"hủy quyết định cá biệt trái pháp luật của cơ quan, tổ chức, người có thẩm quyền.",91/2015/QH13,15,"Theo Điều 15, Bộ luật dân sự 2015, khi giải quyết yêu cầu bảo vệ quyền dân sự, Tòa án hoặc cơ quan có thẩm quyền khác có quyền gì?"
+q-463,quyền dân sự bị xâm phạm được khôi phục và có thể được bảo vệ bằng các phương thức quy định tại Điều 11 của Bộ luật này.,91/2015/QH13,15,"Theo Điều 15, Bộ luật dân sự 2015, trường hợp quyết định cá biệt bị huỷ thì quyền dân sự bị xâm phạm được xử lý như thế nào?"
+q-464,khả năng của cá nhân có quyền dân sự và nghĩa vụ dân sự.,91/2015/QH13,16,"Theo Điều 16, Bộ luật dân sự 2015, năng lực pháp luật dân sự của cá nhân là gì?"
+q-465,từ khi người đó sinh ra và chấm dứt khi người đó chết.,91/2015/QH13,16,"Theo Điều 16, Bộ luật dân sự 2015, năng lực pháp luật dân sự của cá nhân tồn tại khi nào?"
+q-466,"1. Quyền nhân thân không gắn với tài sản và quyền nhân thân gắn với tài sản.
+
+2. Quyền sở hữu, quyền thừa kế và quyền khác đối với tài sản.
+
+3. Quyền tham gia quan hệ dân sự và có nghĩa vụ phát sinh từ quan hệ đó.",91/2015/QH13,17,"Theo Bộ luật dân sự 2015, hãy mô tả nội dung năng lực pháp luật dân sự của cá nhân."
+q-467,"không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.",91/2015/QH13,18,"Theo Điều 18, Bộ luật dân sự 2015, năng lực pháp luật dân sự của cá nhân có bị hạn chế hay không?"
+q-468,"là khả năng của cá nhân bằng hành vi của mình xác lập, thực hiện quyền, nghĩa vụ dân sự.",91/2015/QH13,19,"Theo Bộ luật dân sự 2015, năng lực hành vi dân sự của cá nhân là gì?"
+q-469,người từ đủ mười tám tuổi trở lên.,91/2015/QH13,20,"Theo Bộ luật dân sự 2015, người thành niên là người như thế nào?"
+q-470,"có năng lực hành vi dân sự đầy đủ, trừ trường hợp quy định tại các điều 22, 23 và 24 của Bộ luật này.",91/2015/QH13,20,"Theo Bộ luật dân sự 2015, người thành niên có năng lực hành vi dân sự như thế nào?"
+q-471,người chưa đủ mười tám tuổi.,91/2015/QH13,21,"Theo Bộ luật dân sự 2015, người chưa thành niên là người như thế nào?"
+q-472,người đại diện theo pháp luật của người đó,91/2015/QH13,21,"Theo Điều 21, Bộ luật dân sự 2015, giao dịch dân sự của người chưa đủ sáu tuổi do ai xác lập và thực hiện?"
+q-473,"Khi một người do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định tuyên bố người này là người mất năng lực hành vi dân sự trên cơ sở kết luận giám định pháp y tâm thần.
+
+Khi không còn căn cứ tuyên bố một người mất năng lực hành vi dân sự thì theo yêu cầu của chính người đó hoặc của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất năng lực hành vi dân sự.",91/2015/QH13,22,"Theo Bộ luật dân sự 2015, công dân bị mất năng lực hành vi dân sự khi nào?"
+q-474,"1. Người thành niên do tình trạng thể chất hoặc tinh thần mà không đủ khả năng nhận thức, làm chủ hành vi nhưng chưa đến mức mất năng lực hành vi dân sự thì theo yêu cầu của người này, người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, trên cơ sở kết luận giám định pháp y tâm thần, Tòa án ra quyết định tuyên bố người này là người có khó khăn trong nhận thức, làm chủ hành vi và chỉ định người giám hộ, xác định quyền, nghĩa vụ của người giám hộ.",91/2015/QH13,23,"Theo Bộ luật dân sự 2015, người có khó khăn trong nhận thức và làm chủ hành vi là người như thế nào?"
+q-475,người đại diện theo pháp luật,91/2015/QH13,22,"Theo Điều 22, Bộ luật dân sự 2015, giao dịch dân sự của người mất năng lực hành vi dân sự phải do ai xác lập, thực hiện?"
+q-476,"nghiện ma túy, nghiện các chất kích thích khác dẫn đến phá tán tài sản của gia đình thì theo yêu cầu của người có quyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án có thể ra quyết định tuyên bố người này là người bị hạn chế năng lực hành vi dân sự.",91/2015/QH13,24,"Theo Điều 24, Bộ luật dân sự 2015, công dân bị hạn chế năng lực hành vi dân sự khi nào?"
+q-477,"quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp luật khác có liên quan quy định khác.",91/2015/QH13,25,"Theo Điều 25, Bộ luật dân sự 2015, quyền nhân thân là gì?"
+q-478,"vợ, chồng hoặc con thành niên của người đó; trường hợp không có những người này thì phải được sự đồng ý của cha, mẹ của người bị tuyên bố mất tích, người đã chết, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.",91/2015/QH13,25,"Theo Điều 25, Bộ luật dân sự 2015, việc xác lập, thực hiện quan hệ dân sự liên quan đến quyền nhân thân của người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của ai?"
+q-479,"xác định theo họ, tên khai sinh của người đó.",91/2015/QH13,26,"Theo Điều 26, Bộ luật dân sự 2015, họ tên của một người được xác định như thế nào?"
+q-480,"a) Thay đổi họ cho con đẻ từ họ của cha đẻ sang họ của mẹ đẻ hoặc ngược lại;
+
+b) Thay đổi họ cho con nuôi từ họ của cha đẻ hoặc mẹ đẻ sang họ của cha nuôi hoặc họ của mẹ nuôi theo yêu cầu của cha nuôi, mẹ nuôi;
+
+c) Khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại họ cho người đó theo họ của cha đẻ hoặc mẹ đẻ;
+
+d) Thay đổi họ cho con theo yêu cầu của cha đẻ, mẹ đẻ hoặc của con khi xác định cha, mẹ cho con;
+
+đ) Thay đổi họ của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình;
+
+e) Thay đổi họ theo họ của vợ, họ của chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại họ trước khi thay đổi;
+
+g) Thay đổi họ của con khi cha, mẹ thay đổi họ;
+
+h) Trường hợp khác do pháp luật về hộ tịch quy định.",91/2015/QH13,27,"Theo Điều 27, Bộ luật dân sự 2015, cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi họ trong trường hợp nào?"
+q-481,không,91/2015/QH13,27,"Theo Điều 27, Bộ luật dân sự 2015, việc thay đổi họ của cá nhân có làm thay đổi, chấm dứt quyền, nghĩa vụ dân sự được xác lập theo họ cũ hay không?"
+q-482,"a) Theo yêu cầu của người có tên mà việc sử dụng tên đó gây nhầm lẫn, ảnh hưởng đến tình cảm gia đình, đến danh dự, quyền, lợi ích hợp pháp của người đó;
+
+b) Theo yêu cầu của cha nuôi, mẹ nuôi về việc thay đổi tên cho con nuôi hoặc khi người con nuôi thôi làm con nuôi và người này hoặc cha đẻ, mẹ đẻ yêu cầu lấy lại tên mà cha đẻ, mẹ đẻ đã đặt;
+
+c) Theo yêu cầu của cha đẻ, mẹ đẻ hoặc người con khi xác định cha, mẹ cho con;
+
+d) Thay đổi tên của người bị lưu lạc đã tìm ra nguồn gốc huyết thống của mình;
+
+đ) Thay đổi tên của vợ, chồng trong quan hệ hôn nhân và gia đình có yếu tố nước ngoài để phù hợp với pháp luật của nước mà vợ, chồng người nước ngoài là công dân hoặc lấy lại tên trước khi thay đổi;
+
+e) Thay đổi tên của người đã xác định lại giới tính, người đã chuyển đổi giới tính;
+
+g) Trường hợp khác do pháp luật về hộ tịch quy định.",91/2015/QH13,28,"Theo Điều 28, Bộ luật dân sự 2015, cá nhân có quyền yêu cầu cơ quan nhà nước có thẩm quyền công nhận việc thay đổi tên trong trường hợp nào?"
+q-483,"1. Cá nhân từ khi sinh ra có quyền được khai sinh.
+
+2. Cá nhân chết phải được khai tử.
+
+3. Trẻ em sinh ra mà sống được từ hai mươi bốn giờ trở lên mới chết thì phải được khai sinh và khai tử; nếu sinh ra mà sống dưới hai mươi bốn giờ thì không phải khai sinh và khai tử, trừ trường hợp cha đẻ, mẹ đẻ có yêu cầu.
+
+4. Việc khai sinh, khai tử do pháp luật về hộ tịch quy định.",91/2015/QH13,30,"Mô tả quyền được khai sinh, khai tử theo Bộ luật dân sự 2015."
+q-484,"1. Cá nhân có quyền có quốc tịch.
+
+2. Việc xác định, thay đổi, nhập, thôi, trở lại quốc tịch Việt Nam do Luật quốc tịch Việt Nam quy định.
+
+3. Quyền của người không quốc tịch cư trú, sinh sống trên lãnh thổ Việt Nam được bảo đảm theo luật.",91/2015/QH13,31,Mô tả quyền đối với quốc tịch theo Bộ luật dân sự 2015.
+q-485,"Việc sử dụng hình ảnh của cá nhân phải được người đó đồng ý.
+
+Việc sử dụng hình ảnh của người khác vì mục đích thương mại thì phải trả thù lao cho người có hình ảnh, trừ trường hợp các bên có thỏa thuận khác.",91/2015/QH13,32,"Theo Điều 32, Bộ luật dân sự 2015, cá nhân có quyền đối với hình ảnh của mình như thế nào?"
+q-486,"a) Hình ảnh được sử dụng vì lợi ích quốc gia, dân tộc, lợi ích công cộng;
+
+b) Hình ảnh được sử dụng từ các hoạt động công cộng, bao gồm hội nghị, hội thảo, hoạt động thi đấu thể thao, biểu diễn nghệ thuật và hoạt động công cộng khác mà không làm tổn hại đến danh dự, nhân phẩm, uy tín của người có hình ảnh.",91/2015/QH13,32,"Theo Điều 32, Bộ luật dân sự 2015, sử dụng hình ảnh trong trường hợp nào thì không cần có sự đồng ý của người có hình ảnh hoặc người đại diện theo pháp luật của họ?"
+q-487,"yêu cầu Tòa án ra quyết định buộc người vi phạm, cơ quan, tổ chức, cá nhân có liên quan phải thu hồi, tiêu hủy, chấm dứt việc sử dụng hình ảnh, bồi thường thiệt hại và áp dụng các biện pháp xử lý khác theo quy định của pháp luật.",91/2015/QH13,32,"Theo Điều 32, Bộ luật dân sự 2015, việc sử dụng hình ảnh mà vi phạm quy định tại Điều này thì người có hình ảnh có quyền?"
+q-488,"a) Có sự đồng ý của người đó trước khi chết;
+
+b) Có sự đồng ý của cha, mẹ, vợ, chồng, con thành niên hoặc người giám hộ nếu không có ý kiến của người đó trước khi chết;
+
+c) Theo quyết định của người đứng đầu cơ sở khám bệnh, chữa bệnh hoặc của cơ quan nhà nước có thẩm quyền trong trường hợp luật quy định.",91/2015/QH13,33,"Theo Điều 33, Bộ luật dân sự 2015, việc khám nghiệm tử thi được thực hiện khi thuộc các trường hợp nào?"
+q-489,bất khả xâm phạm và được pháp luật bảo vệ.,91/2015/QH13,34,"Theo Điều 34, Bộ luật dân sự 2015, danh dự, nhân phẩm, uy tín của cá nhân là?"
+q-490,"yêu cầu người đưa ra thông tin xin lỗi, cải chính công khai và bồi thường thiệt hại.",91/2015/QH13,34,"Theo Điều 34, Bộ luật dân sự 2015, cá nhân bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín thì ngoài quyền yêu cầu bác bỏ thông tin đó còn có quyền gì?"
+q-491,giới tính của người đó bị khuyết tật bẩm sinh hoặc chưa định hình chính xác mà cần có sự can thiệp của y học nhằm xác định rõ giới tính.,91/2015/QH13,36,"Theo Điều 36, Bộ luật dân sự 2015, việc xác định lại giới tính của một người được thực hiện trong trường hợp nào?"
+q-492,đăng ký thay đổi hộ tịch theo quy định của pháp luật về hộ tịch; có quyền nhân thân phù hợp với giới tính đã được xác định lại theo quy định của Bộ luật này và luật khác có liên quan.,91/2015/QH13,36,"Theo Điều 36, Bộ luật dân sự 2015, cá nhân đã thực hiện việc xác định lại giới tính có các quyền và nghĩa vụ như thế nào?"
+q-493,"Việc đại diện cho Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở trung ương, ở địa phương tham gia quan hệ dân sự được thực hiện theo quy định của pháp luật về chức năng, nhiệm vụ, quyền hạn và tổ chức bộ máy của cơ quan nhà nước. Việc đại diện thông qua cá nhân, pháp nhân khác chỉ được thực hiện trong các trường hợp và theo trình tự, thủ tục do pháp luật quy định.",91/2015/QH13,98,Bộ luật dân sự 2015 quy định thế nào về Đại diện tham gia quan hệ dân sự?
+q-494,"Việc xác định tài sản chung của các thành viên của tổ chức khác không có tư cách pháp nhân, quyền, nghĩa vụ đối với tài sản này được xác định theo thỏa thuận của các thành viên, trừ trường hợp pháp luật có quy định khác.",91/2015/QH13,102,"Theo Điều 102 , Bộ luật dân sự 2015, tài sản chung của các thành viên của tổ chức khác không có tư cách pháp nhân, quyền, nghĩa vụ đối với tài sản này được xác định như thế nào?"
+q-495,"Tài sản hình thành trong tương lai bao gồm:
+
+a) Tài sản chưa hình thành;
+
+b) Tài sản đã hình thành nhưng chủ thể xác lập quyền sở hữu tài sản sau thời điểm xác lập giao dịch.",91/2015/QH13,108,Theo Bộ luật Dân sự năm 2015 tài sản hình thành trong tương lai bao gồm những loại tài sản nào?
+q-496,"Tài sản hiện có là tài sản đã hình thành và chủ thể đã xác lập quyền sở hữu, quyền khác đối với tài sản trước hoặc tại thời điểm xác lập giao dịch.",91/2015/QH13,108,Bộ luật Dân sự năm 2015 quy định như thế nào về tài sản hiện có?
+q-497,"Quyền sở hữu, quyền khác đối với tài sản là động sản không phải đăng ký, trừ trường hợp pháp luật về đăng ký tài sản có quy định khác.",91/2015/QH13,106,"Theo Bộ luật Dân sự 2015, Quyền sở hữu, quyền khác đối với tài sản là động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền không?"
+q-498,"Khi người bị tuyên bố mất tích trở về hoặc có tin tức xác thực là người đó còn sống thì theo yêu cầu của người đó hoặc của người có quyền, lợi ích liên quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố mất tích đối với người đó.",91/2015/QH13,70,Bộ luật Dân sự năm 2015 quy định như thế nào về huỷ bỏ quyết định tuyên bố mất tích?
+q-499,"Khi một người bị tuyên bố là đã chết trở về hoặc có tin tức xác thực là người đó còn sống thì theo yêu cầu của người đó hoặc của người có quyền, lợi ích liên quan, Tòa án ra quyết định hủy bỏ quyết định tuyên bố người đó là đã chết",91/2015/QH13,73,Bộ luật Dân sự năm 2015 quy định như thế nào về việc huỷ bỏ quyết định tuyên bố chết?
+q-500,"Một tổ chức được công nhận là pháp nhân khi có đủ các điều kiện sau đây:
+
+a) Được thành lập theo quy định của Bộ luật này, luật khác có liên quan;
+
+b) Có cơ cấu tổ chức theo quy định tại Điều 83 của Bộ luật này;
+
+c) Có tài sản độc lập với cá nhân, pháp nhân khác và tự chịu trách nhiệm bằng tài sản của mình;
+
+d) Nhân danh mình tham gia quan hệ pháp luật một cách độc lập.",91/2015/QH13,74,"Theo Bộ luật Dân sự năm 2015, một tổ chức được công nhận là pháp nhân trong trường hợp nào sau đây?"
+q-501,"Quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của Bộ luật này và pháp luật về đăng ký tài sản.",91/2015/QH13,106,"Theo Bộ luật Dân sự 2015, Quyền sở hữu, quyền khác đối với tài sản là bất động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền không?"
+q-502,"Bất động sản bao gồm:
+
+a) Đất đai;
+
+b) Nhà, công trình xây dựng gắn liền với đất đai;
+
+c) Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng;
+
+d) Tài sản khác theo quy định của pháp luật.",91/2015/QH13,107,"Theo Bộ luật Dân sự năm 2015, Bất động sản bao gồm những loại nào?"
+q-503,Lợi tức là khoản lợi thu được từ việc khai thác tài sản.,91/2015/QH13,109,"Theo Bộ luật Dân sự 2015, lợi tức được hiểu như thế nào?"
+q-504,Nơi cư trú của cá nhân là nơi người đó thường xuyên sinh sống.,91/2015/QH13,40,Bộ luật Dân sự 2015 quy định thế nào về nơi lưu trú cá nhân?
+q-505,"1. Khi một người biệt tích 02 năm liền trở lên, mặc dù đã áp dụng đầy đủ các biện pháp thông báo, tìm kiếm theo quy định của pháp luật về tố tụng dân sự nhưng vẫn không có tin tức xác thực về việc người đó còn sống hay đã chết thì theo yêu cầu của người có quyền, lợi ích liên quan, Tòa án có thể tuyên bố người đó mất tích.
+
+Thời hạn 02 năm được tính từ ngày biết được tin tức cuối cùng về người đó; nếu không xác định được ngày có tin tức cuối cùng thì thời hạn này được tính từ ngày đầu tiên của tháng tiếp theo tháng có tin tức cuối cùng; nếu không xác định được ngày, tháng có tin tức cuối cùng thì thời hạn này được tính từ ngày đầu tiên của năm tiếp theo năm có tin tức cuối cùng.",91/2015/QH13,68,Bộ luật Dân sự 2015 quy định thế nào về tuyên bố mất tích?
+q-506,Pháp nhân thương mại là pháp nhân có mục tiêu chính là tìm kiếm lợi nhuận và lợi nhuận được chia cho các thành viên.,91/2015/QH13,75,Bộ luật Dân sự 2015 quy định pháp nhân thương mại là gì?
+q-507,1. Pháp nhân phi thương mại là pháp nhân không có mục tiêu chính là tìm kiếm lợi nhuận; nếu có lợi nhuận thì cũng không được phân chia cho các thành viên.,91/2015/QH13,76,Bộ luật Dân sự 2015 quy định pháp nhân phi thương mại là gì?
+q-508,"1. Pháp nhân phải có tên gọi bằng tiếng Việt.
+
+2. Tên gọi của pháp nhân phải thể hiện rõ loại hình tổ chức của pháp nhân và phân biệt với các pháp nhân khác trong cùng một lĩnh vực hoạt động.
+
+3. Pháp nhân phải sử dụng tên gọi của mình trong giao dịch dân sự.
+
+4. Tên gọi của pháp nhân được pháp luật công nhận và bảo vệ.",91/2015/QH13,78,Bộ luật Dân sự 2015 quy định thế nào về tên gọi của pháp nhân?
+q-509,"Tài sản của pháp nhân bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của Bộ luật này, luật khác có liên quan.",91/2015/QH13,81,Bộ luật Dân sự 2015 quy định thế nào về tài sản của pháp nhân?
+q-510,"Chi nhánh, văn phòng đại diện là đơn vị phụ thuộc của pháp nhân, không phải là pháp nhân.",91/2015/QH13,84,"Bộ luật Dân sự 2015 quy định thế nào về chi nhánh, văn phòng đại diện của pháp nhân?"
+q-511,"Năng lực pháp luật dân sự của pháp nhân là khả năng của pháp nhân có các quyền, nghĩa vụ dân sự. Năng lực pháp luật dân sự của pháp nhân không bị hạn chế, trừ trường hợp Bộ luật này, luật khác có liên quan quy định khác.",91/2015/QH13,86,Theo Bộ luật dân sự 2015 năng lực pháp luật dân sự của pháp nhân có bị hạn chế không?
+q-512,"Pháp nhân giải thể trong trường hợp sau đây:
+
+a) Theo quy định của điều lệ;
+
+b) Theo quyết định của cơ quan nhà nước có thẩm quyền;
+
+c) Hết thời hạn hoạt động được ghi trong điều lệ hoặc trong quyết định của cơ quan nhà nước có thẩm quyền;
+
+d) Trường hợp khác theo quy định của pháp luật.",91/2015/QH13,93,"Theo Bộ luật dân sự 2015, pháp nhân giải thể trong trường hợp nào?"
+q-513,"1. Pháp nhân chấm dứt tồn tại trong trường hợp sau đây:
+
+a) Hợp nhất, sáp nhập, chia, chuyển đổi hình thức, giải thể pháp nhân theo quy định tại các điều 88, 89, 90, 92 và 93 của Bộ luật này;
+
+b) Bị tuyên bố phá sản theo quy định của pháp luật về phá sản.",91/2015/QH13,96,"Theo Bộ luật dân sự 2015, pháp nhân chấm dứt tồn tại trong trường hợp nào?"
+q-514,"1. Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương chịu trách nhiệm về nghĩa vụ dân sự do mình xác lập với nhà nước, pháp nhân, cá nhân nước ngoài trong trường hợp sau đây:
+
+a) Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định về việc từ bỏ quyền miễn trừ;
+
+b) Các bên trong quan hệ dân sự có thỏa thuận từ bỏ quyền miễn trừ;
+
+c) Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan nhà nước ở Trung ương, ở địa phương từ bỏ quyền miễn trừ.",91/2015/QH13,100,"Theo Bộ luật Dân sự 2015, Nhà nước Cộng hòa xã hội chủ nghĩa
+Việt Nam, cơ quan nhà nước ở trung ương, ở địa phương chịu trách nhiệm về
+nghĩa vụ dân sự do mình xác lập với nhà nước, pháp nhân, cá nhân nước
+ngoài trong trường hợp nào sau đây?"
+q-515,"1. Tài sản là vật, tiền, giấy tờ có giá và quyền tài sản.
+
+2. Tài sản bao gồm bất động sản và động sản. Bất động sản và động sản có thể là tài sản hiện có và tài sản hình thành trong tương lai.",91/2015/QH13,105,"Theo Bộ luật Dân sự 2015 “tài sản” được hiểu như thế nào và
+bao gồm những gì?"
+q-516,"Quyền sở hữu, quyền khác đối với tài sản là bất động sản được đăng ký theo quy định của Bộ luật này và pháp luật về đăng ký tài sản.",91/2015/QH13,106,"Theo Bộ luật Dân sự 2015, Quyền sở hữu, quyền khác đối với tài
+sản là bất động sản có được đăng ký tại cơ quan nhà nước có thẩm quyền
+không?"
+q-517,Hoa lợi là sản vật tự nhiên mà tài sản mang lại.,91/2015/QH13,109,"Theo Bộ luật Dân sự 2015, hoa lợi được hiểu như thế nào?"
+q-518,"Vật chính là vật độc lập, có thể khai thác công dụng theo tính năng.",91/2015/QH13,110,"Theo Bộ luật Dân sự 2015, vật chính được hiểu như thế nào?"
+q-519,"Vật phụ là vật trực tiếp phục vụ cho việc khai thác công dụng của vật chính, là một bộ phận của vật chính, nhưng có thể tách rời vật chính.",91/2015/QH13,110,"Theo Bộ luật Dân sự 2015, vật phụ được hiểu như thế nào?"
+q-520,Vật chia được là vật khi bị phân chia vẫn giữ nguyên tính chất và tính năng sử dụng ban đầu.,91/2015/QH13,111,"Theo Bộ luật Dân sự 2015, vật chia được được hiểu như thế nào?"
